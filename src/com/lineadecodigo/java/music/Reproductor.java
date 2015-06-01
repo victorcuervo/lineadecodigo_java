@@ -2,48 +2,38 @@ package com.lineadecodigo.java.music;
 
 /**
  * @file Reproductor.java
- * @version 1.0
- * @author Pablo Ruiz (http://lineadecodigo.com)
- * @date   23-abril-2010
+ * @version 2.0
+ * @author Pablo Ruiz + Víctor Cuervo (http://lineadecodigo.com)
+ * @date   01/junio/2015
  * @url    http://lineadecodigo.com/java/reproducir-musica-por-java/
- * @description Reproducir música por Java mediante las librerias de JavaZoom.  
+ * @description v1.0 Reproducir música por Java mediante las librerias de JavaZoom.
+ * 				v2.0 Adaptado  a la librería javazoom.jl
  */
 
 
 import java.io.File;
-import javazoom.jlgui.basicplayer.BasicPlayer;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import javazoom.jl.decoder.JavaLayerException;
+import javazoom.jl.player.Player;
 
 public class Reproductor {
-    private BasicPlayer player;
+    private Player player;
 
-    public Reproductor() {
-        player = new BasicPlayer();
+    public Reproductor(String sCancion) throws FileNotFoundException, JavaLayerException {
+        player = new Player(new FileInputStream(new File(sCancion)));
     }
 
     public void Play() throws Exception {
         player.play();
     }
-
-    public void AbrirFichero(String ruta) throws Exception {
-        player.open(new File(ruta));
-    }
-
-    public void Pausa() throws Exception {
-        player.pause();
-    }
-
-    public void Continuar() throws Exception {
-        player.resume();
-    }
-
-    public void Stop() throws Exception {
-        player.stop();
-    }
+    
 
     public static void main(String args[]){
         try {
-            Reproductor mi_reproductor = new Reproductor();
-            mi_reproductor.AbrirFichero("c:/temp/cancion.mp3");
+        	System.out.println("Cargando el reproductor");
+            Reproductor mi_reproductor = new Reproductor("c:/temp/cancion.mp3");
+            System.out.println("Ejecutando cancón");
             mi_reproductor.Play();
         } catch (Exception ex) {
             System.out.println("Error: " + ex.getMessage());
