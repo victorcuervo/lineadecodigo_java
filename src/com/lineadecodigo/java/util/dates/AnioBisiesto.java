@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.dates;
 /**
  * @file AnioBisiesto.java
  * @version 1.0
- * @author Emmanuel Ramos. (http://lineadecodigo.com)
+ * @author Víctor Cuervo. (http://lineadecodigo.com)
  * @date   03/junio/2015
  * @url    http://lineadecodigo.com/java/ano-bisiesto-en-java/
  * @description Código que calcula si un año es bisiesto.
