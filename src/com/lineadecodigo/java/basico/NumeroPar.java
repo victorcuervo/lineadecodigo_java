@@ -1,7 +1,7 @@
 package com.lineadecodigo.java.basico;
 
 /**
- * @file SaltoDeLinea.java
+ * @file NumeroPar.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   18/diciembre/2006
