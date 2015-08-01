@@ -6,19 +6,19 @@ package com.lineadecodigo.java.basico.matriz;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   19.julio.2015
  * @url    http://lineadecodigo.com/tag/java-array-matriz/
- * @description Clase Est‡tica que nos permite manipular matrices
+ * @description Clase Estï¿½tica que nos permite manipular matrices
  * 					- Imprimir Matriz por pantalla
- * 					- Generar Matriz con nœmeros aleatorios
+ * 					- Generar Matriz con nï¿½meros aleatorios
  * 					- Invertir una Matriz
  * 					- Transponer una Matriz
  * 					- Ver si dos matrices son iguales
  * 					- Suma de Matrices
  * 					- Resta de Matrices
- * 					- Multiplicaci—n de Matrices
+ * 					- Multiplicaciï¿½n de Matrices
  * 					- Matriz por un Escalar
  * 					- Matriz por Vector Columna
- * 					- Validar si una Matriz es SimŽtrica
- * 					- Validar si una Matriz es AntisimŽtrica
+ * 					- Validar si una Matriz es Simï¿½trica
+ * 					- Validar si una Matriz es Antisimï¿½trica
  */
 
 import java.util.Arrays;
@@ -38,7 +38,7 @@ public class Matriz {
 	}
 	
 	
-	// Matriz cargada con nœmeros aleatorios
+	// Matriz cargada con nÃºmeros aleatorios
 	public static int[][] aleatoria (int filas,int columnas) {
 		
 		int matriz[][] = new int[filas][columnas];
@@ -138,7 +138,7 @@ public class Matriz {
 		for (int x=0; x < multiplicacion.length; x++) {
             for (int y=0; y < multiplicacion[x].length; y++) {
             		
-            		// El nuevo bucle suma la multiplicaci—n de la fila por la columna
+            		// El nuevo bucle suma la multiplicaciï¿½n de la fila por la columna
             		for (int z=0; z<col_m1; z++) {
             			multiplicacion [x][y] += m1[x][z]*m2[z][y];
             		}
@@ -168,7 +168,7 @@ public class Matriz {
 		for (int x=0; x < multiplicacion.length; x++) {
 		    for (int y=0; y < multiplicacion[x].length; y++) {
 		    		
-		    		// El nuevo bucle suma la multiplicaci—n de la fila por la columna
+		    		// El nuevo bucle suma la multiplicaciï¿½n de la fila por la columna
 		    		for (int z=0; z<col_m1; z++) {
 		    			multiplicacion [x][y] += m1[x][z]*v[z];
 		    		}
@@ -192,7 +192,7 @@ public class Matriz {
 	
 	
 	
-	// Calcula si una matriz es AtinSimŽtrica. Es decir que coincidan su inversa con su transpuesta
+	// Calcula si una matriz es AtinSimï¿½trica. Es decir que coincidan su inversa con su transpuesta
 	public static boolean esAntiSimetrica(int[][] m){
 		
 		int[][] mi = Matriz.invertir(m);
@@ -206,7 +206,7 @@ public class Matriz {
 	}
 	
 	
-	// Calcula si una matriz es SimŽtrica. Es decir que es igual la matriz y su transpuesta
+	// Calcula si una matriz es Simï¿½trica. Es decir que es igual la matriz y su transpuesta
 	public static boolean esSimetrica(int[][] m) {
 		
 		int[][] mt = Matriz.transponer(m);
