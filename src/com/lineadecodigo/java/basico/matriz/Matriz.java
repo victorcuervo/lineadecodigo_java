@@ -53,7 +53,7 @@ public class Matriz {
 	}
 	
 	// Invertir Matriz
-	public static int[][] invertir (int[][] m1) {
+	public static int[][] negativa (int[][] m1) {
 		
 		int matriz[][] = new int[m1.length][m1[0].length];
 		
@@ -192,10 +192,10 @@ public class Matriz {
 	
 	
 	
-	// Calcula si una matriz es AtinSim�trica. Es decir que coincidan su inversa con su transpuesta
+	// Calcula si una matriz es AtinSimétrica. Es decir que coincidan su inversa con su transpuesta
 	public static boolean esAntiSimetrica(int[][] m){
 		
-		int[][] mi = Matriz.invertir(m);
+		int[][] mi = Matriz.negativa(m);
 		int[][] mt = Matriz.transponer(m);
 		
 		if (Arrays.deepEquals(mi, mt))

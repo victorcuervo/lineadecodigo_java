@@ -9,7 +9,6 @@ package com.lineadecodigo.java.basico.matriz;
  * @description Ejemplo que realiza una multiplicación de una matríz por un vector columna.
  */
 
-import com.working.basico.arrays.Matriz;
 
 public class MatrizPorVector {
 

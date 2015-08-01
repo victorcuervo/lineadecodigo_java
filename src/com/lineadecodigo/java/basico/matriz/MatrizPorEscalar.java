@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico.matriz;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/multiplicar-una-matriz-por-un-escalar-en-java/
- * @description Clase que realiza una multiplicación de una matriz por un escalar
+ * @description Clase que realiza una multiplicaci√≥n de una matriz por un escalar
  */
 
 

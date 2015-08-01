@@ -9,7 +9,6 @@ package com.lineadecodigo.java.basico.matriz;
  * @description Calcular si la matriz es simétrica. Es decir la matríz es igual a la transpuesta
  */
 
-import com.working.basico.arrays.Matriz;
 
 public class MatrizSimetrica {
 
