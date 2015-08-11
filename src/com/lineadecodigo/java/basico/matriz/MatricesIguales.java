@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico.matriz;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/comparar-matrices-en-java/
- * @description Código que compara que dos matrices sean iguales en número de elementos y contenidos.
+ * @description C√≥digo que compara que dos matrices sean iguales en n√∫mero de elementos y contenidos.
  */
 
 import java.util.Arrays;
