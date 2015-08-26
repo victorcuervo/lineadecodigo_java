@@ -40,7 +40,7 @@ public class AreaPentagono {
 		System.out.println("El área del pentagono es " + area);
 		
 		
-		
+		reader.close();
 		
 
 	}

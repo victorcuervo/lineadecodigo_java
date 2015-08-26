@@ -26,6 +26,8 @@ public class MayorDosNumerosMath {
         iNumero2 = reader.nextInt();
         
         System.out.println("El mayor de los dos números es " + Math.max(iNumero1, iNumero2));
+        
+        reader.close();
 
 	}
 

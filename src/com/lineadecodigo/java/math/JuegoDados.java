@@ -59,6 +59,7 @@ public class JuegoDados {
 		else
 			System.out.println("Gana " + jugador2 + " con " + puntosj2 + " puntos");
 		
+		reader.close();
 
 	}
 

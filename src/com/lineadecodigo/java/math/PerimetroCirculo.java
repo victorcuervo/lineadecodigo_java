@@ -25,7 +25,7 @@ public class PerimetroCirculo {
 		
 		System.out.println("Un círculo de rádio " + radio + "tiene un perímetro de " + perimetro);
 		
-		
+		reader.close();
 
 	}
 
