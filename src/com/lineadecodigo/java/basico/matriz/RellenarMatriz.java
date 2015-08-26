@@ -1,4 +1,4 @@
-package com.lineadecodigo.java.basico.arrays;
+package com.lineadecodigo.java.basico.matriz;
 
 import java.util.Scanner;
 
