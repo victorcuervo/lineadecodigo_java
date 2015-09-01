@@ -25,7 +25,9 @@ public class LeerFicheroTexto {
 			String sCadena;
 			while ((sCadena = bf.readLine())!=null) {
 				System.out.println(sCadena);
-			} 
+			}
+			
+			bf.close();
 				
 			 
 		} catch (FileNotFoundException fnfe){
