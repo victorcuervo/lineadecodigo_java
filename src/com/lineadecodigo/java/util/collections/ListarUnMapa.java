@@ -22,7 +22,7 @@ public class ListarUnMapa {
 		hm.put("2","Amaya");
 		hm.put("3","Julio");
 
-		// Añadimos un elemento con clave existente. Se sobrescribe su valor
+		// AÃ±adimos un elemento con clave existente. Se sobrescribe su valor
 		// ya que no puede haber valores duplicados
 		hm.put("1","Victor");
 		   
