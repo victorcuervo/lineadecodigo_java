@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.arrays;
 import java.util.Arrays;
 
 /**
- * @file RotarArray.java
+ * @file OrdenarArray.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   12/marzo/2016
