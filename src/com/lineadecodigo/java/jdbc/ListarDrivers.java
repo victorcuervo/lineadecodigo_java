@@ -6,7 +6,7 @@ package com.lineadecodigo.java.jdbc;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   5-agosto-2007
  * @url  http://lineadecodigo.com/2007/08/05/listar-los-drivers-con-jdbc/
- * @description Utilización de la clase DriverManager para listar los drivers cargados en el sistema, así como la información relativa a los mismos.  
+ * @description Utilizaciï¿½n de la clase DriverManager para listar los drivers cargados en el sistema, asï¿½ como la informaciï¿½n relativa a los mismos.  
  */
 
 import java.sql.*;
@@ -26,9 +26,9 @@ public class ListarDrivers {
 	     e.printStackTrace();
 	   }
 	   
-	   for (Enumeration e = DriverManager.getDrivers(); e.hasMoreElements() ;) {
+	   for (Enumeration<Driver> e = DriverManager.getDrivers(); e.hasMoreElements() ;) {
 	   
-	     Driver driver = (Driver)e.nextElement();
+	     Driver driver = e.nextElement();
 	     System.out.println("Nombre: " + driver.getClass().getName());
 	     System.out.println("Version: " + driver.getMajorVersion());
 	     System.out.println("Release: " + driver.getMinorVersion());
