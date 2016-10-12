@@ -31,7 +31,7 @@ public class ConsultarTablaSinConocerCampos {
 	      
 	      rs = stmt.executeQuery();
 	      
-	      // Desconocemos el número de columnas y filas que tiene la tabla
+	      // Desconocemos el nÃºmero de columnas y filas que tiene la tabla
 	      // Primero pintamos los nombres de las columnas
 	      for (int x=1;x<=rs.getMetaData().getColumnCount();x++)
     		  System.out.print(rs.getMetaData().getColumnName(x)+ "\t");

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.jdbc;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   27-marzo-2011
  * @url  http://lineadecodigo.com/java/actualizar-datos-con-jdbc/
- * @description Utilización de JDBC y una sentencia UPDATE para actualizar los datos de una base de datos.  
+ * @description Utilizaciï¿½n de JDBC y una sentencia UPDATE para actualizar los datos de una base de datos.  
  */
 
 import java.sql.Connection;
@@ -24,19 +24,19 @@ public class ActualizarDatos {
 	    String sDriver = "com.mysql.jdbc.Driver";
 	    String sURL = "jdbc:mysql://localhost:3306/lineadecodigo";
 	    
-	    // Cargamos el driver y realizamos la conexión
+	    // Cargamos el driver y realizamos la conexiÃ³n
 	    try{
 		Class.forName(sDriver).newInstance();    
 		con = DriverManager.getConnection(sURL,"root","");		      
 		      
 		stmt = con.prepareStatement("UPDATE paises SET pais=? WHERE codigo=?");
-		stmt.setString(1,"España");
+		stmt.setString(1,"EspaÃ±a");
 		stmt.setString(2,"ES");
 
 		int retorno = stmt.executeUpdate();
 				      		
 		if (retorno>0) {
-			System.out.println("Actualización ejecutada correctamente");	
+			System.out.println("ActualizaciÃ³n ejecutada correctamente");	
 		}
 		
 		      

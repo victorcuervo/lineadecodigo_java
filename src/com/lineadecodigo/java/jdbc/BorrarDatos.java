@@ -25,7 +25,7 @@ public class BorrarDatos {
 	    String sDriver = "com.mysql.jdbc.Driver";
 	    String sURL = "jdbc:mysql://localhost:3306/lineadecodigo";
 	    
-	    // Cargamos el driver y realizamos la conexión
+	    // Cargamos el driver y realizamos la conexiÃ³n
 	    try{
 		Class.forName(sDriver).newInstance();    
 		con = DriverManager.getConnection(sURL,"root","");		      

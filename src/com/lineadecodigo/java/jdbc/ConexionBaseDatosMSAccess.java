@@ -6,7 +6,7 @@ package com.lineadecodigo.java.jdbc;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   27/noviembre/2006
  * @url  http://lineadecodigo.com/java/jdbc-conectarse-a-una-base-de-datos-ms-access/
- * @description Realizar una conexión a una BD MS Access mediante ODBC.
+ * @description Realizar una conexiï¿½n a una BD MS Access mediante ODBC.
  */
 
 import java.sql.*;
@@ -38,12 +38,12 @@ public class ConexionBaseDatosMSAccess {
 	          System.out.println (rs.getString("pais"));
 
 	      } catch (SQLException sqle) { 
-	           System.out.println("Error en la ejecución:" 
+	           System.out.println("Error en la ejecuciÃ³n:" 
 	             + sqle.getErrorCode() + " " + sqle.getMessage());    
 	      }
 	   
 	    } catch (Exception e) { 
-	      System.out.println("Error en la conexión:" + e.toString() );
+	      System.out.println("Error en la conexiÃ³n:" + e.toString() );
 	    } finally {
 	      try {
 	        // Cerramos posibles conexiones abiertas

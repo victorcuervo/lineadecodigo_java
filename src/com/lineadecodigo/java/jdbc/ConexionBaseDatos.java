@@ -6,7 +6,7 @@ package com.lineadecodigo.java.jdbc;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   8-agosto-2007
  * @url  http://lineadecodigo.com/2007/08/10/conectarnos-a-una-base-de-datos-con-jdbc/
- * @description Realizar una conexión JDBC con drivers tipo 1 a una base de datos 
+ * @description Realizar una conexiï¿½n JDBC con drivers tipo 1 a una base de datos 
  */
 
 import java.sql.*;
@@ -38,12 +38,12 @@ public class ConexionBaseDatos {
 	          System.out.println (rs.getString("pais"));
 
 	      } catch (SQLException sqle) { 
-	           System.out.println("Error en la ejecución:" 
+	           System.out.println("Error en la ejecuciÃ³n:" 
 	             + sqle.getErrorCode() + " " + sqle.getMessage());    
 	      }
 	   
 	    } catch (Exception e) { 
-	      System.out.println("Error en la conexión:" + e.toString() );
+	      System.out.println("Error en la conexiÃ³n:" + e.toString() );
 	    } finally {
 	      try {
 	        // Cerramos posibles conexiones abiertas

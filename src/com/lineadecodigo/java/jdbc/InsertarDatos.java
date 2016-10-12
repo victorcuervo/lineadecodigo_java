@@ -24,7 +24,7 @@ public class InsertarDatos {
 	    String sURL = "jdbc:mysql://localhost:3306/lineadecodigo";
 
 	    
-	    // Cargamos el driver y realizamos la conexión
+	    // Cargamos el driver y realizamos la conexiÃ³n
 	    try{
 		Class.forName(sDriver).newInstance();    
 		con = DriverManager.getConnection(sURL,"root","");
@@ -32,8 +32,8 @@ public class InsertarDatos {
 
 		String sISBN = "84-9815-212-7";
 		String sTitulo = "Yo, Claudio";
-		String sDescripcion="Supuesta autobiografía de Claudio";
-		String sCategoria = "Novela Histórica";
+		String sDescripcion="Supuesta autobiografÃ­a de Claudio";
+		String sCategoria = "Novela HistÃ³rica";
 		int idAutor = 3;
 		      
 		stmt = con.prepareStatement("INSERT INTO libros VALUES (?,?,?,?,?)");

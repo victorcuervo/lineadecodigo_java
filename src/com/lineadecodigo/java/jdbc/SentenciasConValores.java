@@ -6,7 +6,7 @@ package com.lineadecodigo.java.jdbc;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   31-julio-2007
  * @url  http://lineadecodigo.com/2007/08/01/consultas-sql-con-parametros-en-java-jdbc/
- * @description Realizar una select con parámetros en Java.  
+ * @description Realizar una select con parï¿½metros en Java.  
  */
 
 import java.sql.*;
@@ -45,12 +45,12 @@ public class SentenciasConValores {
 	          rs.getString("ciudad"));
 	        }
 	      } catch (SQLException sqle) { 
-	          System.out.println("Error en la ejecución:"
+	          System.out.println("Error en la ejecuciï¿½n:"
 	            + sqle.getErrorCode() 
 	            + " " + sqle.getMessage());    
 	      }
 	    } catch (Exception e) { 
-	        System.out.println("Error en la conexión:" + e.toString() );
+	        System.out.println("Error en la conexiÃ³n:" + e.toString() );
 	    } finally {
 	        try {
 	         // Cerramos posibles conexiones abiertas
