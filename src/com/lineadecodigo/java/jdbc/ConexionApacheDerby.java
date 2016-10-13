@@ -5,7 +5,7 @@ package com.lineadecodigo.java.jdbc;
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   13/octubre/2016
- * @url  http://lineadecodigo.com/java/xxx/
+ * @url  http://lineadecodigo.com/java/conexion-java-con-derby/
  * @description Conexión JDBC a Apache Derby
  */
 
