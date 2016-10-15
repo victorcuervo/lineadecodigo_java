@@ -17,12 +17,12 @@ public class ForEach {
 	public static void main(String[] args) {
 
 		// Listar un array
-		String array[] = {"Avila", "Burgos", "León", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid", "Zamora"};
+		String array[] = {"Avila", "Burgos", "LeÃ³n", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid", "Zamora"};
 		 
 		for (String elemento: array)
 		  System.out.println(elemento);
 		
-		// Listar una colección
+		// Listar una colecciÃ³n
 		List<String> list = new ArrayList<String>();
 		list.add("Victor");
 		list.add("Amaya");
