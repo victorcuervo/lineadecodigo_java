@@ -1,5 +1,14 @@
 package com.lineadecodigo.java.jdbc;
 
+/**
+ * @file ControlarSQLException.java
+ * @version 1.0
+ * @author Linea de Codigo (http://lineadecodigo.com)
+ * @date   16/octubre/2016
+ * @url  http://lineadecodigo.com/java/controlar-sqlexception/
+ * @description Cómo controlar una SQLException y mostrar información relacionada con ella.
+ */
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
