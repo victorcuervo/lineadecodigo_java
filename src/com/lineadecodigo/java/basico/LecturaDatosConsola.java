@@ -5,9 +5,9 @@ package com.lineadecodigo.java.basico;
  * @file LecturaDatosConsola.java
  * @version 1.1
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   7-octubre-2007
+ * @date   7/octubre/2007
  * @url    http://lineadecodigo.com/2006/12/16/lectura-de-datos-por-consola-en-java/
- * @description Utilización de un buffer para leer datos del usuario por consola.
+ * @description UtilizaciÃ³n de un buffer para leer datos del usuario por consola.
  */
 
 import java.io.BufferedReader;
