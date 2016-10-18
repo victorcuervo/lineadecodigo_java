@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 /**
  * @file SumarNumerosTeclado.java
- * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   29-diciembre-2008
+ * @version 1.2
+ * @author LÃ­nea de CÃ³digo (http://lineadecodigo.com)
+ * @date   29/diciembre/2008
  * @url    http://lineadecodigo.com/2009/01/22/sumar-dos-numeros-con-java/
- * @description Suma dos números insertados por teclado 
+ * @description Suma dos nÃºmeros insertados por teclado 
  */
 
 public class SumarNumerosTeclado {
@@ -21,16 +21,18 @@ public class SumarNumerosTeclado {
 
 		Scanner reader = new Scanner(System.in);
 		
-		System.out.println("Introduce el primer número:");			
+		System.out.println("Introduce el primer nÃºmero:");			
 		numero1 = reader.nextInt();
 			
-		System.out.println("Introduce el segundo número:");
+		System.out.println("Introduce el segundo nÃºmero:");
 		numero2 = reader.nextInt();
 			
 		// Sumamos
 		resultado = numero1+numero2;
 		
 		System.out.println("La suma es " + numero1 + " + " + numero2 + " = " + resultado);
+		
+		reader.close();
 			
 	}
 
