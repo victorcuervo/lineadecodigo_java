@@ -20,6 +20,9 @@ public class CrearJTextField extends JFrame {
 		super("Crear un JTextField");
 		JTextField input = new JTextField("texto por defecto",20);
 		add(input);
+		
+		setSize(200,100);
+		setVisible(true);
 	}
 	
 	public static void main(String[] args) {
