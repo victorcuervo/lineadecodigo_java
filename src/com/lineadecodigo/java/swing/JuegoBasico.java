@@ -4,9 +4,9 @@ package com.lineadecodigo.java.swing;
  * @file JuegoBasico.java
  * @version 1.0
  * @author Ariel Carraro (http://lineadecodigo.com)
- * @date   12-octubre-2012
+ * @date   12/octubre/2012
  * @url    http://lineadecodigo.com/java/un-juego-sencillo-con-java-swing/
- * @description Juego Básico con Java Swing para adivinar la suma de dos números
+ * @description Juego BÃ¡sico con Java Swing para adivinar la suma de dos nÃºmeros
  */
 
 
@@ -45,10 +45,10 @@ public class JuegoBasico extends JFrame{
 
 
 	   JPanel panel=new JPanel();   
-	   panel.add(new JLabel("Número 1:"));
+	   panel.add(new JLabel("Nï¿½mero 1:"));
 	   panel.add(txtNum1);
 	   panel.add(new JLabel("+"));
-	   panel.add(new JLabel("Número 2:"));
+	   panel.add(new JLabel("Nï¿½mero 2:"));
 	   panel.add(txtNum2);
 	   panel.add(new JLabel("=  Resultado"));
 	   panel.add(txtResultado);

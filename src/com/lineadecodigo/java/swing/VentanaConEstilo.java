@@ -4,9 +4,9 @@ package com.lineadecodigo.java.swing;
  * @file VentanaConEstilo.java
  * @version 1.0
  * @author PabloRuiz (http://lineadecodigo.com)
- * @date   09.octubre.2010
+ * @date   09/octubre/2010
  * @url    http://lineadecodigo.com/java/ventanas-con-estilo-gracias-a-substances/
- * @description Utilización de substances para dar estilo a un JFrame
+ * @description UtilizaciÃ³n de substances para dar estilo a un JFrame
  */
 
 

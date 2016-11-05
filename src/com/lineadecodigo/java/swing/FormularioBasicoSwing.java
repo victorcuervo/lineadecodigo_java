@@ -4,9 +4,9 @@ package com.lineadecodigo.java.swing;
  * @file FormularioBasicoSwing.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   3-junio-2010
+ * @date   3/junio/2010
  * @url    http://lineadecodigo.com/java/formulario-basico-con-java-swing/
- * @description Crea un formilario b·sico (etiqueta, campo de texto y botÛn con Java Swing.
+ * @description Crea un formilario b√°sico (etiqueta, campo de texto y bot√≥n con Java Swing.
  */
 
 import java.awt.FlowLayout;
@@ -17,7 +17,7 @@ public class FormularioBasicoSwing extends JFrame {
 	private static final long serialVersionUID = 1L;
 
 	public FormularioBasicoSwing() {
-		super("Formulario B·sico");	
+		super("Formulario B√°sico");	
 		
 		 getContentPane().setLayout(new FlowLayout());
 		

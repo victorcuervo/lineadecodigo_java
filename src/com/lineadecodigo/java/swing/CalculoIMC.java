@@ -4,9 +4,9 @@ package com.lineadecodigo.java.swing;
  * @file CalculoIMC.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   17-diciembre-2012
+ * @date   17/diciembre/2012
  * @url    http://lineadecodigo.com/java/calcular-el-indice-de-masa-corporal-con-java/
- * @description Calculo del ’ndice de masa corporal.
+ * @description Calculo del Ã­ndice de masa corporal.
  */
 
 import javax.swing.JOptionPane;
@@ -24,7 +24,7 @@ class CalculoIMC {
 		persona.talla = Double.parseDouble(JOptionPane
 				.showInputDialog("talla: "));
 
-		// concatenaci—n
+		// concatenaciï¿½n
 		persona.asignar(persona.nombre, persona.edad, persona.peso,
 				persona.talla).verDatos();
 

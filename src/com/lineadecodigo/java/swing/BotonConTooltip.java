@@ -4,9 +4,9 @@ package com.lineadecodigo.java.swing;
  * @file CerrarVenatana.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   27-agosto-2010
+ * @date   27/agosto/2010
  * @url    http://lineadecodigo.com/java/anadir-un-tooltip-a-un-jbutton/
- * @description C�digo que nos permite a�adir un tooltip a un bot�n
+ * @description Código que nos permite añadir un tooltip a un botón
  */
 
 import java.awt.FlowLayout;

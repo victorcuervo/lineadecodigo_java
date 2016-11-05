@@ -4,7 +4,7 @@ package com.lineadecodigo.java.swing;
  * @file CentrarJFrame.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   25-spetiembre-2010
+ * @date   25/spetiembre/2010
  * @url    http://lineadecodigo.com/java/centrar-un-jframe/
  * @description Centrar un JFrame en la pantalla.
  */

@@ -4,7 +4,7 @@ package com.lineadecodigo.java.swing;
  * @file HolaMundoSwing.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   1-junio-2010
+ * @date   1/junio/2010
  * @url    http://lineadecodigo.com/java/hola-mundo-con-swing/
  * @description Reemplazar contenido de un texto  
  */
