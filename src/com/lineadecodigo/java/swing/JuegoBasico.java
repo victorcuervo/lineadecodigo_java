@@ -45,10 +45,10 @@ public class JuegoBasico extends JFrame{
 
 
 	   JPanel panel=new JPanel();   
-	   panel.add(new JLabel("N�mero 1:"));
+	   panel.add(new JLabel("Número 1:"));
 	   panel.add(txtNum1);
 	   panel.add(new JLabel("+"));
-	   panel.add(new JLabel("N�mero 2:"));
+	   panel.add(new JLabel("Número 2:"));
 	   panel.add(txtNum2);
 	   panel.add(new JLabel("=  Resultado"));
 	   panel.add(txtResultado);
