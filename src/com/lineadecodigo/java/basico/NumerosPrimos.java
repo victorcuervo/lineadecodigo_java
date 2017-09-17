@@ -4,8 +4,8 @@ package com.lineadecodigo.java.basico;
  * @file NumerosPrimos.java
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  01-enero-2009
- * @url    http://lineadecodigo.com/2006/11/26/numeros-primos-en-java/
+ * @date  01/enero/2009
+ * @url    http://lineadecodigo.com/java/numeros-primos-en-java/
  * @description Listar los números primos.
  */
 
