@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file FactorialDeUnNumero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   27.marzo.2011
+ * @author VÃ­ctor Cuervo - http://lineadecodigo.com
+ * @date   27/marzo/2011
  * @url    http://lineadecodigo.com/java/factorial-de-un-numero/
  * @description Calculo de un factorial  
  */
@@ -33,8 +33,8 @@ public class FactorialDeUnNumero {
 			iContador--;
 		}
 		
-		System.out.println("El factorial del número " + Integer.toString(iNumero) +  " es " + Integer.toString(iFactorial));		;
-		System.out.println("El factorial del número " + Integer.toString(iNumero) +  " es " + Integer.toString(factorial(iNumero)));
+		System.out.println("El factorial del nÃºmero " + Integer.toString(iNumero) +  " es " + Integer.toString(iFactorial));		;
+		System.out.println("El factorial del nÃºmero " + Integer.toString(iNumero) +  " es " + Integer.toString(factorial(iNumero)));
 		
 	}	
 }
