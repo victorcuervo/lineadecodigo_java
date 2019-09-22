@@ -6,7 +6,7 @@ package com.lineadecodigo.java.util.dates;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   16-octubre-2007
  * @url    http://lineadecodigo.com/2007/10/16/obtener-fecha-actual-con-java/
- * @description Obtener la fecha del día con Java.  
+ * @description Obtener la fecha del dÃ­a con Java.  
  */
 
 import java.util.Calendar;

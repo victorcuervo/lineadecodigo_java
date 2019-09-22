@@ -10,7 +10,7 @@ import java.util.Vector;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   22/marzo/2009
  * @url  http://lineadecodigo.com/2009/03/25/ordenar-un-vector-de-forma-alfabetica-con-java/
- * @description Ordenar un Vector mediante la clase Collections y su m�todo .sort. Apoyandonos en un Comparador creado por nosotros.
+ * @description Ordenar un Vector mediante la clase Collections y su método .sort. Apoyandonos en un Comparador creado por nosotros.
  */
 
 class Comparador implements Comparator<String> {
@@ -27,7 +27,7 @@ public class OrdenarVectorAlfabeticamente {
 
 		
 		Vector<String> miVector = new Vector<String>();
-		miVector.add("Victor");
+		miVector.add("Víctor");
 		miVector.add("julio");
 		miVector.add("amaya");			
 				

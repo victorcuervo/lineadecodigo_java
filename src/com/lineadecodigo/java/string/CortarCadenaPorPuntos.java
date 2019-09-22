@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
  * @date Diciembre 27, 2012
  * @url http://lineadecodigo.com/java/string-cortar-cadena-por-puntos/
- * @description C—digo que nos permite cortar el contenido de una cadena por cada uno de los puntos que la componen.
+ * @description CÃ³digo que nos permite cortar el contenido de una cadena por cada uno de los puntos que la componen.
  */
 
 public class CortarCadenaPorPuntos {

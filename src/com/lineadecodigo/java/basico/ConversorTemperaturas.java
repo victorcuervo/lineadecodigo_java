@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   06/enero/2013
  * @url     http://lineadecodigo.com/java/convertir-temperatura-de-grados-centigrados-a-grados-farenheit-en-java/
- * @description Programa que convierte grados centígrados en grados farenheit y viceversa.  
+ * @description Programa que convierte grados cent√≠grados en grados farenheit y viceversa.  
  */
 
 public class ConversorTemperaturas {
@@ -56,7 +56,7 @@ public class ConversorTemperaturas {
 		double centigrados = 32;
 		ct.setCentigrades(centigrados);
 		
-		System.out.println(centigrados + " grados centígrados son " + ct.getFarenheit() + " grados farenheit");
+		System.out.println(centigrados + " grados cent√≠grados son " + ct.getFarenheit() + " grados farenheit");
 		
 	}
 

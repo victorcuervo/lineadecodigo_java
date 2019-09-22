@@ -6,14 +6,14 @@ package com.lineadecodigo.java.basico.variables;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/valores-maximo-y-minimo-de-los-tipos-primitivos-java/
- * @description Mostrar valores máximo y mínimo de los tipos de datos primitivos en Java
+ * @description Mostrar valores m√°ximo y m√≠nimo de los tipos de datos primitivos en Java
  */
 
 public class ValoresMaxMin {
 	
 	public static void main(String[] args) {
 	
-		System.out.println("Tipo\tMínimo\tMáximo");
+		System.out.println("Tipo\tM√≠nimo\tM√°ximo");
 		System.out.println("byte\t" + Byte.MIN_VALUE + "\t" + Byte.MAX_VALUE);
 		System.out.println("short\t" + Short.MIN_VALUE + "\t" + Short.MAX_VALUE);
 		System.out.println("int\t" + Integer.MIN_VALUE + "\t" + Integer.MAX_VALUE);

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file IteradorLista.java
  * @version 1.0
- * @author V’ctor Cuervo (http://lineadecodigo.com)
+ * @author Vï¿½ctor Cuervo (http://lineadecodigo.com)
  * @date   9-noviembre-2014
  * @url    http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/
  * @description Utilizar un ListIterator para recorrer una lista en ambas direcciones
@@ -18,7 +18,7 @@ public class IteradorLista {
 		
 		ArrayList<String> al = new ArrayList<String>();
 		
-		// A–adir elementos a un ArrayList
+		// AÃ±adir elementos a un ArrayList
 		al.add("Victor");
 		al.add("Luis");
 		al.add("Elena");

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   23/octubre/2010
  * @url    http://lineadecodigo.com/java/contar-las-vocales-de-una-palabra-con-java/
- * @description Código que cuenta las vocales de una palabra 
+ * @description CÃ³digo que cuenta las vocales de una palabra 
  */
 
 public class VocalesPalabra {

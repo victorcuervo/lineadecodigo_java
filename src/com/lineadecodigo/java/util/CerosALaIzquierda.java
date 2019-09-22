@@ -5,7 +5,7 @@ package com.lineadecodigo.java.util;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date 27-octubre-2009   
  * @url  http://lineadecodigo.com/java/anadir-ceros-a-la-izquierda/
- * @description Añade ceros a la izquierda de un número hasta completar su tamaño.  
+ * @description AÃ±ade ceros a la izquierda de un nÃºmero hasta completar su tamaÃ±o.  
  */
 
 import java.util.Formatter;
@@ -21,7 +21,7 @@ public class CerosALaIzquierda {
 		fmt.format("%08d",numero);
 		System.out.println("El numero formateado " + fmt);
 		
-		fmt.format("Primer número %1$08d - Segundo número %2$08d ",numero,numero2);
+		fmt.format("Primer nÃºmero %1$08d - Segundo nÃºmero %2$08d ",numero,numero2);
 		System.out.println(fmt);
 		
 

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file ObtenerElementoLista.java
  * @version 1.0
- * @author V’ctor Cuervo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   9-noviembre-2014
  * @url    http://lineadecodigo.com/java/obtener-elemento-de-un-arraylist/
  * @description Obtener un elemento de un ArrayList.
@@ -17,7 +17,7 @@ public class ObtenerElementoLista {
 
 		ArrayList<String> al = new ArrayList<String>();
 		
-		// A–adir elementos a un ArrayList
+		// AÃ±adir elementos a un ArrayList
 		al.add("Victor");
 		al.add("Luis");
 		al.add("Elena");

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   5-junio-2007
  * @url    http://lineadecodigo.com/2007/06/05/tablas-de-multiplicar-en-java/
- * @description Creación de un programa que bajo petición de un número calcule su tabla de multiplicar.  
+ * @description CreaciÃ³n de un programa que bajo peticiÃ³n de un nÃºmero calcule su tabla de multiplicar.  
  */
 
 import java.io.*;
@@ -20,24 +20,24 @@ public class TablasDeMultiplicar {
 		   BufferedReader br = new BufferedReader(isr);
 
 
-		   // Variables para el manejo del número
+		   // Variables para el manejo del nÃºmero
 		   String sNumero = ""; 
 		   Integer iNumero = null;
 		   int iNumeroCalculo;
 		   
-		   // Pedimos por consola el número del cual queremos
+		   // Pedimos por consola el nÃºmero del cual queremos
 		   // la tabla de multiplicar
 		   
-		   System.out.println("Introduce el número de la tabla de multiplicar");
+		   System.out.println("Introduce el nÃºmero de la tabla de multiplicar");
 		   
 		   try {
 		   
 		     // Leemos del buffer 
 		     sNumero = br.readLine(); 
-		     // Convertimos la cadena a un número Integer
+		     // Convertimos la cadena a un nÃºmero Integer
 		     iNumero = new Integer(sNumero);
 
-		     System.out.println("El número introducido es " + sNumero);
+		     System.out.println("El nÃºmero introducido es " + sNumero);
 		     iNumeroCalculo = iNumero.intValue();
 		   
 		     // Mostramos la tabla de multiplicar
@@ -48,7 +48,7 @@ public class TablasDeMultiplicar {
 		   } catch (IOException ioe){
 		     System.out.println("No se pudo leer de consola");
 		   }catch (NumberFormatException nfe){
-		     System.out.println("El valor introducido no es válido"); 
+		     System.out.println("El valor introducido no es vÃ¡lido"); 
 		   }
 	}
 

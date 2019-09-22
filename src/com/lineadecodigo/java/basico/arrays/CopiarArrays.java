@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   19-junio-2007
  * @url    http://lineadecodigo.com/2007/06/19/copiar-arrays-en-java/
- * @description Utilizar el mÈtodo .arrayCopy para copiar arrays.
+ * @description Utilizar el m√©todo .arrayCopy para copiar arrays.
  */
 
 public class CopiarArrays {
@@ -14,7 +14,7 @@ public class CopiarArrays {
 	 public static void main(String[] args) {
 		   
 	   //Array Uno
-	   String a1[] = {"Avila","Burgos","LeÛn","Palencia","Salamanca",
+	   String a1[] = {"Avila","Burgos","Le√≥n","Palencia","Salamanca",
 	     "Segovia","Soria","Valladolid","Zamora"};	   
 	   //Array Dos. Por el momento vacio
 	   String[] a2 = new String[9]; 
@@ -23,7 +23,7 @@ public class CopiarArrays {
 	   System.out.println("Array Uno");
 	   listarArray(a1);
 	   
-	   //Listamos Array Dos. Estar· vacio.
+	   //Listamos Array Dos. Estar√° vacio.
 	   System.out.println("Array Dos");
 	   listarArray(a2);
 	   
@@ -35,7 +35,7 @@ public class CopiarArrays {
 	   System.out.println("Array Uno");
 	   listarArray(a1);
 	   
-	   //Listamos Array Dos. Ahora tendr· datos.
+	   //Listamos Array Dos. Ahora tendr√° datos.
 	   System.out.println("Array Dos");
 	   listarArray(a2); 
 	   
