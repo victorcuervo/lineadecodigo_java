@@ -6,8 +6,8 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   31/marzo/2009
  * @url  http://lineadecodigo.com/2009/03/31/validar-si-un-dato-es-numerico-con-patrones-en-java/
- * @description Valida si una cadena introducida por pantalla es un número mediante patrones
- * 		1.1	Incluido el patrón \\d*
+ * @description Valida si una cadena introducida por pantalla es un nÃºmero mediante patrones
+ * 		1.1	Incluido el patrÃ³n \\d*
  */
 
 public class IsNumericPattern {
@@ -18,29 +18,29 @@ public class IsNumericPattern {
 		String cadenaDos = "No soy un numero";
 	
 		
-		// Patrón [0-9]*
+		// PatrÃ³n [0-9]*
 		if (cadenaUno.matches("[0-9]*"))
-			System.out.println("Es un número");
+			System.out.println("Es un nÃºmero");
 		else
-			System.out.println("No es un número");
+			System.out.println("No es un nÃºmero");
 		
 		
 		if (cadenaDos.matches("[0-9]*"))
-			System.out.println("Es un número");
+			System.out.println("Es un nÃºmero");
 		else
-			System.out.println("No es un número");
+			System.out.println("No es un nÃºmero");
 		
-		// Patrón \d*
+		// PatrÃ³n \d*
 		if (cadenaUno.matches("\\d*"))
-			System.out.println("Es un número");
+			System.out.println("Es un nÃºmero");
 		else
-			System.out.println("No es un número");
+			System.out.println("No es un nÃºmero");
 		
 		
 		if (cadenaDos.matches("\\d*"))
-			System.out.println("Es un número");
+			System.out.println("Es un nÃºmero");
 		else
-			System.out.println("No es un número");
+			System.out.println("No es un nÃºmero");
 		
 		
 	}

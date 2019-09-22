@@ -6,7 +6,7 @@ package com.lineadecodigo.java.net;
  * @author  Christian G. Gimenez(http://lineadecodigo.com)
  * @date   27-junio-2012
  * @url    http://lineadecodigo.com/java/comprobar-conexion-a-internet-con-java/
- * @description Código que comprueba si hay una conexión.  
+ * @description Cï¿½digo que comprueba si hay una conexiï¿½n.  
  */
 
 import java.net.Socket;
@@ -21,10 +21,10 @@ public static void main(String[] args) {
 		try{
 			Socket s = new Socket(dirWeb, puerto);
 			if(s.isConnected()){
-			System.out.println("Conexión establecida con la dirección: " + dirWeb + " a travéz del puerto: " + puerto);
+			System.out.println("ConexiÃ³n establecida con la direcciÃ³n: " + dirWeb + " a travÃ©s del puerto: " + puerto);
 			}
-	}catch(Exception e){
-		System.err.println("No se pudo establecer conexión con: " + dirWeb + " a travez del puerto: " + puerto);
+	} catch(Exception e) {
+		System.err.println("No se pudo establecer conexiÃ³n con: " + dirWeb + " a travez del puerto: " + puerto);
 	}
 }
 }

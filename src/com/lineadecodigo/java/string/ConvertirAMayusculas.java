@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date 10-diciembre-2007   
  * @url  http://lineadecodigo.com/2007/12/10/convertir-una-cadena-a-mayusculas-en-java/
- * @description Utilización del método .toUpperCase() para convertir una cadena a mayúsculas.  
+ * @description UtilizaciÃ³n del mÃ©todo .toUpperCase() para convertir una cadena a mayÃºsculas.  
  */
 
 public class ConvertirAMayusculas {
@@ -16,7 +16,7 @@ public class ConvertirAMayusculas {
 
 		String sCadena = "Esto Es Una Cadena De TEXTO"; 
 		System.out.println("Cadena: " + sCadena);
-		System.out.println("Cadena en mayúsculas: " + sCadena.toUpperCase()); 		
+		System.out.println("Cadena en mayÃºsculas: " + sCadena.toUpperCase()); 		
 
 		
 	}

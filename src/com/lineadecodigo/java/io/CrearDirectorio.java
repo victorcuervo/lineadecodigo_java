@@ -6,7 +6,7 @@ package com.lineadecodigo.java.io;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   16-julio-2007
  * @url    http://lineadecodigo.com/2007/07/16/crear-un-directorio-con-java-io/
- * @description Creación de directorios mediante la clase File
+ * @description CreaciÃ³n de directorios mediante la clase File
  */
 
 import java.io.*;

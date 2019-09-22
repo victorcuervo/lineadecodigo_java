@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
  * @date Diciembre 27, 2012
  * @url http://lineadecodigo.com/java/string-primera-letra-de-cada-palabra-en-mayuscula/
- * @description Programa que convierte a mayúscula la primera letra de cada palabra.
+ * @description Programa que convierte a may√∫scula la primera letra de cada palabra.
  */
 
 public class PrimeraMayuscula {

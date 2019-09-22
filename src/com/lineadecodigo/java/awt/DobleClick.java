@@ -28,7 +28,7 @@ public class DobleClick extends Applet {
 		this.setSize(300, 200);
 		this.add(label1, null);
 		
-		// Añadimos el manejador
+		// AÃ±adimos el manejador
 		ManejoClicks mC = new ManejoClicks();
 	    this.addMouseListener(mC);
 

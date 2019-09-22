@@ -33,7 +33,7 @@ public class PalabraQueEmpiezaPor {
 		}	
 	
 		System.out.println("Lo siento '" + sTexto + "' no empieza por " + sInicio);
-		System.out.println("Tu puntuación es de " + contador);			
+		System.out.println("Tu puntuaciÃ³n es de " + contador);			
 	}
 
 }

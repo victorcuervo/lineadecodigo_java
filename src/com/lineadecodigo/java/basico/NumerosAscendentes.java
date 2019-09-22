@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   14/enero/2007
  * @url    http://lineadecodigo.com/java/numeros-ascendentes-en-java/
- * @description Uso de un bucle para conseguir una lista de números ascendentes.  
+ * @description Uso de un bucle para conseguir una lista de nÃºmeros ascendentes.  
  */
 
 public class NumerosAscendentes {

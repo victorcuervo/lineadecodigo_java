@@ -19,8 +19,6 @@ public class PotenciasDelDos {
 		
 		for (int x=0;x<=iNumeroPotencias;x++)
 			System.out.println("2 elevado a " + x + " igual a " + (int)Math.pow(2,x));
-		
-		
 
 	}
 

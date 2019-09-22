@@ -86,7 +86,7 @@ public class LecturaDatosConConsole {
 		answer = readLine();
 		System.out.println(answer);
 
-		answer = readLine("Inserta una línea: ");
+		answer = readLine("Inserta una l√≠nea: ");
 		System.out.println(answer);
 
 		answer = readPassword("Inserta una Password: ");

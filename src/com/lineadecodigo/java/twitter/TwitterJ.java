@@ -6,7 +6,7 @@ package com.lineadecodigo.java.twitter;
  * @author Pablo Ruiz (http://lineadecodigo.com)
  * @date   25-abril-2010
  * @url    http://lineadecodigo.com/java/usando-la-api-de-twitter4j-en-java/
- * @description Uso de la librería Twitter4J para comunicarnos con el API de Twitter
+ * @description Uso de la librerÃ­a Twitter4J para comunicarnos con el API de Twitter
  */
 
 import java.util.List;

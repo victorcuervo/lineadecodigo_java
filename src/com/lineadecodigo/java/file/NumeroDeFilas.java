@@ -6,7 +6,7 @@ package com.lineadecodigo.java.file;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   20/noviembre/2006
  * @url    http://lineadecodigo.com/java/numero-de-lineas-de-un-fichero/
- * @description Código que cuenta las filas de un fichero
+ * @description CÃ³digo que cuenta las filas de un fichero
  */
 
 import java.io.BufferedReader;

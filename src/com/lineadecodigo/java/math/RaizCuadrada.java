@@ -9,7 +9,7 @@ import java.io.*;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   3/febrero/2013
  * @url    http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/
- * @description Código fuente Java para calcular una raíz cuadrada
+ * @description C√≥digo fuente Java para calcular una ra√≠z cuadrada
  */
 
 public class RaizCuadrada {

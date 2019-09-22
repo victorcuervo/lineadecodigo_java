@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   22.junio.2009
  * @url  http://lineadecodigo.com/java/la-conjetura-capicua-con-java/
- * @description Como aplicar la conjetura capicua con Java. Mediante la suma de números.  
+ * @description Como aplicar la conjetura capicua con Java. Mediante la suma de nÃºmeros.  
  */
 
 import java.util.Scanner;
@@ -27,7 +27,7 @@ public class ConjeturaCapicua {
 		numeroInvertido=0;
 		resto=0;
 		
-		// El código que viene a continuación da la vuelta a un numero
+		// El cÃ³digo que viene a continuaciÃ³n da la vuelta a un numero
 		while(falta!=0)
 		{
 		 resto=falta%10;
@@ -47,7 +47,7 @@ public class ConjeturaCapicua {
 		long numero = 0;
 		
 		while (numero<=0) {
-			System.out.println("Dame un número:");
+			System.out.println("Dame un nÃºmero:");
 			numero = reader.nextLong();
 		}
 			
@@ -61,7 +61,7 @@ public class ConjeturaCapicua {
 		}
 		
 		if (numero == numeroInvertido)
-			System.out.println("El número capicua encontrado es " + numero);
+			System.out.println("El nÃºmero capicua encontrado es " + numero);
 		else
 			System.out.println("No tenemos capacidad de encontrar el capicua");
 		

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   25-marzo-2007
  * @url    http://lineadecodigo.com/java/numero-aleatorio-en-java/
- * @description Código para generar número aleatorios en Java entre 1 y 25 
+ * @description CÃ³digo para generar nÃºmero aleatorios en Java entre 1 y 25 
  */
 
 
@@ -15,7 +15,7 @@ public class NumeroAleatorio {
 	public static void main(String[] args) {
 
 		int numeroAleatorio = (int) (Math.random()*25+1);
-		System.out.println("El número aleatorio entre 1 y 25 es: " + numeroAleatorio);
+		System.out.println("El nÃºmero aleatorio entre 1 y 25 es: " + numeroAleatorio);
 			
 	}
 

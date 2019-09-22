@@ -52,7 +52,7 @@ public class Matriz {
 		return matriz;
 	}
 	
-	// Invertir Matriz
+	// Matriz Negativa
 	public static int[][] negativa (int[][] m1) {
 		
 		int matriz[][] = new int[m1.length][m1[0].length];
@@ -138,7 +138,7 @@ public class Matriz {
 		for (int x=0; x < multiplicacion.length; x++) {
             for (int y=0; y < multiplicacion[x].length; y++) {
             		
-            		// El nuevo bucle suma la multiplicaci�n de la fila por la columna
+            		// El nuevo bucle suma la multiplicación de la fila por la columna
             		for (int z=0; z<col_m1; z++) {
             			multiplicacion [x][y] += m1[x][z]*m2[z][y];
             		}
@@ -168,7 +168,7 @@ public class Matriz {
 		for (int x=0; x < multiplicacion.length; x++) {
 		    for (int y=0; y < multiplicacion[x].length; y++) {
 		    		
-		    		// El nuevo bucle suma la multiplicaci�n de la fila por la columna
+		    		// El nuevo bucle suma la multiplicación de la fila por la columna
 		    		for (int z=0; z<col_m1; z++) {
 		    			multiplicacion [x][y] += m1[x][z]*v[z];
 		    		}
@@ -206,7 +206,7 @@ public class Matriz {
 	}
 	
 	
-	// Calcula si una matriz es Sim�trica. Es decir que es igual la matriz y su transpuesta
+	// Calcula si una matriz es Simétrica. Es decir que es igual la matriz y su transpuesta
 	public static boolean esSimetrica(int[][] m) {
 		
 		int[][] mt = Matriz.transponer(m);

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   26-agosto-2007
  * @url    http://lineadecodigo.com/2007/08/26/java-y-la-palabra-mas-larga-de-una-frase/
- * @description Programa que calcula cual es la palabra m·s larga de una frase.  
+ * @description Programa que calcula cual es la palabra m√°s larga de una frase.  
  */
 
 
@@ -38,7 +38,7 @@ public class PalabraMasLarga {
 	      	System.out.println(sCadena);
 	    }
 	    
-	    System.out.println("La palabra m·s larga de la cadena es: " + palabraMasGrande + ", con " + palabraMasGrandeSize + " caracteres");
+	    System.out.println("La palabra m√°s larga de la cadena es: " + palabraMasGrande + ", con " + palabraMasGrandeSize + " caracteres");
 	    
 	}
 

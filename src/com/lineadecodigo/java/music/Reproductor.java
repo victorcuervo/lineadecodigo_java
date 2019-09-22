@@ -3,11 +3,11 @@ package com.lineadecodigo.java.music;
 /**
  * @file Reproductor.java
  * @version 2.0
- * @author Pablo Ruiz + Víctor Cuervo (http://lineadecodigo.com)
+ * @author Pablo Ruiz + VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   01/junio/2015
  * @url    http://lineadecodigo.com/java/reproducir-musica-por-java/
- * @description v1.0 Reproducir música por Java mediante las librerias de JavaZoom.
- * 				v2.0 Adaptado  a la librería javazoom.jl
+ * @description v1.0 Reproducir mÃºsica por Java mediante las librerias de JavaZoom.
+ * 				v2.0 Adaptado  a la librerÃ­a javazoom.jl
  */
 
 
@@ -33,7 +33,7 @@ public class Reproductor {
         try {
         	System.out.println("Cargando el reproductor");
             Reproductor mi_reproductor = new Reproductor("c:/temp/cancion.mp3");
-            System.out.println("Ejecutando cancón");
+            System.out.println("Ejecutando canciÃ³n");
             mi_reproductor.Play();
         } catch (Exception ex) {
             System.out.println("Error: " + ex.getMessage());
