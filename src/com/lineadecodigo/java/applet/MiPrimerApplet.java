@@ -3,10 +3,10 @@ package com.lineadecodigo.java.applet;
 /**
  * @file MiPrimerApplet.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   2-enero-2007
- * @url		http://lineadecodigo.com/2007/01/02/mi-primer-applet/
- * @description Creaci�n de un applet en Java
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   2/enero/2007
+ * @url		http://lineadecodigo.com/java/mi-primer-applet/
+ * @description Creación de un applet en Java
  */
 
 import java.applet.Applet;

@@ -3,10 +3,10 @@ package com.lineadecodigo.java.awt;
 /**
  * @file MiFrame.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   24-jun-2007
- * @url    http://lineadecodigo.com/2007/07/01/crear-un-frame-con-awt/
- * @description Crear un frame de AWT desde una aplicación Java  
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   24/junio/2007
+ * @url    http://lineadecodigo.com/java/crear-un-frame-con-awt/
+ * @description Crear un frame de AWT desde una aplicaciÃ³n Java  
  */
 
 import java.awt.*;
@@ -17,7 +17,7 @@ public class MiFrame {
 		
 	   Frame miFrame = new Frame("Mi primer frame");
 	
-	   // Modificamos el tamaño del frame... 
+	   // Modificamos el tamaÃ±o del frame... 
 	   int iAncho = 300;
 	   int iAlto = 300;
 	   miFrame.setSize(iAncho, iAlto);

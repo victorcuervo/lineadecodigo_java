@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NumeroImpar.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   10/diciembre/2006
  * @url  http://lineadecodigo.com/java/numeros-impares-en-java/
  * @description Código que nos ayuda a saber si un número es impar con Java

@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file MayorDosNumeros.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  14-mayo-2011
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date  14/mayo/2011
  * @url    http://lineadecodigo.com/java/mayor-de-dos-numeros/
- * @description Saber cuál es el mayor de dos números 
+ * @description Saber cuÃ¡l es el mayor de dos nÃºmeros 
  */
 
 import java.util.Scanner;
@@ -19,16 +19,18 @@ public class MayorDosNumeros {
 		Scanner reader = new Scanner(System.in);		
 		int iNumero1, iNumero2;
 		
-		System.out.println("Dame el primer nœmero");
+		System.out.println("Dame el primer nÃºmero");
 		iNumero1 = reader.nextInt();
 		
-		System.out.println("Dame el segundo nœmero");
+		System.out.println("Dame el segundo nÃºmero");
 		iNumero2 = reader.nextInt();
 		
 		if (iNumero1>iNumero2)
 			System.out.println(iNumero1 + " es mayor que " + iNumero2);
 		else
 			System.out.println(iNumero2 + " es mayor que " + iNumero1);
+		
+		reader.close();
 		
 	}
 	

@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Christian Portilla Pauca (http://lineadecodigo.com/author/xhrist14n/)
  * @date   14.Enero.2012
  * @url    http://lineadecodigo.com/java/crear-un-metodo-en-java/
- * @description Código de la explicación para crear un método en Java.
+ * @description C√≥digo de la explicaci√≥n para crear un m√©todo en Java.
  */
 
 

@@ -3,12 +3,11 @@ package com.lineadecodigo.java.basico;
 /**
  * @file SumatorioDeUnNumeroRecursivo.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   23-junio-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   23/junio/2007
  * @url    http://lineadecodigo.com/2007/06/24/sumatorio-de-un-numero-de-forma-recursiva/
  * @description Utilización de programación recursiva para calcular el sumatorio de un número en Java.  
  */
-
 
 public class SumatorioDeUnNumeroRecursivo {
 

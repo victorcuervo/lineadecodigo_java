@@ -3,17 +3,17 @@ package com.lineadecodigo.java.basico;
 /**
  * @file EjecutarUnComando.java
  * @version 1.0
- * @author Linea de Código (http://lineadecodigo.com)
- * @date   8/abr/2012
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   8/abril/2012
  * @url    http://lineadecodigo.com/java/convertir-un-numero-a-texto/
- * @description Convertir un número a formato texto. De 234 a "doscientos treinta y cuatro".
+ * @description Convertir un nÃºmero a formato texto. De 234 a "doscientos treinta y cuatro".
  */
 
 public class NumerosEnTexto {
 
 
 	public static String unidadEnTexto(int iNumero){
-		// Método que dado un número me lo devuelve en texto
+		// MÃ©todo que dado un nÃºmero me lo devuelve en texto
 		
 		switch(iNumero){
 			case 1:
@@ -44,7 +44,7 @@ public class NumerosEnTexto {
 	
 	public static String decenaEnTexto(int iDecena){
 
-		// 	Método que devuelve las decenas
+		// 	MÃ©todo que devuelve las decenas
 		
 		switch (iDecena){
 			case 1:
@@ -73,7 +73,7 @@ public class NumerosEnTexto {
 	
 	public static String decenas(int iDecena){
 		
-		// Las decenas del 10 no se pueden crear con una decena y la unidad. Cada uno es deferente.
+		// Las decenas del 10 no se pueden crear con una decena y la unidad. Cada uno es diferente.
 		
 		switch (iDecena){
 			case 11:
@@ -103,8 +103,8 @@ public class NumerosEnTexto {
 		
 		/*	Centenas
 			Ciento, doscientos, trescientos, cuatrocientos,...
-			Hay un factor común en dos,tres,cuatro,seis,siete,ocho,
-			Ciento, novecientos y quinientos no tinen nada en común.
+			Hay un factor comÃºn en dos,tres,cuatro,seis,siete,ocho,
+			Ciento, novecientos y quinientos no tinen nada en comÃºn.
 		*/
 		
 		switch (iCentena){

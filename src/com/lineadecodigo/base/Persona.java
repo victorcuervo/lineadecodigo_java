@@ -3,8 +3,8 @@ package com.lineadecodigo.base;
 /**
  * @file Persona.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   8-julio-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   8/julio/2007
  * @url		No Aplica
  * @description Clase de ejemplo que representa a una persona (nombre y edad)
  */

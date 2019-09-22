@@ -1,5 +1,14 @@
 package com.lineadecodigo.java.applet;
 
+/**
+ * @file CoordenadasRaton.java
+ * @version 1.0
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   4/marzo/2008
+ * @url		http://lineadecodigo.com/java/controlar-las-coordenadas-del-raton-en-un-applet/
+ * @description Applet que muestra las coordenadas del ratón por pantalla. 
+ */
+
 import java.applet.Applet;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
@@ -16,11 +25,11 @@ public class CoordenadasRaton extends Applet implements MouseMotionListener {
 	  }
 
 	  public void mouseDragged(MouseEvent e) {
-	    showStatus("Bot�n pulsado");
+	    showStatus("Botón pulsado");
 	  }
 
 	  public void mouseMoved(MouseEvent e) {
-	    showStatus("Posici�n del puntero X:" 
+	    showStatus("Posición del puntero X:" 
 	    + Integer.toString(e.getX()) + " Y:"
 	    + Integer.toString(e.getY()));
 	  }

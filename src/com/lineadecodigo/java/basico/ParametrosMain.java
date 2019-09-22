@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file ParametrosMain.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   28.febrero.2011
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   28/febrero/2011
  * @url  http://lineadecodigo.com/java/pasar-parametros-a-una-aplicacion-java/
  * @description Conocer que parámetros se pasan al método main  
  */

@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file UnaInstancia.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   22-febrero-2012
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   22/febrero/2012
  * @url  http://lineadecodigo.com/java/evitar-que-un-programa-java-se-cargue-dos-veces/  
  * @description  Controlar que nuestro programa Java se ejecute una única vez.
  */

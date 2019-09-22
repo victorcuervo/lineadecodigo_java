@@ -3,13 +3,11 @@ package com.lineadecodigo.java.basico;
 /**
  * @file SumatorioDeUnNumero.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   12-junio-2007
- * @url    http://lineadecodigo.com/2007/06/12/sumatorio-de-un-numero-en-java/
- * @description Utilización de un bucle para calcular el sumatorio de un número en Java.  
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   12/junio/2007
+ * @url    http://lineadecodigo.com/java/sumatorio-de-un-numero-en-java/
+ * @description UtilizaciÃ³n de un bucle para calcular el sumatorio de un nÃºmero en Java.  
  */
-
-
 
 public class SumatorioDeUnNumero {
 

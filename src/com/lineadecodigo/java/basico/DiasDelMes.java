@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file DiasDelMes.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   03/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   03/septiembre/2015
  * @url     http://lineadecodigo.com/java/dias-del-mes-en-java/
  * @description Ejemplo de agrupaciones de sentencias case para poder calcular los días del mes con Java.  
  */

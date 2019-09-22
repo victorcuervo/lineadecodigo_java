@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file DivisiblePor.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   28.julio.09
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   28/julio/09
  * @url    http://lineadecodigo.com/java/numeros-divisibles-con-java/
  * @description Como calcular si un número es divisible por otro.  
  */
@@ -30,6 +30,8 @@ public class DivisiblePor {
 			System.out.println(numero1 + " es divisible por " + numero2);
 		else
 			System.out.println(numero1 + " NO es divisible por " + numero2);
+		
+		reader.close();
 		
 		
 	}

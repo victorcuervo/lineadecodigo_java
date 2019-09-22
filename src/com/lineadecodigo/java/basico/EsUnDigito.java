@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file EsUnDigito.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   30/diciembre/2006
- * @url  http://lineadecodigo.com/java/¿es-ese-caracter-un-numero/
- * @description Valida si una cadena introducida por pantalla es un número
+ * @url  http://lineadecodigo.com/java/Â¿es-ese-caracter-un-numero/
+ * @description Valida si una cadena introducida por pantalla es un nÃºmero
  */
 
 public class EsUnDigito {
@@ -15,9 +15,9 @@ public class EsUnDigito {
 		
 		
 		if (Character.isDigit('3'))
-		    System.out.println("El caracter es un dígito");
+		    System.out.println("El caracter es un dÃ­gito");
 		else
-		    System.out.println("El caracter NO es un dígito");
+		    System.out.println("El caracter NO es un dÃ­gito");
 		
 
 	}

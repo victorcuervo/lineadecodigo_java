@@ -3,9 +3,9 @@ package com.lineadecodigo.java.awt;
 /**
  * @file DobleClick.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   24-junio-2007
- * @url    http://lineadecodigo.com/2007/06/24/detectando-un-doble-click-con-awt/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   24/junio/2007
+ * @url    http://lineadecodigo.com/java/detectando-un-doble-click-con-awt/
  * @description   Utilizar un manejador de eventos para detectar un doble click o triple click en un applet.
  */
 

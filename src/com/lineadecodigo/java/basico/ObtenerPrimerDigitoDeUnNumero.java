@@ -5,10 +5,10 @@ import java.util.Scanner;
 /**
  * @file ObtenerPrimerDigitoDeUnNumero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  10-enero-2009
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date  10/enero/2009
  * @url   http://lineadecodigo.com/2009/01/12/primer-digito-de-un-numero-con-java/
- * @description Solicitar un número por consola y devolver el primer dígito. 
+ * @description Solicitar un nÃºmero por consola y devolver el primer dÃ­gito. 
  */
 
 public class ObtenerPrimerDigitoDeUnNumero {
@@ -19,15 +19,17 @@ public class ObtenerPrimerDigitoDeUnNumero {
 		int iNumero, iTamanioNumero,iDesplazamiento;
 		String sNumero;
 		
-		System.out.println("Introduce un número por pantalla: ");
+		System.out.println("Introduce un nÃºmero por pantalla: ");
 		sNumero = reader.next();
 		iTamanioNumero = sNumero.length();
 		iNumero = Integer.parseInt(sNumero);
 		iDesplazamiento = Double.valueOf(Math.pow(10, iTamanioNumero-1)).intValue();
 		
 		
-		System.out.println("El primer dígito del número " + iNumero + " es el " + iNumero/iDesplazamiento);
+		System.out.println("El primer dÃ­gito del nÃºmero " + iNumero + " es el " + iNumero/iDesplazamiento);
 		System.out.println(iDesplazamiento);
+		
+		reader.close();
 		
 	}
 

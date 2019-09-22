@@ -6,10 +6,10 @@ import java.util.Scanner;
 /**
  * @file SignoZodiaco.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   6-agosto-2010
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
+ * @date   6/agosto/2010
  * @url    http://lineadecodigo.com/java/calcular-signo-del-zodiaco-con-java/
- * @description Programa que dada una fecha nos ayuda a saber cu·l es nuestro signo del zodiaco. UtilizaciÛn de swith. 
+ * @description Programa que dada una fecha nos ayuda a saber cu√°l es nuestro signo del zodiaco. Utilizaci√≥n de swith. 
  */
 
 public class SignoZodiaco {
@@ -22,10 +22,10 @@ public class SignoZodiaco {
 		
 		Scanner reader = new Scanner(System.in);
 
-		System.out.println("QuÈ dÌa naciste");
+		System.out.println("Qu√© d√≠aa naciste");
 		dia = reader.nextInt();
 	
-		System.out.println("QuÈ mes naciste");
+		System.out.println("Qu√© mes naciste");
 		mes = reader.nextInt();
 		
 		switch(mes) {		
@@ -104,6 +104,8 @@ public class SignoZodiaco {
 			default:
 				System.out.println("Mes no existente");
 		}
+		
+		reader.close();
 		
 
 	}

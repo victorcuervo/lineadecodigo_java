@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file Comunes.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   25/marzo/2009
  * @url  
  * @description Clase con un conjunto de operaciones comunes

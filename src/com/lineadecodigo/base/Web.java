@@ -3,8 +3,8 @@ package com.lineadecodigo.base;
 /**
  * @file Web.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   4-marzo-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   4/marzo/2007
  * @url		No Aplica
  * @description Clase de ejemplo que representa a una web (titulo + url)
  */

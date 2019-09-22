@@ -1,7 +1,15 @@
 package com.lineadecodigo.base;
 
-import java.io.Serializable;
+/**
+ * @file Persona.java
+ * @version 1.1
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
+ * @date   8/julio/2007
+ * @url		No Aplica
+ * @description Clase de ejemplo que representa a un Usuario
+ */
 
+import java.io.Serializable;
 
 public class Usuario implements Serializable {
 	
@@ -17,7 +25,7 @@ public class Usuario implements Serializable {
 
 	  public String toString() {
 	    String pwd = (password == null) ? "(n/a)" : password;
-	    return "Información Usuario: \n   Nombre: " + nombre + "\n Contraseña: " + pwd;
+	    return "Informaci√≥n Usuario: \n   Nombre: " + nombre + "\n Contrase√±a: " + pwd;
 	  }
 
 }

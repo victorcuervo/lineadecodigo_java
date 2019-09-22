@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file FactorialDeUnNumero.java
  * @version 1.0
- * @author Víctor Cuervo - http://lineadecodigo.com
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   27/marzo/2011
  * @url    http://lineadecodigo.com/java/factorial-de-un-numero/
  * @description Calculo de un factorial  

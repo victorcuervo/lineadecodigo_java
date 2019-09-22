@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file TablasMultiplicarRecursivas.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   12-febrero-2008
- * @url  http://lineadecodigo.com/2008/02/12/tablas-de-multiplicar-recursivas-en-java/  
- * @description  Utilización de programación recursiva para generar las tablas de multiplicar
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   12/febrero/2008
+ * @url  http://lineadecodigo.com/java/tablas-de-multiplicar-recursivas-en-java/  
+ * @description  UtilizaciÃ³n de programaciÃ³n recursiva para generar las tablas de multiplicar
  */
 
 public class TablasDeMultiplicarRecursivas {

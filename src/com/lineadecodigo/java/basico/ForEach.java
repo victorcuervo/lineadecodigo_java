@@ -6,8 +6,8 @@ import java.util.List;
 /**
  * @file ForEach.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   01-febrero-2009
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   01/febrero/2009
  * @url    http://lineadecodigo.com/2009/02/02/bucle-for-each-en-java/
  * @description Utilizar de bucle for-each 
  */

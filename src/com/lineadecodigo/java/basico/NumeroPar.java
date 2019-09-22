@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NumeroPar.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   18/diciembre/2006
  * @url  http://lineadecodigo.com/java/numeros-pares-en-java/
- * @description Código que nos ayuda a saber si un número es par con Java
+ * @description CÃ³digo que nos ayuda a saber si un nÃºmero es par con Java
  */
 
 public class NumeroPar {
@@ -20,10 +20,10 @@ public class NumeroPar {
 		if (esPar(4) )
 		    System.out.println("El numero es par");
 		else
-		    System.out.println("El número es impar");
+		    System.out.println("El nÃºmero es impar");
 		
 		if (!esPar(5))
-		    System.out.println("El número es impar");
+		    System.out.println("El nÃºmero es impar");
 
 	}
 

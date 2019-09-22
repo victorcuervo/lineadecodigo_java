@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file FinalizarUnObjeto.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   03.marzo.2011
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   03/marzo/2011
  * @url    http://lineadecodigo.com/java/finalizar-un-objeto-en-java/
- * @description Como crear el m�todo finalize en Java e invocarlo para que se ejecute
+ * @description Como crear el método finalize en Java e invocarlo para que se ejecute
  */
 
 

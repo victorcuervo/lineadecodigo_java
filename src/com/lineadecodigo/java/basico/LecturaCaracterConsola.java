@@ -3,12 +3,11 @@ package com.lineadecodigo.java.basico;
 /**
  * @file LecturaCaracterConsola.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   31-marzo-2007
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   31/marzo/2007
  * @url    http://lineadecodigo.com/2007/04/06/lectura-de-caracteres-por-consola-en-java/
- * @description Explicación de cómo se realiza una lectura de caracteres por teclado en una aplicación de consola.  
+ * @description ExplicaciÃ³n de cÃ³mo se realiza una lectura de caracteres por teclado en una aplicaciÃ³n de consola.  
  */
-
 
 import java.io.IOException;
 

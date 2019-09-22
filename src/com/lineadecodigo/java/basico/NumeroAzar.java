@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NumeroAzar.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  8-abril-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date  8/abril/2007
  * @url    http://lineadecodigo.com/2007/04/08/numero-al-azar-en-java/
  * @description Juego que consiste en acertar un número aleatorio generado al azar. 
  */

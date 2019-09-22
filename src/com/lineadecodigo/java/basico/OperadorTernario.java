@@ -3,17 +3,17 @@ package com.lineadecodigo.java.basico;
 /**
  * @file OperadorTernario.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   18/05/2010
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   18/mayo/2010
  * @url  http://lineadecodigo.com/java/el-operador-ternario-en-java/
- * @description Calculo del mayor de dos números mediante el operador ternario ?:
+ * @description Calculo del mayor de dos nÃºmeros mediante el operador ternario ?:
  */
 
 public class OperadorTernario {
 	
 	public static void main(String[] args) {
 	
-		// Calcular el mayor de dos números
+		// Calcular el mayor de dos nÃºmeros
 		int x=10;
 		int y=8;
 		int mayor;
@@ -25,11 +25,11 @@ public class OperadorTernario {
 		else
 			mayor = y;
 		
-		System.out.println("El mayor de dos números es el " + mayor);
+		System.out.println("El mayor de dos nÃºmeros es el " + mayor);
 		
 		// Con el operador ?
 		mayor=(x>y)?x:y;	
-		System.out.println("El mayor de dos números es el " + mayor);
+		System.out.println("El mayor de dos nÃºmeros es el " + mayor);
 
 	}
 

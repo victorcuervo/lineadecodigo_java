@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file Milisegundos2Hora.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   25-marzo-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   25/marzo/2007
  * @url    http://lineadecodigo.com/2007/03/29/milisegundos-a-hora-en-java/
- * @description Metodo que convierte los milisegundos en una hora  
+ * @description Método que convierte los milisegundos en una hora  
  */
 
 public class Milisegundos2Hora {

@@ -4,11 +4,10 @@ package com.lineadecodigo.java.basico;
  * @file UltimoDigitoIgual.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   21/sep/2015
+ * @date   21/septiembre/2015
  * @url    http://lineadecodigo.com/java/ultimo-digito-igual/
  * @description Comprobar si dados dos números estos tienen el último dígito igual.
  */
-
 
 public class UltimoDigitoIgual {
 	

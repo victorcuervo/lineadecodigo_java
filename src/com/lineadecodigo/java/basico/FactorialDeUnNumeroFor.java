@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file FactorialDeUnNumero.java
  * @version 1.0
- * @author Víctor Cuervo - http://lineadecodigo.com
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   17/septiembre/2017
  * @url    http://lineadecodigo.com/java/factorial-java-bucle-for/
  * @description Calcular un factorial mediante un bucle for

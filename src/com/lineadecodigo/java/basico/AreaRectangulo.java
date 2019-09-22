@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file AreaRectangulo.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   9-diciembre-2007
- * @url  http://lineadecodigo.com/2007/12/13/area-de-un-rectangulo-con-java/  
- * @description Calculo del �rea de un rectangulo con Java  
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   9/diciembre/2007
+ * @url  http://lineadecodigo.com/java/area-de-un-rectangulo-con-java/  
+ * @description Cálculo del área de un rectángulo con Java  
  */
 
 public class AreaRectangulo {

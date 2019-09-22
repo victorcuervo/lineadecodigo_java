@@ -3,9 +3,9 @@ package com.lineadecodigo.java.basico;
 /**
  * @file TablasDeMultiplicar.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   5-junio-2007
- * @url    http://lineadecodigo.com/2007/06/05/tablas-de-multiplicar-en-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   5/junio/2007
+ * @url    http://lineadecodigo.com/java/tablas-de-multiplicar-en-java/
  * @description Creación de un programa que bajo petición de un número calcule su tabla de multiplicar.  
  */
 

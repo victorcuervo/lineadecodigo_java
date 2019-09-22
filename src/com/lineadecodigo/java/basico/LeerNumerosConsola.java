@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file LeerNumerosConsola.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   18/octubre/2016
  * @url    http://lineadecodigo.com/java/leer-numeros-teclado-java/
  * @description Lee números por consola y genera una suma.

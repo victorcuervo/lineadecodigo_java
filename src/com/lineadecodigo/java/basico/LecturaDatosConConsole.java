@@ -4,7 +4,7 @@ package com.lineadecodigo.java.basico;
  * @file LecturaDatosConConsole.java
  * @version 1.0
  * @author Christian Portilla (http://lineadecodigo.com)
- * @date   30-diciembre-2012
+ * @date   30/diciembre/2012
  * @url    http://lineadecodigo.com/java/lectura-de-datos-mediante-la-clase-console-con-java/
  * @description Lectura de entradas de datos normales y passwords por consola mediante la clase Console.  
  */

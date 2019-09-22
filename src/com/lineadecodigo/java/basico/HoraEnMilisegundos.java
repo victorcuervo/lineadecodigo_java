@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file HoraEnMilisegundos.java
  * @version 1.0
- * @author Víctor Cuervo. (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   03/junio/2015
  * @url    http://lineadecodigo.com/java/hora-en-milisegundos-con-java/
- * @description Código que muestra la hora actual en milisegundos.
+ * @description CÃ³digo que muestra la hora actual en milisegundos.
  */
 
 public class HoraEnMilisegundos {

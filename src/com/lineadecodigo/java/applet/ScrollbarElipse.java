@@ -3,10 +3,10 @@ package com.lineadecodigo.java.applet;
 /**
  * @file ScrollbarElipse.java
  * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   9/enero/2015
  * @url		http://lineadecodigo.com/java/scrollbars-y-elipse/
- * @description Manejo de scrollbars dentro de un Applet para modificar el tamaño de una Elipse.
+ * @description Manejo de scrollbars dentro de un Applet para modificar el tama√±o de una Elipse.
  */
 
 import java.applet.Applet;
@@ -64,7 +64,7 @@ public class ScrollbarElipse extends Applet {
 		  
 		  public void adjustmentValueChanged (AdjustmentEvent evt)    {
 		 
-			// Método manejador del evento
+			// M√©todo manejador del evento
 			  
 		    if (evt.getAdjustable().getOrientation() == Adjustable.HORIZONTAL)
 		      ancho = evt.getValue(); 

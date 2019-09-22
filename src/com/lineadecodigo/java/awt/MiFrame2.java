@@ -3,8 +3,8 @@ package com.lineadecodigo.java.awt;
 /**
  * @file MiFrame2.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   24-jun-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   24/junio/2007
  * @url    http://lineadecodigo.com/2007/07/01/crear-un-frame-con-awt/
  * @description Clase que extiende de Frame convirtiendose en un frame. Esta clase se autoinstancia.
  */

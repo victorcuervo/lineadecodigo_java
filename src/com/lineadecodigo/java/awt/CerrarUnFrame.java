@@ -3,10 +3,10 @@ package com.lineadecodigo.java.awt;
 /**
  * @file CerrarUnFrame.java
  * @version 1.3
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   16-dic-2007
- * @url    http://lineadecodigo.com/2007/12/16/cerrar-un-frame-en-awt/
- * @description Crear un frame de AWT desde una aplicación Java y controlar el evento windowClosing
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   16/diciembre/2007
+ * @url    http://lineadecodigo.com/java/cerrar-un-frame-en-awt/
+ * @description Crear un frame de AWT desde una aplicaciÃ³n Java y controlar el evento windowClosing
  * 				para cerrar el frame.
  */
 
@@ -19,7 +19,7 @@ public class CerrarUnFrame {
 		
 		   Frame miFrame = new Frame("Mi primer frame");
 		
-		   // Modificamos el tamaño del frame... 
+		   // Modificamos el tamaÃ±o del frame... 
 		   int iAncho = 300;
 		   int iAlto = 300;
 		   miFrame.setSize(iAncho, iAlto);

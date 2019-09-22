@@ -3,9 +3,9 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NotasAmericanas.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   9-abril-2007
- * @url    http://lineadecodigo.com/2007/04/09/notas-americanas/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   9/abril/2007
+ * @url    http://lineadecodigo.com/java/notas-americanas/
  * @description Programa de aprendizaje que muestra como convertir las notas americanas en las españolas. Utilización de bucles do-while y estructuras selectivas switch. 
  */
 

@@ -3,13 +3,11 @@ package com.lineadecodigo.java.basico;
 /**
  * @file ParametrosVariables.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   08/sep/2015
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
+ * @date   08/septiembre/2015
  * @url  http://lineadecodigo.com/java/parametros-variables-en-java/
- * @description Implementar un mÈtodo con par·metros variables
+ * @description Implementar un m√©todo con par√°metros variables
  */
-
-
 
 public class ParametrosVariables {
 	

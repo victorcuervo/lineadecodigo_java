@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico;
 /**
  * @file ParametrosReferencia.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   08/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   08/septiembre/2015
  * @url  http://lineadecodigo.com/java/parametros-por-referencia-en-java/
  * @description Explicación del uso de parámetros "por referencia" en Java.
  */

@@ -3,17 +3,17 @@ package com.lineadecodigo.java.basico;
 /**
  * @file ListarElementosArray.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   17-junio-2007
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   17/junio/2007
  * @url    http://lineadecodigo.com/2007/06/17/listar-elementos-de-un-array/
- * @description Utilización de un bucle for para listar los elementos de un array.
+ * @description UtilizaciÃ³n de un bucle for para listar los elementos de un array.
  */
 
 public class ListarElementosArray {
 
 	 public static void main(String[] args) {
 		   
-		   String a[] = {"Avila","Burgos","León","Palencia",
+		   String a[] = {"Avila","Burgos","LeÃ³n","Palencia",
 		     "Salamanca","Segovia","Soria","Valladolid","Zamora"};
 		   
 		   // Volcamos los arrays

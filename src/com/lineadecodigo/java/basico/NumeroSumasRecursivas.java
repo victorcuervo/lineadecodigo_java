@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NumeroSumasRecursivas.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  18/febrero/2016
  * @url    http://lineadecodigo.com/java/numero-en-sumas-de-unidades-recursivo/
  * @description Sacar las sumas de un número mediante recursividad

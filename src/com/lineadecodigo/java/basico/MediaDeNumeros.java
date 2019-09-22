@@ -3,9 +3,9 @@ package com.lineadecodigo.java.basico;
 /**
  * @file MediaDeNumeros.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   23-abril-2007
- * @url    http://lineadecodigo.com/2007/04/23/calcular-media-de-numeros-con-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   23/abril/2007
+ * @url    http://lineadecodigo.com/java/calcular-media-de-numeros-con-java/
  * @description Utilización de arrays para el calculo de la media de una secuencia de numeros  
  */
 

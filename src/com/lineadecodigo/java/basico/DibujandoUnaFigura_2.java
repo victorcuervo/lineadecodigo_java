@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file DibujandoUnaFigura.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   23/abril/2009
  * @url     http://lineadecodigo.com/2009/04/23/dibujar-una-figura-con-bucles/
  * @description Como dibujar una figura en la consola. Aprendizaje del uso de bucles while. Incremento y decremento de bucles.  

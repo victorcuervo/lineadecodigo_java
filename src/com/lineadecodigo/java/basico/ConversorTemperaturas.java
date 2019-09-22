@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file ConversorTemperaturas.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   06/enero/2013
  * @url     http://lineadecodigo.com/java/convertir-temperatura-de-grados-centigrados-a-grados-farenheit-en-java/
  * @description Programa que convierte grados centígrados en grados farenheit y viceversa.  

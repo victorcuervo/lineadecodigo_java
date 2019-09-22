@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @file DividirNumeros.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   10/junio/2010
  * @url    http://lineadecodigo.com/java/dividir-dos-numeros-con-java/
  * @description Dividir dos números insertados por teclado 

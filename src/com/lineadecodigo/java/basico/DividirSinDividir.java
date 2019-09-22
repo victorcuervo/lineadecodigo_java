@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico;
 /**
  * @file DividirSinDividir.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   18/febrero/2016
  * @url    http://lineadecodigo.com/java/dividir-sin-dividir-con-java/
  * @description Calcular el cociente y resto de una división si utilizar el operador de división ni módulo

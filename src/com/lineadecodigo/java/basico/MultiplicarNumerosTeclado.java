@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico;
 /**
  * @file MultiplicarNumerosTeclado.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   28-diciembre-2008
- * @url    http://lineadecodigo.com/2007/12/30/multiplicar-dos-numeros-con-java/
- * @description Multiplica dos números insertados por teclado 
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   28/diciembre/2008
+ * @url    http://lineadecodigo.com/java/multiplicar-dos-numeros-con-java/
+ * @description Multiplica dos nÃºmeros insertados por teclado 
  */
 
 import java.io.BufferedReader;
@@ -25,11 +25,11 @@ public class MultiplicarNumerosTeclado {
 		br = new BufferedReader(new InputStreamReader(System.in));
 				
 		try{ 
-			// Pedimos los números por teclado
-			System.out.println("Introduce el primer número:");			
+			// Pedimos los nÃºmeros por teclado
+			System.out.println("Introduce el primer nÃºmero:");			
 			numero1 = Integer.parseInt(br.readLine());
 			
-			System.out.println("Introduce el segundo número:");
+			System.out.println("Introduce el segundo nÃºmero:");
 			numero2 = Integer.parseInt(br.readLine());
 			 
 		} catch (IOException ioe){
@@ -39,7 +39,7 @@ public class MultiplicarNumerosTeclado {
 		// Multiplicamos
 		resultado = numero1*numero2;
 		
-		System.out.println("La multiplicación es " + numero1 + " x " + numero2 + " = " + resultado);
+		System.out.println("La multiplicaciÃ³n es " + numero1 + " x " + numero2 + " = " + resultado);
 		
 		
 	}

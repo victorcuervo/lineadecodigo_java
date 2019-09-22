@@ -5,10 +5,10 @@ import com.lineadecodigo.java.basico.Comunes;
 /**
  * @file isNumeric.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   25/marzo/2009
  * @url  http://lineadecodigo.com/2006/12/29/validar-si-un-dato-es-numerico-en-java/
- * @description Valida si una cadena introducida por pantalla es un n�mero
+ * @description Valida si una cadena introducida por pantalla es un número
  */
 
 public class IsNumeric {

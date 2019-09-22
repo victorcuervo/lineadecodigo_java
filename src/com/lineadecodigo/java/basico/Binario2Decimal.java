@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @file Binario2Decimal.java
  * @version 1.0
  * @author Pablo Ruiz (http://lineadecodigo.com)
- * @date   02-octubre-2010
+ * @date   02/octubre/2010
  * @url    http://lineadecodigo.com/java/transformar-codigo-binario-a-decimal/
  * @description Convertir un código binario en decimal
  */

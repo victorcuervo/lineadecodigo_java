@@ -3,9 +3,9 @@ package com.lineadecodigo.java.basico;
 /**
  * @file NumerosPrimosRango.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  17/septiembre/2017
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/numeros-primos-rango-java/
  * @description Listar los números primos de un rango
  */
 

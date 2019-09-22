@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @file SumarNumerosTeclado.java
  * @version 1.2
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   29/diciembre/2008
  * @url    http://lineadecodigo.com/2009/01/22/sumar-dos-numeros-con-java/
  * @description Suma dos números insertados por teclado 
