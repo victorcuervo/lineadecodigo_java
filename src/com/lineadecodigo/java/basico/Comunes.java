@@ -11,7 +11,7 @@ package com.lineadecodigo.java.basico;
 
 public final class Comunes {
 	
-	// Validación de si una cadena es un número
+	// ValidaciÃ³n de si una cadena es un nÃºmero
 	public static boolean isNumeric(String cadena){
 		try {
 			Integer.parseInt(cadena);

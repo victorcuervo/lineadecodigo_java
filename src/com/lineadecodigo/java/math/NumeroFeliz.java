@@ -6,7 +6,7 @@ package com.lineadecodigo.java.math;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   5/mayo/2012
  * @url    http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/
- * @description Calculo sobre si un número es un número feliz.
+ * @description Calculo sobre si un nÃºmero es un nÃºmero feliz.
  */
 
 import java.util.HashSet;
@@ -17,11 +17,11 @@ public class NumeroFeliz {
 	
 	public static int[] digitosNumero(int iNumero){
 	
-		// Creamos un array del tamaño del número de dígitos del número
+		// Creamos un array del tamaÃ±o del nÃºmero de dÃ­gitos del nÃºmero
 		String x = Integer.toString(iNumero);
 		int[] iNumeros = new int[x.length()];
 		
-		// Método que devuelve los dígitos de un número
+		// MÃ©todo que devuelve los dÃ­gitos de un nÃºmero
 		int iDigito = 0;
 		while (iNumero>0){
 			iNumeros[iDigito] = iNumero%10;
@@ -41,7 +41,7 @@ public class NumeroFeliz {
 	
 		
 		int[] iNumeros = digitosNumero(iNumero);
-		System.out.println("Calculando si el número" + iNumero + " es un número feliz");
+		System.out.println("Calculando si el nÃºmero" + iNumero + " es un nÃºmero feliz");
 		
 		int iSuma = 0;
 		
@@ -53,7 +53,7 @@ public class NumeroFeliz {
 			
 			System.out.println(iSuma);
 			
-			// Controlamos si ha salido un número repetido. Para no entrar en el bucle.
+			// Controlamos si ha salido un nÃºmero repetido. Para no entrar en el bucle.
 			if (iCalculados.contains(new Integer(iSuma)))
 				bRepetido = true;				
 			else
@@ -61,9 +61,9 @@ public class NumeroFeliz {
 		}
 		
 		if (bRepetido)
-			System.out.println(iNumero + " NO es un número feliz");
+			System.out.println(iNumero + " NO es un nÃºmero feliz");
 		else
-			System.out.println(iNumero + " SI es un número feliz");
+			System.out.println(iNumero + " SI es un nÃºmero feliz");
 	}
 
 }

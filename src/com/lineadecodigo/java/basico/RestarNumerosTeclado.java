@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   5-agosto-2010
  * @url    http://lineadecodigo.com/java/restar-dos-numeros-con-java/
- * @description Resta dos números insertados por teclado 
+ * @description Resta dos nÃºmeros insertados por teclado 
  */
 
 import java.util.Scanner;
@@ -20,11 +20,11 @@ public class RestarNumerosTeclado {
 						
 		Scanner reader = new Scanner(System.in);
 
-		// Pedimos los números por teclado
-		System.out.println("Introduce el primer número:");			
+		// Pedimos los nÃºmeros por teclado
+		System.out.println("Introduce el primer nÃºmero:");			
 		numero1 = reader.nextInt();
 			
-		System.out.println("Introduce el segundo número:");
+		System.out.println("Introduce el segundo nÃºmero:");
 		numero2 = reader.nextInt();
 			
 		// Multiplicamos

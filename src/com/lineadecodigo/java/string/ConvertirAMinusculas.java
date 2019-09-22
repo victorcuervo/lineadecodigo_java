@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   6-agosto-2007
  * @url    http://lineadecodigo.com/2007/08/06/convertir-una-cadena-a-minusculas-en-java/
- * @description Utilización del método .toLowerCase() para convertir una cadena a minusculas.  
+ * @description UtilizaciÃ³n del mÃ©todo .toLowerCase() para convertir una cadena a minusculas.  
  */
 
 
@@ -16,7 +16,7 @@ public class ConvertirAMinusculas {
 		
 		String sCadena = "Esto Es Una Cadena De TEXTO"; 
 		System.out.println("Cadena: " + sCadena);
-		System.out.println("Cadena en minúsculas: " + sCadena.toLowerCase()); 		
+		System.out.println("Cadena en minÃºsculas: " + sCadena.toLowerCase()); 		
 
 	}
 

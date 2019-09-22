@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file CrearArrayList.java
  * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   9-noviembre-2014
  * @url    http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/
  * @description Reemplazar un elemento dentro de un ArrayList.
@@ -17,10 +17,10 @@ public class ReemplazarElementoLista {
 	public static void main(String[] args) {
 		
 		
-		// ArrayList con tamaño
+		// ArrayList con tama√±o
 		ArrayList<String> al = new ArrayList<String>();
 				
-		// Añadir elementos a un ArrayList
+		// A√±adir elementos a un ArrayList
 		al.add("Victor");
 		al.add("Luis");
 		al.add("Elena");

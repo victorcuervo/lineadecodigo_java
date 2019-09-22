@@ -6,7 +6,7 @@ package com.lineadecodigo.java.util.collections;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   09-noviembre-2010
  * @url     http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/
- * @description Clase que calcula la moda de una distribuci髇 utiliznado Java
+ * @description Clase que calcula la moda de una distribuci贸n utiliznado Java
  */
 
 
@@ -21,20 +21,20 @@ public class CalcularModa {
 	
 	public static void main(String[] args) {
 	
-		// Distribuci髇
+		// Distribuci贸n
 		int[] elementos = {1,3,4,5,3,2,1,2,2,1,5,5,8,9,6,6,3,4,3,1,3,5,3};
-		// Distribuci髇 bipolar
+		// Distribuci贸n bipolar
 		//int[] elementos = {1,3,4,5,3,2,1,2,2,1,8,9,6,6};
-		// Distribuci髇 sin moda
+		// Distribuci贸n sin moda
 		// int[] elementos = {1,2,3,4,5,6,7,8,9};
 		
-		// Valor que hace que sea el m醩 repetido
+		// Valor que hace que sea el m谩s repetido
 		int repeticiones = 0;
 		// Lista de valores de la moda
 		List<Integer> moda = new ArrayList<Integer>();
 		
 		
-		// Mapas con los el n鷐ero de valores de la distribuci髇
+		// Mapas con los el n煤mero de valores de la distribuci贸n
 		Map<Integer,Integer> m = new HashMap<Integer,Integer>();				
 		
 		for (int elemento: elementos){			
@@ -44,7 +44,7 @@ public class CalcularModa {
 				m.put(elemento,1);			
 		}
 				
-		// Analizamos los pares clave/valor para ver quien tiene mayor n鷐ero de repeticiones
+		// Analizamos los pares clave/valor para ver quien tiene mayor n煤mero de repeticiones
 		Iterator<Entry<Integer, Integer>> iter = m.entrySet().iterator();		
 	    while (iter.hasNext()) {	      
 	    	Entry<Integer,Integer> e = iter.next();	    	
@@ -59,7 +59,7 @@ public class CalcularModa {
 	    if (moda.size() == elementos.length)
 	    	System.out.println("No hay moda");
 	    else
-	    	System.out.println("La moda de la distribuci髇 es " + moda);
+	    	System.out.println("La moda de la distribuci贸n es " + moda);
 
 	}
 

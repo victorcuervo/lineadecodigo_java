@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   28.julio.09
  * @url    http://lineadecodigo.com/java/numeros-divisibles-con-java/
- * @description Como calcular si un número es divisible por otro.  
+ * @description Como calcular si un nÃºmero es divisible por otro.  
  */
 
 import java.util.Scanner;
@@ -15,14 +15,14 @@ public class DivisiblePor {
 
 	public static void main(String[] args) {
 		
-		// Pedimos los número por teclado
+		// Pedimos los nÃºmero por teclado
 		Scanner reader = new Scanner(System.in);
 		int numero1,numero2;
 
-		System.out.println("Introduce un número");
+		System.out.println("Introduce un nÃºmero");
 		numero1 = reader.nextInt();
 		
-		System.out.println("Introduce el número por el cual quieres saber si es divisible");
+		System.out.println("Introduce el nÃºmero por el cual quieres saber si es divisible");
 		numero2 = reader.nextInt();
 		
 		//Conprobamos si uno es divisible por otro

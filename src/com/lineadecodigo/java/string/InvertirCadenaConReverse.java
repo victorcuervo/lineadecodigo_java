@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   11-diciembre-2010
  * @url    http://lineadecodigo.com/java/invertir-una-cadena-con-reverse-en-java/
- * @description Invertir un String mediante un StringBuffer y el método .reverse()
+ * @description Invertir un String mediante un StringBuffer y el mÃ©todo .reverse()
  */
 
 

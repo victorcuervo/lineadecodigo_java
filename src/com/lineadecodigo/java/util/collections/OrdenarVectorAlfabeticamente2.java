@@ -9,7 +9,7 @@ import java.util.Vector;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   3/enero/2010
  * @url  http://lineadecodigo.com/java/ordenando-alfabeticamente-con-case_insensitive_order/
- * @description Utilizar una ordenación alfabética mediante el campo String.CASE_INSENSITIVE_ORDER
+ * @description Utilizar una ordenaciÃ³n alfabÃ©tica mediante el campo String.CASE_INSENSITIVE_ORDER
  */
 
 public class OrdenarVectorAlfabeticamente2 {

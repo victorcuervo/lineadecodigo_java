@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   08/sep/2015
  * @url  http://lineadecodigo.com/java/parametros-por-referencia-en-java/
- * @description Explicación del uso de parámetros "por referencia" en Java.
+ * @description ExplicaciÃ³n del uso de parÃ¡metros "por referencia" en Java.
  */
 
 
@@ -37,13 +37,13 @@ public class ParametrosReferencia {
 	public static void main(String[] args) {
 			
 		
-		// Parámetros por valor		
+		// ParÃ¡metros por valor		
 		int p = 2;
 		System.out.println(p);
 		metodo_valor(p);
 		System.out.println(p);
 		
-		// Parámetros por referencia
+		// ParÃ¡metros por referencia
 		ParametrosReferencia pr = new ParametrosReferencia();		
 		MiClase m1 = pr.new MiClase();
 		m1.valor = 2;
@@ -52,7 +52,7 @@ public class ParametrosReferencia {
 		System.out.println(m1.valor);
 		
 		
-		// Parámetros por referencia 2
+		// ParÃ¡metros por referencia 2
 		MiClase m2 = pr.new MiClase();
 		m2.valor = 2;
 		System.out.println(m2.valor);

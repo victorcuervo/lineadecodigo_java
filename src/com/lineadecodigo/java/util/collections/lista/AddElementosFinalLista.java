@@ -3,10 +3,10 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file AddElementosFinalLista.java
  * @version 1.0
- * @author V’ctor Cuervo (http://lineadecodigo.com)
+ * @author Vï¿½ctor Cuervo (http://lineadecodigo.com)
  * @date   20-octubre-2014
  * @url    http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/
- * @description C—digo que a–ade una colecci—n al final de un ArrayList.
+ * @description Cï¿½digo que aï¿½ade una colecciï¿½n al final de un ArrayList.
  */
 
 import java.util.ArrayList;
@@ -17,10 +17,10 @@ public class AddElementosFinalLista {
 
 	public static void main(String[] args) {
 		
-		// ArrayList con tama–o
+		// ArrayList con tamaÃ±o
 		ArrayList<String> al = new ArrayList<String>();
 		
-		// A–adir elementos a un ArrayList
+		// AÃ±adir elementos a un ArrayList
 		al.add("Victor");
 		al.add("Luis");
 		al.add("Elena");
@@ -34,10 +34,10 @@ public class AddElementosFinalLista {
 		
 		Vector<String> vector = new Vector<String>();
 		vector.add("Irene");
-		vector.add("Mar’a");
+		vector.add("MarÃ­a");
 		
-		// A–adir elementos al final del ArrayList
-		// Es una colecci—n
+		// AÃ±adir elementos al final del ArrayList
+		// Es una colecciÃ³n
 		al.addAll(vector);
 
 

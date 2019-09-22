@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   5-agosto-2010
  * @url    http://lineadecodigo.com/java/conversor-de-monedas/
- * @description Programa que nos ayuda a realizar la conversión monetaria entre dos monedas. 
+ * @description Programa que nos ayuda a realizar la conversiÃ³n monetaria entre dos monedas. 
  */
 
 public class ConversorMonedas {

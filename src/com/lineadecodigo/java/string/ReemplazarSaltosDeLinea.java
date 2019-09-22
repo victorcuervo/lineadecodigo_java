@@ -6,7 +6,7 @@ package com.lineadecodigo.java.string;
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
  * @date Diciembre 27, 2012
  * @url http://lineadecodigo.com/java/string-quitar-saltos-de-linea-de-un-texto-con-java/
- * @description Código que elimina los saltos de línea que haya en una cadena de texto.
+ * @description C√≥digo que elimina los saltos de l√≠nea que haya en una cadena de texto.
  */
 
 public class ReemplazarSaltosDeLinea {
@@ -27,7 +27,7 @@ public class ReemplazarSaltosDeLinea {
     
 	public static void main(String[] args) {
 	
-		String sTextoConSaltos = "Línea\n de\n Código";
+		String sTextoConSaltos = "L√≠nea\n de\n C√≥digo";
 		System.out.println(sTextoConSaltos);
 		
 		String sTextoSinSaltos = quitarSaltos(sTextoConSaltos);

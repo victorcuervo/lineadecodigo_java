@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   28.febrero.2011
  * @url  http://lineadecodigo.com/java/constantes-en-java/
- * @description Programa Java que nos enseña a definir una constante  
+ * @description Programa Java que nos enseÃ±a a definir una constante  
  */
 
 public class ConstanteEnJava {
@@ -16,8 +16,8 @@ public class ConstanteEnJava {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("El número de días de la semana son " + DIAS_SEMANA);
-		System.out.println("El número de días laborables de la semana son " + DIAS_LABORABLES);	
+		System.out.println("El nÃºmero de dÃ­as de la semana son " + DIAS_SEMANA);
+		System.out.println("El nÃºmero de dÃ­as laborables de la semana son " + DIAS_LABORABLES);	
 
 	}
 

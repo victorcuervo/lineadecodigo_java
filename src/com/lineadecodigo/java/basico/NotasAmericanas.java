@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   9-abril-2007
  * @url    http://lineadecodigo.com/2007/04/09/notas-americanas/
- * @description Programa de aprendizaje que muestra como convertir las notas americanas en las españolas. Utilización de bucles do-while y estructuras selectivas switch. 
+ * @description Programa de aprendizaje que muestra como convertir las notas americanas en las espaÃ±olas. UtilizaciÃ³n de bucles do-while y estructuras selectivas switch. 
  */
 
 import java.io.IOException;
@@ -38,7 +38,7 @@ public class NotasAmericanas {
 							break;
 				case 'E': System.out.println ("muy deficiente");
 							break;
-				default:  System.out.println ("esta puntuación no existe");
+				default:  System.out.println ("esta puntuaciÃ³n no existe");
 			}                                                      
 		} while (caracter!='0');
 	}
