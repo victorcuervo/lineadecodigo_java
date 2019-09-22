@@ -48,7 +48,7 @@ public class DescargarArchivo {
 			System.out.println("\nempezando descarga: \n");
 			System.out.println(">> URL: " + url);
 			System.out.println(">> Nombre: " + name);
-			System.out.println(">> tamaÒo: " + conn.getContentLength()
+			System.out.println(">> tama√±o: " + conn.getContentLength()
 					+ " bytes");
 
 			// Abre los streams
