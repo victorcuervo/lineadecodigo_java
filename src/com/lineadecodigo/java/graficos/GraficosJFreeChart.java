@@ -6,7 +6,7 @@ package com.lineadecodigo.java.graficos;
  * @author Pablo Ruiz (http://lineadecodigo.com)
  * @date   29/mayo/2012
  * @url    http://lineadecodigo.com/java/graficos-en-java-con-jfreechart/
- * @description Programa que utiliza JFreeChart para generar gr�ficos.
+ * @description Programa que utiliza JFreeChart para generar gráficos.
  */
 
 import javax.swing.JFrame;
@@ -36,7 +36,7 @@ public class GraficosJFreeChart extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("Generar gr�fico");
+        jButton1.setText("Generar gráfico");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
@@ -75,8 +75,8 @@ public class GraficosJFreeChart extends javax.swing.JFrame {
         dataset.addValue(10.0,"Row 3", "Column 4");
         
         JFreeChart chart = ChartFactory.createBarChart(
-                "Ejemplo B�sico para L�nea de C�digo", //Título
-                "Categor�as", //Categor�as
+                "Ejemplo Básico para Línea de Código", //Título
+                "Categorías", //Categorías
                 "Valores", // Valores
                 dataset, // data
                 PlotOrientation.VERTICAL, // Orientación

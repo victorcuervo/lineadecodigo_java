@@ -44,7 +44,7 @@ public class TiposDatoObjeto {
 		 Double refDouble = new Double(12.3D);
 		 double d = refDouble.doubleValue();
 		 
-		 // Por qué no se usan los tipos de datos objeto
+		 // Por qu√© no se usan los tipos de datos objeto
 		 Integer uno = new Integer(1);
 		 Integer dos = new Integer(1);
 		 

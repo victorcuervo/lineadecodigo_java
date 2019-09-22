@@ -5,10 +5,10 @@ import java.io.File;
 /**
  * @file ExisteFichero.java
  * @version 1.0
- * @author Víctor Cuervo. (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo. (http://lineadecodigo.com)
  * @date   03/junio/2015
  * @url    http://lineadecodigo.com/java/saber-si-existe-un-fichero-con-java/
- * @description Código para saber si existe fichero.
+ * @description CÃ³digo para saber si existe fichero.
  */
 
 

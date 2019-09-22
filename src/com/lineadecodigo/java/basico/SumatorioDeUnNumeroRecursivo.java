@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   23-junio-2007
  * @url    http://lineadecodigo.com/2007/06/24/sumatorio-de-un-numero-de-forma-recursiva/
- * @description Utilización de programación recursiva para calcular el sumatorio de un número en Java.  
+ * @description UtilizaciÃ³n de programaciÃ³n recursiva para calcular el sumatorio de un nÃºmero en Java.  
  */
 
 

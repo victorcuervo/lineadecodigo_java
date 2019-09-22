@@ -6,7 +6,7 @@ package com.lineadecodigo.java.file;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   7-julio-07
  * @url    http://lineadecodigo.com/2007/07/07/conocer-el-tamano-de-un-fichero-con-java/
- * @description Conocer el tamaño de un fichero, en bytes, mediante la librería java.io.  
+ * @description Conocer el tamÃ±o de un fichero, en bytes, mediante la librerÃ­a java.io.  
  */
 
 import java.io.File;
@@ -17,7 +17,7 @@ public class TamanioFichero {
 		
 	  String sFichero = "c:\\prueba.xml";
 	  File fichero = new File(sFichero);
-	  System.out.println("El tamaño del fichero " + sFichero +
+	  System.out.println("El tamaÃ±o del fichero " + sFichero +
 	    " es: " + Long.toString(fichero.length()) + " bytes");
 
 	}

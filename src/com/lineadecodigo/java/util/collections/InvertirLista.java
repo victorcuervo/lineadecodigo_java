@@ -2,10 +2,10 @@ package com.lineadecodigo.java.util.collections;
 
 /* @file InvertirLista.java
 * @version 1.0
-* @author Víctor Cuervo. (http://lineadecodigo.com)
+* @author VÃ­ctor Cuervo. (http://lineadecodigo.com)
 * @date   03/junio/2015
 * @url    http://lineadecodigo.com/java/invertir-una-lista/
-* @description Código que nos ayuda a invertir el contenido de una lista mediante la clase Collection.
+* @description CÃ³digo que nos ayuda a invertir el contenido de una lista mediante la clase Collection.
 */
 
 import java.util.ArrayList;

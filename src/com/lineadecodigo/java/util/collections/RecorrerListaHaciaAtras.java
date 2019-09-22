@@ -6,7 +6,7 @@ package com.lineadecodigo.java.util.collections;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   01-febrero-2009
  * @url    http://lineadecodigo.com/2007/07/19/recorrer-una-lista-hacia-atras-en-java/
- * @description Recorrer una lista desde el último elemento hacía el primero
+ * @description Recorrer una lista desde el Ãºltimo elemento hacÃ­a el primero
  */
 
 
@@ -20,7 +20,7 @@ public class RecorrerListaHaciaAtras {
 		  // Definimos una ArrayList
 	    List<String> list = new ArrayList<String>();
 
-	    // Añadimos elementos
+	    // AÃ±adimos elementos
 	    list.add("Victor");
 	    list.add("Amaya");
 	    list.add("Julio");

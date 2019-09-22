@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   03.marzo.2011
  * @url    http://lineadecodigo.com/java/lanzar-el-garbage-collector-en-java/
- * @description Código que ejecuta el Garbage Collector
+ * @description CÃ³digo que ejecuta el Garbage Collector
  */
 
 public class LanzarGarbageCollector {

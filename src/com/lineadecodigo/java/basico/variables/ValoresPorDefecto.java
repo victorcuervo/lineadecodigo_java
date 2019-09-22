@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico.variables;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/tipos-primitivos-de-datos-en-java/
- * @description Explicación sobre el funcionamiento del argumento transient
+ * @description Explicaci√≥n sobre el funcionamiento del argumento transient
  */
 
 public class ValoresPorDefecto {

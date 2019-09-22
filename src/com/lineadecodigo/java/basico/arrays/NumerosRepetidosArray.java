@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file NumerosRepetidosArrayy.java
  * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   29/enero/2014
  * @url    http://lineadecodigo.com/java/numeros-repetidos-en-un-array-java/
- * @description Localizar los números repetidos de un array en otro. 
+ * @description Localizar los n√∫meros repetidos de un array en otro. 
  */
 
 public class NumerosRepetidosArray {
@@ -31,9 +31,9 @@ public class NumerosRepetidosArray {
 		}
 	
 		if (encontrado)
-			System.out.println (numeros[x] + " es un número repetido. Encontrado en " + iter + " búsquedas");
+			System.out.println (numeros[x] + " es un n√∫mero repetido. Encontrado en " + iter + " b√∫squedas");
 		else
-			System.out.println (numeros[x] + " no está en la lista. No encontrado en " + iter + " búsquedas");
+			System.out.println (numeros[x] + " no est√° en la lista. No encontrado en " + iter + " b√∫squedas");
 			
 	}
 	

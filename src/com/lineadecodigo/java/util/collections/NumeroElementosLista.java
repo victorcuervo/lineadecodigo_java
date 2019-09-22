@@ -3,10 +3,10 @@ package com.lineadecodigo.java.util.collections;
 /* 
 * @file NumeroElementosLista.java
 * @version 1.0
-* @author Víctor Cuervo. (http://lineadecodigo.com)
+* @author VÃ­ctor Cuervo. (http://lineadecodigo.com)
 * @date   03/junio/2015
 * @url    http://lineadecodigo.com/java/numero-de-elementos-de-una-lista-en-java/
-* @description Código que calcula el número de elementos de una lista
+* @description CÃ³digo que calcula el nÃºmero de elementos de una lista
 */
 
 
@@ -20,7 +20,7 @@ public class NumeroElementosLista {
 	    // Definimos una ArrayList
 	    List<String> list = new ArrayList<String>();
 	   
-	    // Añadimos elementos
+	    // AÃ±adimos elementos
 	    list.add("Andrea");
 	    list.add("Amaya");
 	    list.add("Julio");

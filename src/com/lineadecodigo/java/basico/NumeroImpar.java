@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   10/diciembre/2006
  * @url  http://lineadecodigo.com/java/numeros-impares-en-java/
- * @description Código que nos ayuda a saber si un número es impar con Java
+ * @description CÃ³digo que nos ayuda a saber si un nÃºmero es impar con Java
  */
 
 public class NumeroImpar {

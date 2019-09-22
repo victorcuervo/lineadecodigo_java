@@ -6,7 +6,7 @@ package com.lineadecodigo.java.io;
  * @author Chistian Portilla (http://lineadecodigo.com/author/xhrist14n/)
  * @date   5-enero-2013
  * @url    http://lineadecodigo.com/java/contar-las-vocales-de-un-fichero-en-java/
- * @description Programa que lee el número de vocales de un fichero
+ * @description Programa que lee el n√∫mero de vocales de un fichero
  */
 
 import java.io.*;

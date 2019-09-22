@@ -6,7 +6,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   15/junio/2015
  * @url    http://lineadecodigo.com/java/llenar-un-array-con-numeros-aleatorios-en-java/
- * @description Cargar un array con números aleatorios
+ * @description Cargar un array con n√∫meros aleatorios
  */
 
 public class CargarArrayNumerosAleatorios {
@@ -15,7 +15,7 @@ public class CargarArrayNumerosAleatorios {
 		
 		int[] numeros = new int[10];
 		
-		// Cargamos el array con los números aleatorios
+		// Cargamos el array con los n√∫meros aleatorios
 		for (int x=0;x<numeros.length;x++)
 			numeros[x] = (int) (Math.random()*20)+1;
 		
