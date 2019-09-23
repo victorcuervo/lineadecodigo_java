@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file CopiarArrays.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   19-junio-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   19/junio/2007
  * @url    http://lineadecodigo.com/2007/06/19/copiar-arrays-en-java/
  * @description Utilizar el método .arrayCopy para copiar arrays.
  */

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatrizSimétrica.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/matriz-simetrica-con-java/
  * @description Calcular si la matriz es simétrica. Es decir la matríz es igual a la transpuesta

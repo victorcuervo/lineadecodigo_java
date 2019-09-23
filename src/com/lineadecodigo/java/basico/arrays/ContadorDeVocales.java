@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file ContadorDeVocales.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
- * @date   10/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   10/septiembre/2015
  * @url    http://lineadecodigo.com/java/metodo-contador-de-vocales/
  * @description Crear un método que cuente vocales de una palabra y devuelva el resultado en un array
  */

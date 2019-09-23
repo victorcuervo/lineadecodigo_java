@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file NumeroMayorPosicion.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   3-marzo-2009
- * @url    http://lineadecodigo.com/2009/03/03/numero-mayor-y-su-posicion/
- * @description Conocer el número mayor de un array y la posición en la que se encuentra.
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   3/marzo/2009
+ * @url    http://lineadecodigo.com/java/numero-mayor-y-su-posicion/
+ * @description Conocer el nÃºmero mayor de un array y la posiciÃ³n en la que se encuentra.
  */
 
 public class NumeroMayorPosicion {
@@ -34,8 +34,8 @@ public class NumeroMayorPosicion {
 	     } 
 	   } 
 	   
-	   System.out.println("El número mayor encontrado es " + iNumeroMayor);
-	   System.out.println("Y se encuentra en la posición " + iPosicion);
+	   System.out.println("El nÃºmero mayor encontrado es " + iNumeroMayor);
+	   System.out.println("Y se encuentra en la posiciÃ³n " + iPosicion);
 		
 		
 

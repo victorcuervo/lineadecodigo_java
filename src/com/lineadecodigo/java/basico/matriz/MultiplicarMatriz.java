@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MultiplicarMatriz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/multiplicar-matrices-en-java/
- * @description Clase que realiza una multiplicación de matrices en Java
+ * @description Clase que realiza una multiplicaci√≥n de matrices en Java
  */
 
 public class MultiplicarMatriz {
@@ -33,7 +33,7 @@ public class MultiplicarMatriz {
 		for (int x=0; x < multiplicacion.length; x++) {
             for (int y=0; y < multiplicacion[x].length; y++) {
             		
-            		// El nuevo bucle suma la multiplicación de la fila por la columna
+            		// El nuevo bucle suma la multiplicaci√≥n de la fila por la columna
             		for (int z=0; z<col_m1; z++) {
             			multiplicacion [x][y] += m1[x][z]*m2[z][y];            			
             		}

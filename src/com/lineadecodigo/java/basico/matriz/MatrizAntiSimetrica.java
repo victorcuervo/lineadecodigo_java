@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatrizAnsiSimetrica.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/matriz-antisimetrica-en-java/
  * @description Código que calcula si una matriz es antisimetrica. Es decir que su transpuesta coincida con la negativa.

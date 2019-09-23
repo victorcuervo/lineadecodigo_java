@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file RotarArray.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   20-septiembre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   20/septiembre/2010
  * @url    http://lineadecodigo.com/java/rotar-array/
  * @description Código que nos permite rotar los elementos de un array.
  */

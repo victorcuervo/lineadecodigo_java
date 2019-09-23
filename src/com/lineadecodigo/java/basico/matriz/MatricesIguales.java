@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatricesIguales.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/comparar-matrices-en-java/
  * @description Código que compara que dos matrices sean iguales en número de elementos y contenidos.

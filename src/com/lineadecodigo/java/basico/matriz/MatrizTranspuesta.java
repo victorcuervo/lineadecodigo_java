@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatrizTranspuesta.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/transponer-una-matriz-en-java/
  * @description Clase que realiza la transposición de una matriz. Es decir convierte sus filas en columnas

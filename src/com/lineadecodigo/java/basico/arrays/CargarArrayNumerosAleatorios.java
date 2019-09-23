@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file CargarArrayNumerosAleatorios.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/junio/2015
  * @url    http://lineadecodigo.com/java/llenar-un-array-con-numeros-aleatorios-en-java/
  * @description Cargar un array con números aleatorios

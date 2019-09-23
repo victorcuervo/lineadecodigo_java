@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file ImprimirMatriz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   08.julio.2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   08/julio/2010
  * @url    http://lineadecodigo.com/java/imprimir-una-matriz-con-java/
  * @description Programa que nos permite imprimir una matriz por consola
  */

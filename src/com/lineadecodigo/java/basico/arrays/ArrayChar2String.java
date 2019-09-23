@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file ArrayChar2String.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   4-junio-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   4/junio/2010
  * @url    http://lineadecodigo.com/java/convertir-un-array-de-caracteres-en-un-string/
  * @description convertir un array de caracteres en una cadena de texto
  */

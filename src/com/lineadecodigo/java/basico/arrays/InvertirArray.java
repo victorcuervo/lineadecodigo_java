@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file InvertirArray.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   7-marzo-2012
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   7/marzo/2012
  * @url    http://lineadecodigo.com/java/invertir-array/
  * @description Dos formas de inicializar un array.  
  */

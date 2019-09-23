@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @file OrdenarParteArray.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/marzo/2016
  * @url    http://lineadecodigo.com/java/ordenar-parte-array/
  * @description Código que ordena parte de un array

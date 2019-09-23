@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatricesAleatoria.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/matriz-aleatoria-en-java/
  * @description Código que genera una matriz de tamaño y contenido aleatorio

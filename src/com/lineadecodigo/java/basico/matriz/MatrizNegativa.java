@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatrizNegativa.java
  * @version 1.0
- * @author Línea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   1/agosto/2015
  * @url    http://lineadecodigo.com/java/matriz-negativa-con-java/
  * @description Código que genera una matriz negativa cambiado en signo a todos los elementos de la matriz.

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @file RellenarMatriz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   01/abril/2010
  * @url    http://lineadecodigo.com/java/cargar-una-matriz-por-teclado-en-java/
  * @description Programa que nos permite cargar una matriz con Java por teclado
@@ -33,6 +33,8 @@ public class RellenarMatriz {
 				System.out.println ("[" + x + "," + y + "] = " + matriz[x][y]);
 			}
 		}
+		
+		consola.close();
 		
 		
 	}

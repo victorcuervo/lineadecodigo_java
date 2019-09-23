@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file CrearMatriz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   08.julio.2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   08/julio/2010
  * @url    http://lineadecodigo.com/java/crear-una-matriz-en-java/
  * @description Programa que nos permite crear una matriz con Java
  */

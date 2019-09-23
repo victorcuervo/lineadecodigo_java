@@ -3,9 +3,9 @@ package com.lineadecodigo.java.basico.arrays;
 /**
  * @file CopiarDosArraysEnUno.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   6-octubre-2007
- * @url    http://lineadecodigo.com/2007/10/06/copiar-dos-arrays-en-uno-con-java
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   6/octubre/2007
+ * @url    http://lineadecodigo.com/java/copiar-dos-arrays-en-uno-con-java
  * @description Uso del método .arrayCopy para copiar dos arrays sobre uno.  
  */
 

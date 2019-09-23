@@ -3,22 +3,22 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file Matriz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19.julio.2015
  * @url    http://lineadecodigo.com/tag/java-array-matriz/
- * @description Clase Est�tica que nos permite manipular matrices
+ * @description Clase Estática que nos permite manipular matrices
  * 					- Imprimir Matriz por pantalla
- * 					- Generar Matriz con n�meros aleatorios
+ * 					- Generar Matriz con números aleatorios
  * 					- Invertir una Matriz
  * 					- Transponer una Matriz
  * 					- Ver si dos matrices son iguales
  * 					- Suma de Matrices
  * 					- Resta de Matrices
- * 					- Multiplicaci�n de Matrices
+ * 					- Multiplicación de Matrices
  * 					- Matriz por un Escalar
  * 					- Matriz por Vector Columna
- * 					- Validar si una Matriz es Sim�trica
- * 					- Validar si una Matriz es Antisim�trica
+ * 					- Validar si una Matriz es Simétrica
+ * 					- Validar si una Matriz es Antisimétrica
  */
 
 import java.util.Arrays;

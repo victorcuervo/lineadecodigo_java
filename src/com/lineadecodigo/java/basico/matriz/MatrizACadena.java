@@ -3,12 +3,11 @@ package com.lineadecodigo.java.basico.matriz;
 /**
  * @file MatricesACadena.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/julio/2015
  * @url    http://lineadecodigo.com/java/convertir-matriz-en-cadena-con-java/
  * @description Convertir el contenido de una matriz en una cadena Java.
  */
-
 
 import java.util.Arrays;
 
