@@ -3,10 +3,10 @@ package com.lineadecodigo.java.file;
 /**
  * @file CrearFicheroTemporal.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   10/noviembre/2011
  * @url    http://lineadecodigo.com/java/crear-fichero-temporal-con-java/
- * @description Código que nos permite crear un fichero temporal.
+ * @description CÃ³digo que nos permite crear un fichero temporal.
  */
 
 import java.io.BufferedWriter;
@@ -27,7 +27,7 @@ public class CrearFicheroTemporal {
 			// Permite que el fichero se borre al salir del programa
 			// tempFile.deleteOnExit();
 			
-			//Escribimos información en el fichero
+			//Escribimos informaciÃ³n en el fichero
 			BufferedWriter out = new BufferedWriter(new FileWriter(tempFile));
 			out.write("Esto es un fichero temporal");
 			out.close();

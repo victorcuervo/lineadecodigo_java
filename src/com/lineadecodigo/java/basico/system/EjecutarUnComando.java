@@ -4,9 +4,9 @@ package com.lineadecodigo.java.basico.system;
  * @file EjecutarUnComando.java
  * @version 1.0
  * @author Feffo (http://lineadecodigo.com)
- * @date   8/abr/2012
+ * @date   8/abril/2012
  * @url    http://lineadecodigo.com/java/como-ejecutar-un-comando-del-sistema-desde-java/
- * @description Ejecutar un comando del sistema operativo desde un código Java.
+ * @description Ejecutar un comando del sistema operativo desde un cÃ³digo Java.
  */
 
 import java.io.BufferedReader;

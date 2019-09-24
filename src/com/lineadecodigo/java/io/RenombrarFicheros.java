@@ -3,7 +3,7 @@ package com.lineadecodigo.java.io;
 /**
  * @file RenombrarFicheros.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   25/noviembre/2006
  * @url  http://lineadecodigo.com/java/renombrar-un-fichero-con-java-io/
  * @description Uso de la clase File para renombrar ficheros con Java.

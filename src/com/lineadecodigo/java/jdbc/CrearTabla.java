@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file CrearTabla.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/octubre/2016
  * @url  http://lineadecodigo.com/java/crear-tabla-con-java-jdbc/
  * @description Crear una tabla con JDBC.

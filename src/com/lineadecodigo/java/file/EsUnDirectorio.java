@@ -5,7 +5,7 @@ import java.io.File;
 /**
  * @file EsUnDirectorio.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31-enero-2009
  * @url    http://lineadecodigo.com/2009/02/01/saber-si-una-ruta-es-un-directorio-con-java/
  * @description Saber si una ruta introducida por teclado es un directorio

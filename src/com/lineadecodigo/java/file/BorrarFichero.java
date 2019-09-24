@@ -5,7 +5,7 @@ import java.io.File;
 /**
  * @file BorrarFichero.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   26/febrero/08
  * @url    http://lineadecodigo.com/java/borrar-un-fichero-con-java/
  * @description Borrar un fichero desde un programa Java

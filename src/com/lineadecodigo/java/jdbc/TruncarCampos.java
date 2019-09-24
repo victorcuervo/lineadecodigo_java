@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file TruncarCampos.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   16/octubre/2016
  * @url  http://lineadecodigo.com/java/truncar-campos-sql/
  * @description Activar para realizar truncado de datos a la hora de hacer un insert.  

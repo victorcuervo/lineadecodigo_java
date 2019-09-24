@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file NumeroDeFilas.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @authorVíctor Cuervo (http://lineadecodigo.com)
  * @date   20/noviembre/2006
  * @url    http://lineadecodigo.com/java/numero-de-lineas-de-un-fichero/
  * @description Código que cuenta las filas de un fichero
@@ -21,12 +21,11 @@ public class NumeroDeFilas {
 		long lNumeroLineas = 0;
 		
 		try {
-			FileReader fr = new FileReader("fichero.txt");
+			FileReader fr = new FileReader("resources/fichero.txt");
 		
 			BufferedReader bf = new BufferedReader(fr);
-			String sCadena = "";
 			
-			while ((sCadena = bf.readLine())!=null) {
+			while ((bf.readLine())!=null) {
 			  lNumeroLineas++;
 			}
 			

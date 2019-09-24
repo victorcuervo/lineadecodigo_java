@@ -3,8 +3,8 @@ package com.lineadecodigo.java.basico.validadores;
 /**
  * @file ValidadorDeRut.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   9-diciembre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   9/diciembre/2010
  * @url    http://lineadecodigo.com/java/validador-de-rut-en-java/
  * @description Validar el RUT chileno
  */

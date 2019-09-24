@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file CambiarFechaModificacionFichero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   24/febrero/2012
  * @url    http://lineadecodigo.com/java/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java/
  * @description Cambiar la fecha de modificación de un fichero

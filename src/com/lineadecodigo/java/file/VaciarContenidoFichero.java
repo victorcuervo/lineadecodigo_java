@@ -8,10 +8,10 @@ import java.io.IOException;
 /**
  * @file VaciarContenidoFichero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31-julio-2010
  * @url    http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-con-java/
- * @description Vaciar el contenido de un fichero mediante la escritura de una cadena vac�a.  
+ * @description Vaciar el contenido de un fichero mediante la escritura de una cadena vacía.  
  */
 
 public class VaciarContenidoFichero {

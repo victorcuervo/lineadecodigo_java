@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file LeerFichero.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   29-abril-2006
  * @url    http://lineadecodigo.com/2006/12/26/leer-fichero-de-texto-con-java/
  * @descriptio Lectura del contenido de un fichero de texto

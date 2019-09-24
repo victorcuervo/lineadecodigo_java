@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file BorrarDatos.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   25/agosto/2009
  * @url  http://lineadecodigo.com/java/borrado-de-datos-con-jdbc
  * @description Realizar borrado de datos en una BD mediante DELETE y JDBC.  

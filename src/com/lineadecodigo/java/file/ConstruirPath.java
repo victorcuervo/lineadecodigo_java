@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file ConstruirPath.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   19/septiembre/2011
  * @url    http://lineadecodigo.com/java/crear-la-ruta-de-un-fichero-con-java/
  * @description Código que nos enseña a construir el path de un fichero independiente del SO en el que ejecutemos

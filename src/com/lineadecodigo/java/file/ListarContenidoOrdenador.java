@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file ListarContenidoOrdenador.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/septiembre/2011
  * @url    http://lineadecodigo.com/java/listar-contenido-del-ordenador/
  * @description Programa que lista todo el contenido de las unidades del ordenador

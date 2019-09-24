@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ConexionMySQL.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/octubre/2016
  * @url  http://lineadecodigo.com/java/jdbc-batch-update/
  * @description Realizar una inserción batch sobre una base de datos

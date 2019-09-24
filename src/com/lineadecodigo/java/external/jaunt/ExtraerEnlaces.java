@@ -3,7 +3,7 @@ package com.lineadecodigo.java.external.jaunt;
 /**
  * @file ExtraerEnlaces.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   4/abril/2016
  * @url    http://lineadecodigo.com/java/enlaces-una-web-java/
  * @description Uso de la librería Jaunt para extraer los enlaces de una web

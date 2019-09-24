@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file WarningSQL.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   16/octubre/2016
  * @url  http://lineadecodigo.com/java/jdbc-sqlwarning/
  * @description Cómo gestionar los warning en una ejecución Java JDBC.  

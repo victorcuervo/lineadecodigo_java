@@ -3,8 +3,8 @@ package com.lineadecodigo.java.file;
 /**
  * @file NumeroDeFilasVacias.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   13/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   13/septiembre/2015
  * @url    http://lineadecodigo.com/java/numero-de-lineas-vacias-de-un-fichero/
  * @description Código que recorre un fichero y lee sus filas para contablizar las que están vacías.
  */

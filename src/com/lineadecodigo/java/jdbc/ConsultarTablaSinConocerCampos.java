@@ -3,9 +3,9 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ConsultarTablaSinConocerCampos.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   9-septiembre-2007
- * @url  http://lineadecodigo.com/2007/09/11/consulta-jdbc-sin-conocer-los-campos/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   9/septiembre/2007
+ * @url  http://lineadecodigo.com/java/consulta-jdbc-sin-conocer-los-campos/
  * @description Realizar una select sobre una base de datos, sin conocer los campos
  */
 

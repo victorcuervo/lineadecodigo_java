@@ -3,10 +3,10 @@ package com.lineadecodigo.java.file;
 /**
  * @file DirectorioTrabajo.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   12/septiembre/2011
  * @url    http://lineadecodigo.com/java/conocer-el-directorio-de-trabajo-de-java/
- * @description Como saber en quÈ directorio se est· ejecutando el programa Java
+ * @description Como saber en qu√© directorio se est√° ejecutando el programa Java
  */
 
 public class DirectorioTrabajo {

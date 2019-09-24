@@ -3,8 +3,8 @@ package com.lineadecodigo.java.io;
 /**
  * @file CopiarFicheros.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   10-noviembre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   10/noviembre/2010
  * @url    http://lineadecodigo.com/java/copiar-un-fichero-con-java/
  * @description Copiar el contenido de un fichero en otro
  */

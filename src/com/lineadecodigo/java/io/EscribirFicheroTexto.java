@@ -3,9 +3,9 @@ package com.lineadecodigo.java.io;
 /**
  * @file EscribirEnFicheroProperties.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date 05-febrero-2007
- * @url   http://lineadecodigo.com/2008/02/06/escribir-en-un-fichero-de-texto-con-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date 05/febrero/2007
+ * @url   http://lineadecodigo.com/java/escribir-en-un-fichero-de-texto-con-java/
  * @description Escribir contenido sobre un fichero de texto  
  */
 

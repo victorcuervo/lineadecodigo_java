@@ -5,8 +5,8 @@ import java.io.File;
 /**
  * @file BorrarDirectorio.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   26-diciembre-08
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   26/diciembre/08
  * @url    http://lineadecodigo.com/2008/12/28/borrar-un-directorio-con-java/
  * @description Borrar un directorio desde un programa en Java
  */

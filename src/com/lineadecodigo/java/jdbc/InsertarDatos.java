@@ -3,9 +3,9 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file InsertarDatos.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   7-junio-2007
- * @url  http://lineadecodigo.com/2007/06/07/insertar-datos-con-jdbc/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   7/junio/2007
+ * @url  http://lineadecodigo.com/java/insertar-datos-con-jdbc/
  * @description Realizar inserciones de datos en una BD mediante INSERT y JDBC.  
  */
 

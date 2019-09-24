@@ -4,7 +4,7 @@ package com.lineadecodigo.java.hilos;
  * @file CierreAplicacion.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   21/sep/2015
+ * @date   21/septiembre/2015
  * @url    http://lineadecodigo.com/java/finalizar-un-programa-java/
  * @description Controlar la finalización de un programa Java
  */

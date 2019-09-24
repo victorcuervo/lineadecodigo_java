@@ -5,7 +5,7 @@ import java.io.File;
 /**
  * @file ConvertirFicheroEnURL.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   26/septiembre/2011
  * @url    http://lineadecodigo.com/java/obtener-directorio-padre-de-un-fichero/
  * @description Obtener el directorio padre de un fichero

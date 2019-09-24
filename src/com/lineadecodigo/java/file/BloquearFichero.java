@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file BloquearFichero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   16/septiembre/2012
  * @url    http://lineadecodigo.com/java/bloquear-un-fichero-con-java/
  * @description Bloquear el acceso a un fichero
@@ -36,8 +36,8 @@ public class BloquearFichero {
 	    
 	    // Liberamos el bloqueo
 	    lock.release();
+	    channel.close();
 	    
-	    channel.close();	   
 	} catch (Exception e) {
 	}
 

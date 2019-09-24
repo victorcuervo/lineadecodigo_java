@@ -3,10 +3,10 @@ package com.lineadecodigo.java.basico.variables;
 /**
  * @file VariablesTransitorias.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/variables-java-transient/
- * @description Explicaci�n sobre el funcionamiento del argumento transient
+ * @description Explicación sobre el funcionamiento del argumento transient
  */
 
 
@@ -32,9 +32,7 @@ public class VariablesTransitorias {
 	    System.out.println("Recupero el objeto " + new Date());
 	    miusuario = (Usuario) in.readObject();
 	    System.out.println(miusuario);
-	    
-	    
-	    
+	    in.close();
 	    
 	  }
 	

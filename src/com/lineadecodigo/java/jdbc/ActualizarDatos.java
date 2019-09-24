@@ -3,10 +3,10 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ActualizarDatos.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   27-marzo-2011
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   27/marzo/2011
  * @url  http://lineadecodigo.com/java/actualizar-datos-con-jdbc/
- * @description Utilizaci�n de JDBC y una sentencia UPDATE para actualizar los datos de una base de datos.  
+ * @description Utilización de JDBC y una sentencia UPDATE para actualizar los datos de una base de datos.  
  */
 
 import java.sql.Connection;

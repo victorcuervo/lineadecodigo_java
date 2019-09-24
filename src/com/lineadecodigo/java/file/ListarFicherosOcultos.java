@@ -5,7 +5,7 @@ import java.io.File;
 /**
  * @file ListarFicherosOcultos.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   4/mayo/2012
  * @url    http://lineadecodigo.com/java/listar-ficheros-ocultos-de-un-directorio-con-java/
  * @description Clase que lista los ficheros ocultos de un directorio

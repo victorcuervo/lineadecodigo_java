@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
  * @file EjemploLogin.java
  * @version 1.0
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
- * @date Dec 29, 2012
+ * @date 29/diciembre/2012
  * @url http://lineadecodigo.com/java/criptografia-algoritmos-de-digestion-de-mensajes/
  * @description Ejemplos sobre criptografia con digestion de mensajes
  */

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ConexionBaseDatosMSAccess.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   27/noviembre/2006
  * @url  http://lineadecodigo.com/java/jdbc-conectarse-a-una-base-de-datos-ms-access/
  * @description Realizar una conexión a una BD MS Access mediante ODBC.

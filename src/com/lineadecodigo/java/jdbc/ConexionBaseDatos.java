@@ -3,10 +3,10 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ConexionBaseDatos.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   8-agosto-2007
- * @url  http://lineadecodigo.com/2007/08/10/conectarnos-a-una-base-de-datos-con-jdbc/
- * @description Realizar una conexi�n JDBC con drivers tipo 1 a una base de datos 
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   8/agosto/2007
+ * @url  http://lineadecodigo.com/java/conectarnos-a-una-base-de-datos-con-jdbc/
+ * @description Realizar una conexión JDBC con drivers tipo 1 a una base de datos 
  */
 
 import java.sql.*;

@@ -3,8 +3,8 @@ package com.lineadecodigo.java.file;
 /**
  * @file NumeroDeFilasVaciasStream.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   19/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   19/septiembre/2015
  * @url    http://lineadecodigo.com/java/lineas-vacias-de-un-fichero-con-un-stream/
  * @description Calcular el número de filas que hay en un fichero mediante programación funcional y un Stream.
  */

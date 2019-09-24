@@ -8,10 +8,10 @@ import java.util.GregorianCalendar;
 /**
  * @file FechaModificacionFichero.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   19-enero-2012
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   19/enero/2012
  * @url    http://lineadecodigo.com/java/obtener-fecha-de-modificacion-de-un-fichero-con-java/
- * @description Programa que obtiene la fecha de modificaci�n de un fichero. 
+ * @description Programa que obtiene la fecha de modificación de un fichero. 
  */
 
 public class FechaModificacionFichero {

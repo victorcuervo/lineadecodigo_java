@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file TamanioFichero.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   7-julio-07
  * @url    http://lineadecodigo.com/2007/07/07/conocer-el-tamano-de-un-fichero-con-java/
  * @description Conocer el tamño de un fichero, en bytes, mediante la librería java.io.  

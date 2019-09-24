@@ -3,9 +3,9 @@ package com.lineadecodigo.java.io;
 /**
  * @file ListarDirectorio.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   8-julio-07
- * @url    http://lineadecodigo.com/2007/07/11/listar-un-directorio-con-java-io/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   8/julio/07
+ * @url    http://lineadecodigo.com/java/listar-un-directorio-con-java-io/
  * @description Listar un directorio apoyandonos en la clase File de Java IO.  
  */
 

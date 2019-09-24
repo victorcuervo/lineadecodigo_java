@@ -8,8 +8,8 @@ import java.io.IOException;
 /**
  * @file CompararFicheros.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   30-julio-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   30/julio/2010
  * @url    http://lineadecodigo.com/java/comparar-el-contenido-de-dos-ficheros-con-java/
  * @description Programa que compara el contenido de dos ficheros
  */
@@ -46,6 +46,9 @@ public class CompararFicheros {
 				System.out.println("Los ficheros son iguales");
 			else
 				System.out.println("Los ficheros son diferentes");
+			
+			bf1.close();
+			bf2.close();
 				
 			 
 		} catch (FileNotFoundException fnfe){

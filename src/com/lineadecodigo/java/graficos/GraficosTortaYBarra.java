@@ -48,7 +48,7 @@ public class GraficosTortaYBarra {
 		// Agregamos un panel con el grafico a la ventana
 		
 		frame.pack(); 
-		// Redimensiona el tamaño del frame, al minimo posible.
+		// Redimensiona el tamaÃ±o del frame, al minimo posible.
 		
 		frame.setLocationRelativeTo(null); 
 		// Establece la ubicacion del frame ene l centro de la pantalla.

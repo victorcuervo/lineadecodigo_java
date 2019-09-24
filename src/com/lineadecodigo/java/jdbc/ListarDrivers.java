@@ -3,10 +3,10 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file ListarDrivers.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   5-agosto-2007
- * @url  http://lineadecodigo.com/2007/08/05/listar-los-drivers-con-jdbc/
- * @description Utilizaci�n de la clase DriverManager para listar los drivers cargados en el sistema, as� como la informaci�n relativa a los mismos.  
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   5/agosto/2007
+ * @url  http://lineadecodigo.com/java/listar-los-drivers-con-jdbc/
+ * @description Utilización de la clase DriverManager para listar los drivers cargados en el sistema, así como la información relativa a los mismos.  
  */
 
 import java.sql.*;

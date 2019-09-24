@@ -5,9 +5,9 @@ import java.io.File;
 /**
  * @file ListarDirectorioRecursivamente.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   26-diciembre-08
- * @url    http://lineadecodigo.com/2008/12/27/listar-un-directorio-de-forma-recursiva-en-java
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   26/diciembre/2008
+ * @url    http://lineadecodigo.com/java/listar-un-directorio-de-forma-recursiva-en-java
  * @description Lista el contenido de un directorio de forma recursiva, de tal forma que vayamos conociendo el contenido de sus directorios anidados.
  */
 

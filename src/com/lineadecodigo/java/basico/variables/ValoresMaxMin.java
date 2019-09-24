@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.variables;
 /**
  * @file VariablesTransitorias.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/valores-maximo-y-minimo-de-los-tipos-primitivos-java/
  * @description Mostrar valores máximo y mínimo de los tipos de datos primitivos en Java

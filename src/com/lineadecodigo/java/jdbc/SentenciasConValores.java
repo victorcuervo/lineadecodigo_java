@@ -3,10 +3,10 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file SentenciasConValores.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   31-julio-2007
- * @url  http://lineadecodigo.com/2007/08/01/consultas-sql-con-parametros-en-java-jdbc/
- * @description Realizar una select con par�metros en Java.  
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   31/julio/2007
+ * @url  http://lineadecodigo.com/java/consultas-sql-con-parametros-en-java-jdbc/
+ * @description Realizar una select con parámetros en Java.  
  */
 
 import java.sql.*;
@@ -45,7 +45,7 @@ public class SentenciasConValores {
 	          rs.getString("ciudad"));
 	        }
 	      } catch (SQLException sqle) { 
-	          System.out.println("Error en la ejecuci�n:"
+	          System.out.println("Error en la ejecución:"
 	            + sqle.getErrorCode() 
 	            + " " + sqle.getMessage());    
 	      }

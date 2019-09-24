@@ -5,9 +5,9 @@ import java.io.File;
 /**
  * @file ListarContenidoDirectorio.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   26-diciembre-08
- * @url    http://lineadecodigo.com/2008/12/26/listar-un-directorio-con-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   26/diciembre/2008
+ * @url    http://lineadecodigo.com/java/listar-un-directorio-con-java/
  * @description Lista el contenido de un directorio mediante Java
  */
 

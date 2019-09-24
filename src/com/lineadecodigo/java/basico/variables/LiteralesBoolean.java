@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.variables;
 /**
  * @file TiposDatoObjeto.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/literal-booleano-en-java/
  * @description Como manejar para cargar y mostrar un literal booleano en Java
@@ -27,9 +27,7 @@ public class LiteralesBoolean {
 		
 		String sB = b1.toString();
 		System.out.println(sB);
-		
 
-		
 		
 	}
 

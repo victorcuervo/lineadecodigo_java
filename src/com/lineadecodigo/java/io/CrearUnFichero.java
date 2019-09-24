@@ -3,10 +3,10 @@ package com.lineadecodigo.java.io;
 /**
  * @file CrearUnFichero.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   16-julio-2007
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   16/julio/2007
  * @url    http://lineadecodigo.com/2007/07/21/crear-un-fichero-en-java/
- * @description Pasos para crear un fichero con la librería Java IO y la clase File
+ * @description Pasos para crear un fichero con la librerÃ­a Java IO y la clase File
  */
 
 import java.io.*;
@@ -18,7 +18,7 @@ public class CrearUnFichero {
 	   File fichero = new File("c:\\temp\\miFichero.txt");
 
 	   try {
-	      // A partir del objeto File creamos el fichero físicamente
+	      // A partir del objeto File creamos el fichero fÃ­sicamente
 	      if (fichero.createNewFile())
 	        System.out.println("El fichero se ha creado correctamente");
 	      else

@@ -7,6 +7,15 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Properties;
 
+/**
+ * @file ConexionConProperties.java
+ * @version 1.0
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   20/octubre/2016
+ * @url  http://lineadecodigo.com/java/propiedades-conexion-jdbc/
+ * @description Uso de propiedades para establecer una conexión con JDBC
+ */
+
 public class ConexionConProperties {
 
 	public static void main(String[] args) {

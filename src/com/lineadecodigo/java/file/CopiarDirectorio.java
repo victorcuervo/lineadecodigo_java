@@ -3,7 +3,7 @@ package com.lineadecodigo.java.file;
 /**
  * @file CopiarDirectorio.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   11/septiembre/2011
  * @url    http://lineadecodigo.com/java/copiar-directorio-con-java/
  * @description Copia del contenido de un directorio sobre otro. Para ello se trabaja de forma recursiva.  

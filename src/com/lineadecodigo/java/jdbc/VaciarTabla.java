@@ -3,7 +3,7 @@ package com.lineadecodigo.java.jdbc;
 /**
  * @file VaciarTabla.java
  * @version 1.0
- * @author Línea de Código (http://lineadecodigo.com)
+ * @authorVíctor Cuervo (http://lineadecodigo.com)
  * @date   16/octubre/2016
  * @url  http://lineadecodigo.com/java/vaciar-una-tabla-con-java/
  * @description Vaciar una tabla con Java JDBC.

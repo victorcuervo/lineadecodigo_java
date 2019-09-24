@@ -3,7 +3,7 @@ package com.lineadecodigo.java.basico.variables;
 /**
  * @file TiposDatoObjeto.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2015
  * @url		http://lineadecodigo.com/java/tipo-de-objeto-boolean/
  * @description Operaciones para crear y modificar un objeto boolean
@@ -25,7 +25,7 @@ public class TipoDatoBoolean {
 	    else
 	    	System.out.println("Valores Diferentes");
 
-	    // Hay que hacer comparaciones con el m�todo .equals()
+	    // Hay que hacer comparaciones con el método .equals()
 	    if (b1.equals(b2))
 	    	System.out.println("Valores Iguales");
 	    else

@@ -3,10 +3,10 @@ package com.lineadecodigo.java.file;
 /**
  * @file LeerFicheroAlReves.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   01/sep/2015
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   01/septiembre/2015
  * @url    http://lineadecodigo.com/java/leer-fichero-al-reves-con-java/
- * @descriptio C�digo que realiza la lectura de un fichero y lo muestra de forma inversa.
+ * @descriptio Código que realiza la lectura de un fichero y lo muestra de forma inversa.
  */
 
 import java.io.BufferedReader;
