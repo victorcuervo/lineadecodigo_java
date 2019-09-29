@@ -3,9 +3,9 @@ package com.lineadecodigo.java.math;
 /**
  * @file PotenciasDelDos.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/enero/2009
- * @url    http://lineadecodigo.com/2009/01/16/potencias-del-dos-con-java/
+ * @url    http://lineadecodigo.com/java/potencias-del-dos-con-java/
  * @description Listado de potencias del 2. 
  */
 

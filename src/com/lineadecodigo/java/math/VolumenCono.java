@@ -4,7 +4,7 @@ package com.lineadecodigo.java.math;
  * @file VolumenCono.java
  * @version 1.0
  * @author Ariel Carraro (http://lineadecodigo.com)
- * @date   14-junio-2013
+ * @date   14/junio/2013
  * @url    http://lineadecodigo.com/java/calcular-el-volumen-de-un-cono-en-java/
  * @description Programa que realizar el cálculo matemático del volumen de un cono en Java.
  */

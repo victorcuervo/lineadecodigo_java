@@ -4,8 +4,8 @@ package com.lineadecodigo.java.math;
  * @file CalcularSectorCircular.java
  * @version 1.0
  * @author Fer Carraro
- * @date   20-julio-2013
- * @url    
+ * @date   20/julio/2013
+ * @url   http://lineadecodigo.com/java/calcular-el-sector-circular-en-java/ 
  * @description Calcular el sector circular de una circunferencia en Java
  */
 
@@ -23,6 +23,7 @@ public class CalcularSectorCircular{
     l=in.nextDouble();
     sector=new Sector(r,l);
     sector.ver();
+    in.close();
   }
 }
 

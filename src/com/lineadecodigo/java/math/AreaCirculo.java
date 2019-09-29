@@ -3,8 +3,8 @@ package com.lineadecodigo.java.math;
 /**
  * @file AreaCirculo.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   21-dic-2006
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   21/diciembre/2006
  * @url    http://lineadecodigo.com/2006/12/21/area-de-un-circulo-en-java/
  * @description Uso de la clase Math para el calculo del area de un circulo  
  */
@@ -17,10 +17,10 @@ public class AreaCirculo {
 		double area;
 		
 		area = 3.1416 * Math.pow(radio,2);
-		System.out.println("El área de un circulo de radio "+radio+" es "+area);
+		System.out.println("El Ã¡rea de un circulo de radio "+radio+" es "+area);
 		
 		area = Math.PI * Math.pow(radio,2);
-		System.out.println("El área de un circulo de radio "+radio+" es "+area);
+		System.out.println("El Ã¡rea de un circulo de radio "+radio+" es "+area);
 
 	}
 

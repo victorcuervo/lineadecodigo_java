@@ -3,10 +3,10 @@ package com.lineadecodigo.java.math;
 /**
  * @file AreaPentagono.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   2-octubre-2010
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   2/octubre/2010
  * @url    http://lineadecodigo.com/java/area-de-un-pentagono-en-java/
- * @description Calcular el área de un pentagono con Java  
+ * @description Calcular el Ã¡rea de un pentagono con Java  
  */
 
 import java.util.Scanner;
@@ -37,7 +37,7 @@ public class AreaPentagono {
 			area = ((lado*5)*apotema)/2;
 		}
 
-		System.out.println("El área del pentagono es " + area);
+		System.out.println("El Ã¡rea del pentagono es " + area);
 		
 		
 		reader.close();

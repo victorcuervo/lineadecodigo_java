@@ -3,8 +3,8 @@ package com.lineadecodigo.java.mail;
 /**
  * @file AutentificarSMTP.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   26.marzo.2011
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   26/marzo/2011
  * @url    http://lineadecodigo.com/java/autentificandose-con-smtp/
  * @description Clase que autentifica contra un servidor SMTP  
  */
@@ -24,7 +24,7 @@ public class AutentificarSMTP {
 			props.put("mail.transport.protocol","smtp");
 			props.put("mail.smtp.host","mail.lineadecodigo.com");
 	
-			// Creo la sesi�n y un nuevo mensaje de correo
+			// Creo la sesión y un nuevo mensaje de correo
 			Autentificacion pwd = new Autentificacion();
 			Session mailSession = Session.getInstance(props,pwd);
 			

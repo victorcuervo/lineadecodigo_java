@@ -3,9 +3,9 @@ package com.lineadecodigo.java.net;
 /**
  * @file ObtenerIPDelHost.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   8-agosto-2007
- * @url    http://lineadecodigo.com/2007/08/08/obtener-la-ip-de-un-host/
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   8/agosto/2007
+ * @url    http://lineadecodigo.com/java/obtener-la-ip-de-un-host/
  * @description Obtener la IP de un determinado host(URL). Convertimos los byte de la IP en una cadena de texto.  
  */
 
@@ -34,7 +34,7 @@ public class ObtenerIPDelHost {
 	    //return ip2string_v2(bIPAddress);
 	   
 	  } catch (UnknownHostException e) {
-		  // Volcamos la excepción e indicamos que no se ha podido resolver
+		  // Volcamos la excepciï¿½n e indicamos que no se ha podido resolver
 		  // e.printStackTrace();
 		  return "No se ha podido resolver";
 	  } 

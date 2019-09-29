@@ -4,9 +4,9 @@ import java.util.*;
 import java.io.*;
 
 /**
- * @file PotenciasDelDosConBits.java
+ * @file RaizCuadrada.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   3/febrero/2013
  * @url    http://lineadecodigo.com/java/como-obtener-la-raiz-cuadrada-de-un-numero-con-java/
  * @description Código fuente Java para calcular una raíz cuadrada
@@ -15,7 +15,7 @@ import java.io.*;
 public class RaizCuadrada {
     
 	//funcion de separacion en tuplas de numeros para procesar la raiz cuadrada
-    public static List parseNumber(String n){
+    public static List<Integer> parseNumber(String n){
         List<Integer>  result=new ArrayList<Integer>();
         String number=n.trim();        
         char [] numberChars=number.toCharArray();

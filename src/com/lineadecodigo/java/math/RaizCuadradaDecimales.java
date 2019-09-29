@@ -3,8 +3,8 @@ package com.lineadecodigo.java.math;
 /*
 * @file VolumenCilindro.java
 * @version 1.0
-* @author Víctor Cuervo
-* @date   22-septiembre-2016
+* @author Víctor Cuervo (http://lineadecodigo.com)
+* @date   22/septiembre/2016
 * @url    http://lineadecodigo.com/java/raiz-cuadrada-de-dos-decimales/
 * @description Muestra el resultado de una raíz cuadrada con dos decimales.
 */

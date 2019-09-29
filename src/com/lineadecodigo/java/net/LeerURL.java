@@ -3,8 +3,8 @@ package com.lineadecodigo.java.net;
 /**
  * @file LeerURL.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   27-agosto-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   27/agosto/2007
  * @url    http://lineadecodigo.com/2007/08/27/leer-una-url-con-java/
  * @description Lectura del contenido de una URL  
  */

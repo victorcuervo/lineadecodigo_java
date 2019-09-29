@@ -3,10 +3,10 @@ package com.lineadecodigo.java.mail;
 /**
  * @file DepurarSMTP.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   28.marzo.2011
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   28/marzo/2011
  * @url    http://lineadecodigo.com/java/depurar-una-conexion-smtp-con-java-mail/
- * @description Como depurar una conexión SMTP con Java Mail  
+ * @description Como depurar una conexiÃ³n SMTP con Java Mail  
  */
 
 import java.util.*;
@@ -26,11 +26,11 @@ public class DepurarSMTP {
 			props.put("mail.transport.protocol","smtp");
 			props.put("mail.smtp.host","mail.lineadecodigo.com");
 	
-			// Creo la sesión y un nuevo mensaje de correo
+			// Creo la sesiÃ³n y un nuevo mensaje de correo
 			Autentificacion pwd = new Autentificacion();
 			Session mailSession = Session.getInstance(props,pwd);
 
-			// Activamos la depuración
+			// Activamos la depuraciÃ³n
 			mailSession.setDebug(true);
 			
 			Message msg = new MimeMessage(mailSession);

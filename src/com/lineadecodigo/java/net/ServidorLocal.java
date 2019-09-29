@@ -6,8 +6,8 @@ import java.net.UnknownHostException;
 /**
  * @file ServidorLocal.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   3.octubre.09
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   3/octubre/2009
  * @url    http://lineadecodigo.com/java/obtener-el-nombre-e-ip-del-servidor-con-java/
  * @description Obtener el nombre e IP del servidor Local
  */
@@ -48,7 +48,7 @@ public class ServidorLocal {
 	    System.out.println("IP de la maquina local:" + sIPAddress);
 	   
 	    } catch (UnknownHostException e) {
-	      // Se genera una excepci�n
+	      // Se genera una excepción
 	      System.out.println(e.toString());
 	    } 
 	}

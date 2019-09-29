@@ -4,9 +4,9 @@ package com.lineadecodigo.java.net;
  * @file ComprobarConexion.java
  * @version 1.0
  * @author  Christian G. Gimenez(http://lineadecodigo.com)
- * @date   27-junio-2012
+ * @date   27/junio/2012
  * @url    http://lineadecodigo.com/java/comprobar-conexion-a-internet-con-java/
- * @description C�digo que comprueba si hay una conexi�n.  
+ * @description Código que comprueba si hay una conexión.  
  */
 
 import java.net.Socket;

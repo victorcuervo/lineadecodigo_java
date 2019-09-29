@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * @file ConectarFTP.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   7/septiembre/2011
  * @url    http://lineadecodigo.com/java/conectarse-a-un-ftp-con-java/
  * @description Conectarnos a un FTP mediante Apache Commons  

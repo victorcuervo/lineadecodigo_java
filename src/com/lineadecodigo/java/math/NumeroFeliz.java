@@ -3,7 +3,7 @@ package com.lineadecodigo.java.math;
 /**
  * @file NumeroFeliz.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   5/mayo/2012
  * @url    http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/
  * @description Calculo sobre si un número es un número feliz.

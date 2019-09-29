@@ -4,7 +4,7 @@ package com.lineadecodigo.java.math;
  * @file Ejemplos.java
  * @version 1,0
  * @author Ariel Carraro
- * @date   20-diciembre-2013
+ * @date   20/diciembre/2013
  * @url    http://lineadecodigo.com/java/calcular-el-volumen-de-una-piramide-en-java/
  * @description Programa que calcula el volumen de una pirámide
  */

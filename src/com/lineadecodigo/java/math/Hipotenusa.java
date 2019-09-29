@@ -3,10 +3,10 @@ package com.lineadecodigo.java.math;
 /**
  * @file Hipotenusa.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   25-feb-2007
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   25/febrero/2007
  * @url    http://lineadecodigo.com/2007/02/25/calcular-la-hipotenusa-con-java/
- * @description Utilización del método hypot para calcular la hipotenusa de un triangulo.  
+ * @description UtilizaciÃ³n del mÃ©todo hypot para calcular la hipotenusa de un triangulo.  
  */
 
 public class Hipotenusa {
@@ -23,7 +23,7 @@ public class Hipotenusa {
 		hypo = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
 		System.out.println("La hipotenusa de un triangulo de lados "+cateto1+" y "+cateto2+" es " + hypo);
 		
-		// Con el método hypot
+		// Con el mÃ©todo hypot
 		System.out.println("La hipotenusa de un triangulo de lados "+cateto1+" y "+cateto2+" es " + Math.hypot(cateto1, cateto2));
 
 	}

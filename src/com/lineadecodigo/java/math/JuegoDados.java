@@ -3,10 +3,10 @@ package com.lineadecodigo.java.math;
 /**
  * @file JuegoDados.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   02-octubre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   02/octubre/2010
  * @url    http://lineadecodigo.com/java/juego-de-los-dados/
- * @description Dos personas apuestan a los dados con las siguientes reglas: Cada uno arroja un dado en cada jugada. El que saca mayor puntaje en la jugada aumenta su puntaje en 5 puntos, pero si hay empate en la jugada no se anotan puntos. El partido lo gana el que obtenga una ventaja de 15 puntos. (Las ventajas se comparan despu�s de haber analizado los resultados de ambas jugadas). 
+ * @description Dos personas apuestan a los dados con las siguientes reglas: Cada uno arroja un dado en cada jugada. El que saca mayor puntaje en la jugada aumenta su puntaje en 5 puntos, pero si hay empate en la jugada no se anotan puntos. El partido lo gana el que obtenga una ventaja de 15 puntos. (Las ventajas se comparan después de haber analizado los resultados de ambas jugadas). 
  */
 
 import java.util.Scanner;

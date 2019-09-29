@@ -6,10 +6,10 @@ import java.io.IOException;
 /**
  * @file CambiarDirectorioFTP.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   7/septiembre/2011
  * @url    http://lineadecodigo.com/java/acceder-a-un-directorio-de-un-ftp-con-java/
- * @description CÛdigo que nos enseÒa como cambiar de directorio en un FTP  
+ * @description C√≥digo que nos ense√±a como cambiar de directorio en un FTP  
  */
 
 public class CambiarDirectorioFTP {
@@ -28,7 +28,7 @@ public class CambiarDirectorioFTP {
 		    client.connect(sFTP);
 		    client.login(sUser,sPassword);
 		    
-		    //Conocer el directorio en el que est· conectado el FTP		   
+		    //Conocer el directorio en el que est√° conectado el FTP		   
 		    System.out.println(client.printWorkingDirectory());
 		    
 		    // Cambiamos el directorio

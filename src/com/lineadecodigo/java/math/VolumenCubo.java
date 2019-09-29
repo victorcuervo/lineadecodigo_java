@@ -3,8 +3,8 @@ package com.lineadecodigo.java.math;
 /**
  * @file VolumenCubo.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   21-septiembre-2009
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   21/septiembre/2009
  * @url    http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/
  * @description Ejemplo que calcula el volumen de un cubo con Java.
  */

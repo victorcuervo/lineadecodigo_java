@@ -4,7 +4,7 @@ package com.lineadecodigo.java.math;
  * @file VolumenEsfera.java
  * @version 1.0
  * @author Ariel Carraro (http://lineadecodigo.com)
- * @date   2-febrero-2013
+ * @date   2/febrero/2013
  * @url    http://lineadecodigo.com/java/calcular-el-volumen-de-una-esfera-en-java/
  * @description Programa que nos muestra como podemos calcular el volumen de una esfera en Java mediante una sencilla formula matematica.
  */

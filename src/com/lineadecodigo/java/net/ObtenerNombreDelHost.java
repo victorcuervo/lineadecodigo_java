@@ -4,9 +4,9 @@ package com.lineadecodigo.java.net;
 /**
  * @file ObtenerNombreDelHost.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   8-agosto-2007
- * @url    http://lineadecodigo.com/2007/08/09/obtener-el-nombre-de-un-host/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   8/agosto/2007
+ * @url    http://lineadecodigo.com/java/obtener-el-nombre-de-un-host/
  * @description El nombre de un host a partir de una IP dada con Java.Net  
  */
 
@@ -35,7 +35,7 @@ public class ObtenerNombreDelHost {
 
 	        return hostname;
 	   
-	    } catch (UnknownHostException e) { return "Error en la obtenci�n del nombre del host"; }
+	    } catch (UnknownHostException e) { return "Error en la obtención del nombre del host"; }
 	  }
 
 }

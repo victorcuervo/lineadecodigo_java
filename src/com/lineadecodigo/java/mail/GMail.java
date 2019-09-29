@@ -4,7 +4,7 @@ package com.lineadecodigo.java.mail;
  * @file Gmail.java
  * @version 1.0
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
- * @date Dec 27, 2012
+ * @date 27/diciembre/2012
  * @url http://lineadecodigo.com/java/obtener-cantidad-de-email-sin-leer-en-gmail-con-java/
  * @description Obtiene la cantidad de mensajes leidos y no leidos de una casilla de gmail  
  */
@@ -15,14 +15,14 @@ import javax.mail.Folder;
 import javax.mail.Session;
 import javax.mail.Store;
 
-public class Gmail {
+public class GMail {
 
 	protected String user; // Usuario
 	protected String pass; // Contraseña
 	protected String host; // Servidor
 	protected Folder inbox; // Carpeta a analizar
 
-	public Gmail(String user, String pass) {
+	public GMail(String user, String pass) {
 		this.user = user + "@gmail.com";
 		this.pass = pass;
 		this.host = "imap.gmail.com";
@@ -92,7 +92,7 @@ public class Gmail {
 	}
 
 	public static void main(String[] args) {
-		Gmail gmail = new Gmail("USER", "PASS");
+		GMail gmail = new GMail("USER", "PASS");
 
 		gmail.connect();
 

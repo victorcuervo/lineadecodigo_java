@@ -4,9 +4,9 @@ package com.lineadecodigo.java.math;
  * @file AreaCubo.java
  * @version 1.0
  * @author Ariel Carraro
- * @date   13-diciembre-2013
+ * @date   13/diciembre/2013
  * @url		http://lineadecodigo.com/java/calcular-el-area-de-un-cubo-en-java/
- * @description C‡lculo del ‡rea lateral y total de un cubo usando clases abstractas y derivadas
+ * @description CÃ¡lculo del Ã¡rea lateral y total de un cubo usando clases abstractas y derivadas
  */
 
 public class AreaCubo{
@@ -30,9 +30,9 @@ public class AreaCubo{
      Area area= new Cubo(10); //le asignamos el valor 10
    
      AreaCubo areaCubo=new AreaCubo(area);    
-     //visualizar ‡rea lateral
+     //visualizar Ã¡rea lateral
      areaCubo.verAreaLateral();
-    //visualizar ‡rea total
+    //visualizar Ã¡rea total
      areaCubo.verAreaTotal();
    
  }

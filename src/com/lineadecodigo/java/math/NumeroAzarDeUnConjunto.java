@@ -3,9 +3,9 @@ package com.lineadecodigo.java.math;
 /**
  * @file NumeroAzarDeUnConjunto.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   7-septiembre-2007
- * @url    http://lineadecodigo.com/2007/09/07/numero-aleatorio-de-un-conjunto-con-javamath/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   7/septiembre/2007
+ * @url    http://lineadecodigo.com/java/numero-aleatorio-de-un-conjunto-con-javamath/
  * @description Obtener un numero aleatorio de un conjunto acotado.  
  */
 
