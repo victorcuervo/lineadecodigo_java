@@ -3,8 +3,8 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file CrearArrayList.java
  * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   28-septiembre-2014
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
+ * @date   28/septiembre/2014
  * @url    http://lineadecodigo.com/java/crear-un-arraylist-en-java/
  * @description Diferentes formas de crear un ArrayList en Java.
  */
@@ -17,23 +17,20 @@ public class CrearArrayList {
 	public static void main(String[] args) {
 
 		
-		// ArrayList sin tamaño
+		// ArrayList sin tama√±o
 		ArrayList<String> al = new ArrayList<String>();
 		
-		// ArrayList con tamaño
+		// ArrayList con tama√±o
 		ArrayList<String> al2 = new ArrayList<String>(3);
 		
-		// ArrayList desde otra colección
+		// ArrayList desde otra colecci√≥n
 		
 		Vector<String> vector = new Vector<String>();
 		vector.add("Irene");
-		vector.add("María");
+		vector.add("Mar√≠a");
 		
-		// ArrayList con tamaño
+		// ArrayList con tama√±o
 		ArrayList<String> al3 = new ArrayList<String>(vector);
-
-	
-
 		
 		
 	}

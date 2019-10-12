@@ -1,9 +1,10 @@
 package com.lineadecodigo.java.util;
+
 /**
  * @file CerosALaIzquierda.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date 27-octubre-2009   
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date 27/octubre/2009   
  * @url  http://lineadecodigo.com/java/anadir-ceros-a-la-izquierda/
  * @description Añade ceros a la izquierda de un número hasta completar su tamaño.  
  */

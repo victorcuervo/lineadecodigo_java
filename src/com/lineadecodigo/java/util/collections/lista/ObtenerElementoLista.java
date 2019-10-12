@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @file ObtenerElementoLista.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   9-noviembre-2014
+ * @date   9/noviembre/2014
  * @url    http://lineadecodigo.com/java/obtener-elemento-de-un-arraylist/
  * @description Obtener un elemento de un ArrayList.
  */

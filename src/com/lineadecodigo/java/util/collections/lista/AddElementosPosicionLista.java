@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @file AddElementosPosicionLista.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   10-octubre-2014
+ * @date   10/octubre/2014
  * @url    http://lineadecodigo.com/java/insertar-un-elemento-dentro-de-un-arraylist/
  * @description Como insertar un elemento dentro de una posición de un ArrayList
  */

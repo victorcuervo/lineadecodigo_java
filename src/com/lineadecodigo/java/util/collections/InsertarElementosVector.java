@@ -6,7 +6,7 @@ import java.util.Vector;
 /**
  * @file InsertarElementosVector.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   17/enero/2009
  * @url  http://lineadecodigo.com/2006/12/17/insertar-elementos-en-un-vector/
  * @description Insertar elementos en un vector

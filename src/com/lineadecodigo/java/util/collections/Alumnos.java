@@ -4,9 +4,9 @@ package com.lineadecodigo.java.util.collections;
  * @file Alumnos.java
  * @version 1.0
  * @author Emmanuel Ramos (http://lineadecodigo.com)
- * @date   08/abr/2012
+ * @date   08/abril/2012
  * @url    http://lineadecodigo.com/java/usando-las-clases-hashset-y-hashmap/
- * @description Sobrescribir el método .equals u .hascode para cambiar el comportamiento de un HashMap y HashCode 
+ * @description Sobrescribir el mÃ©todo .equals u .hascode para cambiar el comportamiento de un HashMap y HashCode 
  */
 
 import java.util.HashMap;

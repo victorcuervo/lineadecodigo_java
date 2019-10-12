@@ -9,7 +9,6 @@ package com.lineadecodigo.java.swing;
  * @description Utilización de substances para dar estilo a un JFrame
  */
 
-
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

@@ -3,8 +3,8 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file CrearArrayList.java
  * @version 1.0
- * @author V�ctor Cuervo (http://lineadecodigo.com)
- * @date   1-noviembre-2014
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   1/noviembre/2014
  * @url    http://lineadecodigo.com/java/recorrer-un-arraylist/
  * @description Recorrer un ArrayList mediante un bucle for
  */

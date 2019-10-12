@@ -3,7 +3,7 @@ package com.lineadecodigo.java.swing;
 /**
  * @file FilaColumna.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   23/septiembre/2015
  * @url    http://lineadecodigo.com/java/fila-y-columna-del-jtextarea/
  * @description Programa que controla la fila y columna en la que se encuentra un cursor en el JTextArea

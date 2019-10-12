@@ -9,7 +9,6 @@ package com.lineadecodigo.java.swing;
  * @description Juego Básico con Java Swing para adivinar la suma de dos números
  */
 
-
 import javax.swing.JTextField;
 import javax.swing.JLabel;
 import javax.swing.JFrame;

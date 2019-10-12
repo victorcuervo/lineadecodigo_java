@@ -6,10 +6,10 @@ import java.util.Vector;
 /**
  * @file OrdenarVector.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   22/marzo/2009
  * @url  http://lineadecodigo.com/2009/03/22/ordenar-un-vector-de-string-en-java/
- * @description Ordenar un Vector mediante la clase Collections y su m�todo .sort
+ * @description Ordenar un Vector mediante la clase Collections y su método .sort
  */
 
 public class OrdenarVector {

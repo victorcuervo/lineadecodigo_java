@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @file TamanioLista.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   10-noviembre-2014
+ * @date   10/noviembre/2014
  * @url    http://lineadecodigo.com/java/numero-de-elementos-en-un-arraylist/
  * @description Conocer el número de elementos de un ArrayList
  */

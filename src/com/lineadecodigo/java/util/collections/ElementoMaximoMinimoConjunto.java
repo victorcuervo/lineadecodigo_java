@@ -3,9 +3,9 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file ElementoMaximoMinimoConjunto.java
  * @version 1.2
- * @author 	Linea de Codigo (http://lineadecodigo.com)
- * @date   	8-julio-2007
- * @url		http://http://lineadecodigo.com/2007/07/08/elemento-maximo-y-minimo-de-un-conjunto-con-objetos/
+ * @author 	Víctor Cuervo (http://lineadecodigo.com)
+ * @date   	8/julio/2007
+ * @url		http://http://lineadecodigo.com/java/elemento-maximo-y-minimo-de-un-conjunto-con-objetos/
  * @description Como utilizar los métodos .max y .min de la clase Collections con objetos. Utilización del interface Comparator.
  */
 

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.swing;
 /**
  * @file ResolucionPantalla.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   13/septiembre/2010
  * @url  http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/  
  * @description Clase que nos permite conocer la resolución de la pantalla del usuario

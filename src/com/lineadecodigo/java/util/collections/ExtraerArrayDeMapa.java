@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections;
  * @file ExtraerArrayDeMapa.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   18/oct/2015
+ * @date   18/octubre/2015
  * @url    http://lineadecodigo.com/java/extraer-array-de-un-mapa-con-java/
  * @description Extrer el contenido de un Mapa y volcarlo a un array
  */

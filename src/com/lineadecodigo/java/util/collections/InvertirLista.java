@@ -1,6 +1,7 @@
 package com.lineadecodigo.java.util.collections;
 
-/* @file InvertirLista.java
+/**
+*  @file InvertirLista.java
 * @version 1.0
 * @author Víctor Cuervo. (http://lineadecodigo.com)
 * @date   03/junio/2015

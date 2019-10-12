@@ -1,6 +1,6 @@
 package com.lineadecodigo.java.util.collections;
 
-/* 
+/** 
 * @file NumeroElementosLista.java
 * @version 1.0
 * @author Víctor Cuervo. (http://lineadecodigo.com)

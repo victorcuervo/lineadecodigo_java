@@ -3,10 +3,10 @@ package com.lineadecodigo.java.util;
 /**
  * @file NumeroRandom.java
  * @version 1.0
- * @author Víctor Cuervo. (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   03/junio/2015
  * @url    http://lineadecodigo.com/java/generar-un-numero-aleatorio/
- * @description Uso de la clase Random para generar números aleatorios.
+ * @description Uso de la clase Random para generar nÃºmeros aleatorios.
  */
 
 import java.util.Random;

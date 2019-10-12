@@ -1,13 +1,4 @@
-package com.lineadecodigo.java.swing;
-
-/**
- * @file ClickBoton.java
- * @version 1.0
- * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   6/noviembre/2016
- * @url    http://lineadecodigo.com/java/click-en-boton-con-java-swing/
- * @description Detectar click sobre un botón en Java Swing
- */
+package com.lineadecodigo.java.swing.borrador;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -19,21 +10,21 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-public class ClickBoton extends JFrame {
+public class ComponenteOrigenEvento extends JFrame {
 	
 	private static final long serialVersionUID = 1L;
 	
 	private JLabel etiqueta;
 	private JButton boton;
 	
-	ClickBoton(){
-		super("Click sobre Botón");
+	ComponenteOrigenEvento(){
+		super("Componente origen del Evento");
 		getContentPane().setLayout(new FlowLayout());	
 		
-		boton = new JButton("Púlsame");
+		boton = new JButton("Botón 1");
 		etiqueta = new JLabel("");
 		
-		add(boton);
+		add(boton);	
 		add(etiqueta);
 		
 		
@@ -41,10 +32,10 @@ public class ClickBoton extends JFrame {
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				etiqueta.setText("Has pulsado el botón ");			
-			}	
+				JButton boton = (JButton)e.getSource();
+				boton.setText("Me has hecho click");				
+			}
 		});
-		
 		
 		addWindowListener(new WindowAdapter() {
 			public void windowClosing(WindowEvent e) {
@@ -52,13 +43,13 @@ public class ClickBoton extends JFrame {
 			}
 		});
 		
-		setSize(400,100);
+		setSize(400,80);
 		setVisible(true);
 		
 	}
 	
 	public static void main(String[] args) {
-		new ClickBoton();
+		new ComponenteOrigenEvento();
 
 	}
 

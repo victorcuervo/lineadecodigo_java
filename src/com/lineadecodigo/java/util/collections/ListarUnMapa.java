@@ -3,9 +3,9 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file ListarUnMapa.java
  * @version 1.1
- * @author 	Linea de Codigo (http://lineadecodigo.com)
- * @date   	8-julio-2007
- * @url		http://lineadecodigo.com/2007/07/13/listar-un-mapa-con-java-util/
+ * @author 	Víctor Cuervo (http://lineadecodigo.com)
+ * @date   	8/julio/2007
+ * @url		http://lineadecodigo.com/java/listar-un-mapa-con-java-util/
  * @description Recorrer una estructura de tipo HashMap y mostrar sus elementos.
  */
 

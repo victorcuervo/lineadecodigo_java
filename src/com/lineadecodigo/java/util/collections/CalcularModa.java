@@ -3,8 +3,8 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file CalcularModa.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   09-noviembre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   09/noviembre/2010
  * @url     http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/
  * @description Clase que calcula la moda de una distribución utiliznado Java
  */

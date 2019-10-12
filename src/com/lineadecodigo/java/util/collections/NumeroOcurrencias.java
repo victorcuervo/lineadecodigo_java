@@ -3,12 +3,11 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file RecorrerListaHaciaAtras.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   29-marzo-2011
  * @url    http://lineadecodigo.com/java/numero-de-ocurrencias-en-un-array/
- * @description Clase que calcula el número de ocurrencias en los que aparece un número dentro de un array
+ * @description Clase que calcula el nÃºmero de ocurrencias en los que aparece un nÃºmero dentro de un array
  */
-
 
 
 import java.util.HashMap;
@@ -37,7 +36,7 @@ public class NumeroOcurrencias {
 		while (it.hasNext()) {
 			Entry<Integer,Integer> e = it.next();
 			vez = (e.getValue()>1)?" veces":" vez";
-			System.out.println("El número " + e.getKey() + " aparece " + e.getValue() + vez);
+			System.out.println("El nÃºmero " + e.getKey() + " aparece " + e.getValue() + vez);
 		}	
 	}		
 }

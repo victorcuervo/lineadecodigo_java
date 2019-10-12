@@ -3,8 +3,8 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file IteradorLista.java
  * @version 1.0
- * @author V�ctor Cuervo (http://lineadecodigo.com)
- * @date   9-noviembre-2014
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   9/noviembre/2014
  * @url    http://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/
  * @description Utilizar un ListIterator para recorrer una lista en ambas direcciones
  */

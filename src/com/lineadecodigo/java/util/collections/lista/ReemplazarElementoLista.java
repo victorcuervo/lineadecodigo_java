@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @file CrearArrayList.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   9-noviembre-2014
+ * @date   9/noviembre/2014
  * @url    http://lineadecodigo.com/java/reemplazar-un-elemento-del-arraylist/
  * @description Reemplazar un elemento dentro de un ArrayList.
  */

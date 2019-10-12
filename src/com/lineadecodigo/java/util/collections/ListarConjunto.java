@@ -3,9 +3,9 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file ListarConjunto.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   01-febrero-2009
- * @url  http://lineadecodigo.com/2007/08/03/listar-un-conjunto/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   01/febrero/2009
+ * @url  http://lineadecodigo.com/java/listar-un-conjunto/
  * @description Listar los elementos de un conjunto.  
  */
 

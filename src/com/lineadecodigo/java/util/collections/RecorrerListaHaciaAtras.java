@@ -3,12 +3,11 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file RecorrerListaHaciaAtras.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   01-febrero-2009
- * @url    http://lineadecodigo.com/2007/07/19/recorrer-una-lista-hacia-atras-en-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   01/febrero/2009
+ * @url    http://lineadecodigo.com/java/recorrer-una-lista-hacia-atras-en-java/
  * @description Recorrer una lista desde el último elemento hacía el primero
  */
-
 
 import java.util.*;
 

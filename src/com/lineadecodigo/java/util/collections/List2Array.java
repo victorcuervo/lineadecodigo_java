@@ -3,12 +3,11 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file List2Array.java
  * @version 1.0
- * @author V’ctor Cuervo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2014
  * @url    http://lineadecodigo.com/java/convertir-una-lista-en-un-array/
  * @description Convierte una lista en un array 
  */
-
 
 import java.util.ArrayList;
 import java.util.List;

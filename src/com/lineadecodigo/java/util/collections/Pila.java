@@ -5,8 +5,8 @@ import java.util.Stack;
 /**
  * @file Pila.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   06-octubre-2009
+ * @author LVíctor Cuervo (http://lineadecodigo.com)
+ * @date   06/octubre/2009
  * @url     http://lineadecodigo.com/java/crear-una-pila-en-java/
  * @description Clase que instancia y utiliza una pila
  */

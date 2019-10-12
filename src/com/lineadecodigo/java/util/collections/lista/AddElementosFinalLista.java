@@ -3,10 +3,10 @@ package com.lineadecodigo.java.util.collections.lista;
 /**
  * @file AddElementosFinalLista.java
  * @version 1.0
- * @author V�ctor Cuervo (http://lineadecodigo.com)
- * @date   20-octubre-2014
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   20/octubre/2014
  * @url    http://lineadecodigo.com/java/anadir-elementos-al-final-de-un-arraylist/
- * @description C�digo que a�ade una colecci�n al final de un ArrayList.
+ * @description Código que añade una colección al final de un ArrayList.
  */
 
 import java.util.ArrayList;

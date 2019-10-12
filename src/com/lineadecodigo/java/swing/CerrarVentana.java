@@ -3,7 +3,7 @@ package com.lineadecodigo.java.swing;
 /**
  * @file CerrarVenatana.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   4/junio/2010
  * @url    http://lineadecodigo.com/java/cerrar-una-ventana-con-java-swing/
  * @description Gestionar el cierre de una ventana en Java Swing

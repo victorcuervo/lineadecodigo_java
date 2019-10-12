@@ -6,10 +6,10 @@ import java.util.Vector;
 /**
  * @file InsertarElementoVectorPosicionConcreta.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   18/enero/2009
  * @url  http://lineadecodigo.com/2009/01/19/insertar-un-elemento-en-una-posicion-concreta-del-vector/
- * @description Insertar un elemento en una posici�n concreta de un Vector
+ * @description Insertar un elemento en una posición concreta de un Vector
  */
 
 

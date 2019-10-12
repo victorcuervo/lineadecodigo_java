@@ -4,7 +4,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @file EliminarElementoLista.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
- * @date   9-noviembre-2014
+ * @date   9/noviembre/2014
  * @url    http://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/
  * @description Código que elimina un elemento de un ArrayList
  */

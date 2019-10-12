@@ -3,10 +3,10 @@ package com.lineadecodigo.java.util.collections;
 /**
  * @file MaximoMinimoConjunto.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   24-jun-2006
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date   24/junio/2006
  * @url    http://lineadecodigo.com/2007/06/26/maximo-y-minimo-numero-de-un-conjunto/
- * @description Calculo del número mínimo y máximo de un conjunto mediante el framework Collections
+ * @description Calculo del nÃºmero mÃ­nimo y mÃ¡ximo de un conjunto mediante el framework Collections
  */
 
 import java.util.*;
@@ -21,9 +21,9 @@ public class MaximoMinimoConjunto {
 	    hs.add(6);
 	    hs.add(8);
 
-	    System.out.println("El número mayor del conjunto es... "
+	    System.out.println("El nÃºmero mayor del conjunto es... "
 	     + Collections.max(hs));
-	    System.out.println("El número menor del conjunto es... "
+	    System.out.println("El nÃºmero menor del conjunto es... "
 	     + Collections.min(hs));
 		
 		
