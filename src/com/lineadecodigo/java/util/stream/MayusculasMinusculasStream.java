@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.stream;
 /**
  * @file MayusculasMinusculasStream.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   13/marzo/2016
  * @url    http://lineadecodigo.com/java/caracteres-mayusculas-minusculas-stream/
  * @description Código que convierte los caracteres de una cadena a mayúsculas y minúsuclas de forma secuencial utilizando un Stream

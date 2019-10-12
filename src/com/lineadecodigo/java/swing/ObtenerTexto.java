@@ -3,7 +3,7 @@ package com.lineadecodigo.java.swing;
 /**
  * @file BotonPulsado.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/noviembre/2015
  * @url    http://lineadecodigo.com/java/obtener-texto-jtextfield/
  * @description Otener el contenido insertado por el usuario en un JTextField

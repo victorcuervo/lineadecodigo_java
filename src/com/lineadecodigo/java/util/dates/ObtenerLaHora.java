@@ -1,12 +1,12 @@
 package com.lineadecodigo.java.util.dates;
 
-/* 
+/** 
 * @file ContarPalabras.java
 * @version 1.0
-* @author VÌctor Cuervo. (http://lineadecodigo.com)
+* @author V√≠ctor Cuervo (http://lineadecodigo.com)
 * @date   03/junio/2015
 * @url    http://lineadecodigo.com/java/obtener-la-hora-en-java/
-* @description CÛdigo que nos muestra la hora actual.
+* @description C√≥digo que nos muestra la hora actual.
 */
 
 import java.util.Calendar;
@@ -16,7 +16,7 @@ public class ObtenerLaHora {
 	
 	public static void main(String[] args) {
 	
-		// Ambas instanciaciones son v·lidas
+		// Ambas instanciaciones son v√°lidas
 		Calendar calendario = new GregorianCalendar();
 		//Calendar calendario = Calendar.getInstance();
 		

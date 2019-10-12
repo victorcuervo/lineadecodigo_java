@@ -1,14 +1,13 @@
 package com.lineadecodigo.java.util.properties;
 
-/* 
+/**s 
 * @file PropertiesClaveValor.java
 * @version 1.0
-* @author Víctor Cuervo. (http://lineadecodigo.com)
+* @author VÃ­ctor Cuervo (http://lineadecodigo.com)
 * @date   05/junio/2015
 * @url    http://lineadecodigo.com/java/leer-valores-de-fichero-de-properties/
 * @description Lee las propiedades de un fichero Properties.
 */
-
 
 import java.io.FileInputStream;
 import java.io.IOException;

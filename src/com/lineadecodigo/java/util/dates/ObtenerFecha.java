@@ -3,8 +3,8 @@ package com.lineadecodigo.java.util.dates;
 /**
  * @file ObtenerFecha.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   16-octubre-2007
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   16/octubre/2007
  * @url    http://lineadecodigo.com/2007/10/16/obtener-fecha-actual-con-java/
  * @description Obtener la fecha del día con Java.  
  */

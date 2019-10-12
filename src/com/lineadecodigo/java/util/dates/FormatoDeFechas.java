@@ -6,7 +6,7 @@ package com.lineadecodigo.java.util.dates;
  * @author Emmanuel Ramos. (http://lineadecodigo.com)
  * @date   15-marzo-2012
  * @url    http://lineadecodigo.com/java/formato-a-fechas-en-java-con-dateformat/
- * @description Cómo dar un formato a una fecha con Java
+ * @description CÃ³mo dar un formato a una fecha con Java
  */
 
 import java.text.DateFormat;

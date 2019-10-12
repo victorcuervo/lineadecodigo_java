@@ -3,7 +3,7 @@ package com.lineadecodigo.java.util.stream;
 /**
  * @file CadenaComoStream.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   13/marzo/2016
  * @url    http://lineadecodigo.com/java/string-stream-java/
  * @description Manipular una cadena como si fuese un Stream 

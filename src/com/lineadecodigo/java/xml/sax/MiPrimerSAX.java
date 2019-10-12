@@ -9,8 +9,8 @@ import javax.xml.parsers.*;
 /**
  * @file MiPrimerSAX.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   17-abril-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   17/abril/2010
  * @url    http://lineadecodigo.com/java/acceder-al-xml-con-sax/
  * @description Utilizar SAX para acceder al contenido de un fichero XML.  
  */

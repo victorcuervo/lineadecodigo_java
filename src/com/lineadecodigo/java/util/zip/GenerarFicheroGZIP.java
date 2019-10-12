@@ -1,10 +1,20 @@
 package com.lineadecodigo.java.util.zip;
 
+/**
+ * @file MayusculasMinusculasStream.java
+ * @version 1.0
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   31/diciembre/2006
+ * @url    http://lineadecodigo.com/java/generar-un-fichero-gzip-con-java/
+ * @description Código que nos permite comprimir un archivo como fichero zip
+ */
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.zip.GZIPOutputStream;
+
 
 public class GenerarFicheroGZIP {
 

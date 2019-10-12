@@ -6,9 +6,9 @@ import java.util.*;
 /**
  * @file EscribirEnFicheroProperties.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   22-dic-2007
- * @url    http://lineadecodigo.com/2007/12/23/modificar-valores-de-un-fichero-properties/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   22/diciembre/2007
+ * @url    http://lineadecodigo.com/java/modificar-valores-de-un-fichero-properties/
  * @description Crear un fichero de propiedades para guardar info  
  */
 
