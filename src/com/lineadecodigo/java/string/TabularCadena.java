@@ -3,7 +3,7 @@ package com.lineadecodigo.java.string;
 /**
  * @file TabularCadena.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   6/enero/2007
  * @url    http://lineadecodigo.com/java/tabular-cadenas-en-java/
  * @description Tabular cadenas de texto en Java  

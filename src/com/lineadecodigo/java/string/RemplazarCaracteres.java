@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file RemplazarCaracteres.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  16-octubre-2007
- * @url    http://lineadecodigo.com/2007/10/19/remplazar-caracteres-con-java/
- * @description Utilización de cancioncilla para niños como ejemplo para explicar el reemplazo
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date  16/octubre/2007
+ * @url    http://lineadecodigo.com/java/remplazar-caracteres-con-java/
+ * @description UtilizaciÃ³n de cancioncilla para niÃ±os como ejemplo para explicar el reemplazo
  * 					de caracteres en Java.
  */
 
@@ -18,7 +18,7 @@ public class RemplazarCaracteres {
 	   "Cuando Fernando Septimo usaba paleto,\r" +
 	   "paleto, usaba paleto. ";
 	   
-	   // Cantamos la canción
+	   // Cantamos la canciÃ³n
 	   System.out.println(sFernando);
 	   
 	   // Reemplazamos todos los caracteres por a 

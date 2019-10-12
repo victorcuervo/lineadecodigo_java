@@ -4,9 +4,9 @@ package com.lineadecodigo.java.string;
  * @file MayusculasHastaPunto.java
  * @version 1.0
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
- * @date Diciembre 27, 2012
+ * @date 27/diciembre/2012
  * @url http://lineadecodigo.com/java/string-convertir-cadena-a-mayusculas-hasta-encontrar-un-punto/
- * @description Clase que convierte una cadena a mayúsculas desde el inicio hasta el primer punto
+ * @description Clase que convierte una cadena a may√∫sculas desde el inicio hasta el primer punto
  */
 
 public class MayusculasHastaPunto {
@@ -38,7 +38,7 @@ public class MayusculasHastaPunto {
 	}
 	
 	public static void main(String[] args){
-		System.out.println(mayusculasHastaPunto("línea.de.código"));
+		System.out.println(mayusculasHastaPunto("l√≠nea.de.c√≥digo"));
 	}
 	
 }

@@ -4,9 +4,9 @@ package com.lineadecodigo.java.string;
  * @file ReemplazarCadenas.java
  * @version 1.0
  * @author Feffo Calendino (http://lineadecodigo.com/author/feffon/)
- * @date Diciembre 27, 2012
+ * @date 27/diciembre/2012
  * @url http//lineadecodigo.com/java/string-reemplazar-cadenas-con-java/
- * @description C—digo que sustituye una cadena de caracteres por otra.
+ * @description CÃ³digo que sustituye una cadena de caracteres por otra.
  */
 
 

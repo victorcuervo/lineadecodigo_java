@@ -5,10 +5,10 @@ public class ConsonantesPalabra {
 	/**
 	 * @file ConsonantesPalabra.java
 	 * @version 1.0
-	 * @author Linea de Codigo (http://lineadecodigo.com)
+	 * @author Víctor Cuervo (http://lineadecodigo.com)
 	 * @date   23/octubre/2010
 	 * @url    http://lineadecodigo.com/java/contar-las-consonantes-de-una-palabra-con-java/
-	 * @description C�digo que cuenta las consonantes de una palabra 
+	 * @description Código que cuenta las consonantes de una palabra 
 	 */
 	public static void main(String[] args) {
 

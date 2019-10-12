@@ -1,16 +1,13 @@
 package com.lineadecodigo.java.string;
 
-
 /**
  * @file InvertirFrase.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  18/octubre/2009
  * @url    http://lineadecodigo.com/java/invertir-una-frase-en-java/
  * @description Uso de una pila para invertir una frase. 
  */
-
-
 
 import java.util.Stack;
 import java.util.StringTokenizer;

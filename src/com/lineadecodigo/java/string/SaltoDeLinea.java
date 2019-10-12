@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file SaltoDeLinea.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
  * @date   20/diciembre/2006
  * @url  http://lineadecodigo.com/java/string-con-salto-de-linea-en-java/
- * @description Generar una cadena que tenga un salto de línea
+ * @description Generar una cadena que tenga un salto de lÃ­nea
  */
 
 
@@ -14,7 +14,7 @@ public class SaltoDeLinea {
 
 	public static void main(String[] args) {
 
-		String cadena = new String("Mi texto con\nun salto de línea");
+		String cadena = new String("Mi texto con\nun salto de lÃ­nea");
 		System.out.println(cadena);
 
 	}

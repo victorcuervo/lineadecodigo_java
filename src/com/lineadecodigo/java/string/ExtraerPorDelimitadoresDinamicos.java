@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file ExtraerPorDelimitadoresDinamicos.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   30-mayo-2010
- * @url    http://lineadecodigo.com/java/http://lineadecodigo.com/java/extraer-contenido-con-delimitadores-dinamicos/
- * @description Extraer contenido de una cadena de texto atendiendo a un delimitador y utilizando el m�todo split.  
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   30/mayo/2010
+ * @url    http://lineadecodigo.com/java/extraer-contenido-con-delimitadores-dinamicos/
+ * @description Extraer contenido de una cadena de texto atendiendo a un delimitador y utilizando el método split.  
  */
 
 public class ExtraerPorDelimitadoresDinamicos {

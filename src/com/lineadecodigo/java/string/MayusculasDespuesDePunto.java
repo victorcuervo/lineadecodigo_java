@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file MayusculasDespuesDePunto.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date 24.septiembre.09
+ * @author VÃ­ctor Cuervo (http://lineadecodigo.com)
+ * @date 24/septiembre/09
  * @url  http://lineadecodigo.com/java/poner-en-mayusculas-despues-de-punto/
- * @description Convertir a mayúsculas todo carácter que encontremos después de un punto.  
+ * @description Convertir a mayÃºsculas todo carÃ¡cter que encontremos despuÃ©s de un punto.  
  */
 
 
@@ -16,7 +16,7 @@ public class MayusculasDespuesDePunto {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String frase = "hola juan.me ha gustado mucho.hagámonos público.mañana hablamos.luis";		
+		String frase = "hola juan.me ha gustado mucho.hagÃ¡monos pÃºblico.maÃ±ana hablamos.luis";		
 		String frase2 = "";
 		int indice = 0;
 		int indicepunto = 0;
@@ -25,7 +25,7 @@ public class MayusculasDespuesDePunto {
 		indicepunto = frase.indexOf('.',indice);
 		
 		while (indicepunto >=0) {		
-			// El primer carácter es en mayúsculas
+			// El primer carÃ¡cter es en mayÃºsculas
 			frase2 = frase2 + frase.substring(indice,indice+1).toUpperCase();
 			// Pegamos el resto hasta el primer punto	
 			frase2 = frase2 + frase.substring(indice+1,indicepunto+1);

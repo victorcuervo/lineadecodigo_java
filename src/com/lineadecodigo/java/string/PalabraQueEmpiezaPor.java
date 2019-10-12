@@ -5,8 +5,8 @@ import java.util.Scanner;
 /**
  * @file PalabraQueEmpiezaPor.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   20-septiembre-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   20/septiembre/2010
  * @url    http://lineadecodigo.com/java/palabras-que-empiecen-por/
  * @description Juego para que el usuario acierte palabras que comiencen por...
  */
@@ -33,7 +33,9 @@ public class PalabraQueEmpiezaPor {
 		}	
 	
 		System.out.println("Lo siento '" + sTexto + "' no empieza por " + sInicio);
-		System.out.println("Tu puntuación es de " + contador);			
+		System.out.println("Tu puntuación es de " + contador);		
+		
+		reader.close();
 	}
 
 }

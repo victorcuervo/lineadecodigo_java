@@ -3,9 +3,9 @@ package com.lineadecodigo.java.string;
 /**
  * @file ListarCaracteresCadena.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   16-octubre-2007
- * @url    http://lineadecodigo.com/2007/10/17/listar-caracteres-de-una-cadena-con-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   16/octubre/2007
+ * @url    http://lineadecodigo.com/java/listar-caracteres-de-una-cadena-con-java/
  * @description Listar caracter a caracter de una cadena de texto.  
  */
 
@@ -21,9 +21,7 @@ public class ListarCaracteresCadena {
 	   System.out.println("Caracteres");
 	   
 	   for (int x=0;x<s.length();x++)
-	      System.out.println("Caracter " + x + ": " + s.charAt(x));
-	   
-		
+	      System.out.println("Caracter " + x + ": " + s.charAt(x));	
 		
 	}
 

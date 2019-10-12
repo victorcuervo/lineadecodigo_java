@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file EmailsAcabadosEnDotCom.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   23-marzo-2010
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   23/marzo/2010
  * @url    http://lineadecodigo.com/java/detectar-emails-que-finalicen-en-com/
- * @description Utilizar el m�todo .endsWith() para sacar un listado de emails acabados en .com 
+ * @description Utilizar el método .endsWith() para sacar un listado de emails acabados en .com 
  */
 
 public class EmailsAcabadosEnDotCom {

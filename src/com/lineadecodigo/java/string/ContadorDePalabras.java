@@ -3,9 +3,9 @@ package com.lineadecodigo.java.string;
 /**
  * @file ContadorDePalabras.java
  * @version 1.1
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date   19-agosto-2007
- * @url    http://lineadecodigo.com/2007/08/19/contador-de-ocurrencias-en-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date   19/agosto/2007
+ * @url    http://lineadecodigo.com/java/contador-de-ocurrencias-en-java/
  * @description Contar cuantas veces se repite palabra dentro de una cadena.  
  */
 

@@ -3,9 +3,9 @@ package com.lineadecodigo.java.string;
 /**
  * @file Palindromo.java
  * @version 1.2
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  19-septiembre-2007
- * @url    http://lineadecodigo.com/2007/09/19/saber-si-una-palabra-es-un-palindromo-con-java/
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date  19/septiembre/2007
+ * @url    http://lineadecodigo.com/java/saber-si-una-palabra-es-un-palindromo-con-java/
  * @description Una palabra es un palindromo si se lee igual de izquierda a derecha
  * que de derecha a izquierda 
  */
@@ -17,7 +17,7 @@ public class Palindromo {
 		//String sPalabra = "anilina";
 		String sPalabra = "dabale arroz a la zorra el abad";
 		
-		// Si queremos saber si es pal�ndromo una frase
+		// Si queremos saber si es palíndromo una frase
 		// deberemos de borrar los espacios
 		// sPalabra = sPalabra.replace(" ", "");
 		

@@ -3,8 +3,8 @@ package com.lineadecodigo.java.string;
 /**
  * @file AlinearAIzquuerda.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
- * @date  1.noviembre.09
+ * @author Víctor Cuervo (http://lineadecodigo.com)
+ * @date  1/noviembre/09
  * @url    http://lineadecodigo.com/java/alinear-cadena-a-la-izquierda/
  * @description Formatear una cadena para que quede alineada a la izquierda
  */
@@ -26,6 +26,8 @@ public class AlinearAIzquierda {
 		// Sin la clase Formatter
 		String formateado = String.format("Contenido %-8d unidades", number);		
 		System.out.println(formateado);
+		
+		fmt.close();
 		
 	}
 

@@ -3,7 +3,7 @@ package com.lineadecodigo.java.string;
 /**
  * @file VocalesPalabra.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   23/octubre/2010
  * @url    http://lineadecodigo.com/java/contar-las-vocales-de-una-palabra-con-java/
  * @description Código que cuenta las vocales de una palabra 

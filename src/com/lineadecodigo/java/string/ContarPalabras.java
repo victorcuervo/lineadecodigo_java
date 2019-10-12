@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /* 
 * @file ContarPalabras.java
 * @version 1.0
-* @author Víctor Cuervo. (http://lineadecodigo.com)
+* @author VÃ­ctor Cuervo (http://lineadecodigo.com)
 * @date   03/junio/2015
 * @url    http://lineadecodigo.com/java/contar-palabras-en-java/
-* @description Código que cuenta las palabras que hay en una frase
+* @description CÃ³digo que cuenta las palabras que hay en una frase
 */
 
 import java.util.StringTokenizer;
@@ -21,7 +21,7 @@ public class ContarPalabras {
 	    // Particionador
 	    StringTokenizer stTexto = new StringTokenizer(sTexto);
 
-	    //Volcamos el número de palabras separadas
+	    //Volcamos el nÃºmero de palabras separadas
 	    System.out.println ("El numero de palabras de la frase \"" + sTexto + "\" son " +  stTexto.countTokens() );
   }
 

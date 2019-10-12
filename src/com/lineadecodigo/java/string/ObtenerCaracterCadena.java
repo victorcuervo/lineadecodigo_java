@@ -3,10 +3,10 @@ package com.lineadecodigo.java.string;
 /**
  * @file ObtenerCaracterCadena.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author V√≠ctor Cuervo (http://lineadecodigo.com)
  * @date   3/enero/2010
  * @url  http://lineadecodigo.com/java/obtener-un-caracter-de-una-cadena-con-java/
- * @description CÛdigo para obtener un car·cter de una cadena de texto
+ * @description C√≥digo para obtener un car√°cter de una cadena de texto
  */
 
 public class ObtenerCaracterCadena {

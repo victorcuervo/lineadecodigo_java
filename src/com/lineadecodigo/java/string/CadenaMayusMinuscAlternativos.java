@@ -3,7 +3,7 @@ package com.lineadecodigo.java.string;
 /**
  * @file CadenaMayusMinuscAlternativos.java
  * @version 1.0
- * @author Linea de Codigo (http://lineadecodigo.com)
+ * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/marzo/2016
  * @url  http://lineadecodigo.com/java/palabra-mayusculas-minusculas/
  * @description Convierte los caracteres de una cadena a mayúsculas y minúsculas alternativamente
