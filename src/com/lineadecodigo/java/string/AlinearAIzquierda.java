@@ -19,15 +19,19 @@ public class AlinearAIzquierda {
 		int number = 4752;		
 
 		// Con la clase Formatter
-		Formatter fmt = new Formatter();
-		fmt = fmt.format("Contenido %-8d unidades", number);
-		System.out.println(fmt.toString());
-
-		// Sin la clase Formatter
-		String formateado = String.format("Contenido %-8d unidades", number);		
-		System.out.println(formateado);
-		
-		fmt.close();
+		Formatter fmt = null;
+				
+		try {
+			fmt = new Formatter();
+			fmt.format("Contenido %-8d unidades", number);
+			System.out.println(fmt.toString());
+	
+			// Sin la clase Formatter
+			String formateado = String.format("Contenido %-8d unidades", number);		
+			System.out.println(formateado);
+		} finally{			
+			fmt.close();
+		}
 		
 	}
 
