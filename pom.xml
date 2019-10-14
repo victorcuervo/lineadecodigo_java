@@ -38,7 +38,7 @@
   	<dependency>
   		<groupId>org.twitter4j</groupId>
   		<artifactId>twitter4j-core</artifactId>
-  		<version>2.1.2</version>
+  		<version>4.0.7</version>
   	</dependency>
   	<dependency>
   		<groupId>commons-net</groupId>
@@ -59,6 +59,11 @@
   		<groupId>org.apache.derby</groupId>
   		<artifactId>derby</artifactId>
   		<version>10.12.1.1</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>javax.mail</groupId>
+  		<artifactId>mail</artifactId>
+  		<version>1.4</version>
   	</dependency>
   </dependencies>
 </project>
