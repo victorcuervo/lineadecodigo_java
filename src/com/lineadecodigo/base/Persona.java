@@ -34,4 +34,12 @@ public class Persona {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
+	
+	public boolean equals (Persona p) {
+		if (p.nombre.equals(this.nombre) && (p.edad == this.edad))
+			return true;
+		else
+			return false;
+		
+	}
 }
