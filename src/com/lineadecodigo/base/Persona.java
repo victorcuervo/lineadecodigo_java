@@ -35,11 +35,8 @@ public class Persona {
 		this.nombre = nombre;
 	}
 	
-	public boolean equals (Persona p) {
-		if (p.nombre.equals(this.nombre) && (p.edad == this.edad))
-			return true;
-		else
-			return false;
-		
+	@Override
+	public boolean equals (Object p) {
+		return (this.nombre.equals(((Persona)p).nombre) && this.edad==((Persona)p).edad);		
 	}
 }
