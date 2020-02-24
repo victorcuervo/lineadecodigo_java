@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/busqueda-binaria-con-java/
  * @description Buscar un número en mediante una búsqueda binaria de .binarySearch()
  */
 
