@@ -15,13 +15,11 @@ import com.lineadecodigo.base.Persona;
 public class ObjetoJSONGson {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Persona persona = new Persona("Mari Cielo",32);
 	
 		Gson g = new Gson();	
 		System.out.println(g.toJson(persona));
-		
 		
 	}
 
