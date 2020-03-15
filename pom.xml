@@ -18,10 +18,33 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>1.8</source>
+          <target>1.8</target>
         </configuration>
       </plugin>
+      <plugin>
+	    <groupId>org.codehaus.mojo</groupId>
+	    <artifactId>exec-maven-plugin</artifactId>
+	    <executions>
+	        <execution>
+	            <id>run-benchmarks</id>
+	            <phase>integration-test</phase>
+	            <goals>
+	                <goal>exec</goal>
+	            </goals>
+	            <configuration>
+	                <classpathScope>test</classpathScope>
+	                <executable>java</executable>
+	                <arguments>
+	                    <argument>-classpath</argument>
+	                    <classpath />
+	                    <argument>org.openjdk.jmh.Main</argument>
+	                    <argument>.*</argument>
+	                </arguments>
+	            </configuration>
+	        </execution>
+	    </executions>
+	</plugin>
     </plugins>
   </build>
   <dependencies>
@@ -89,6 +112,11 @@
   		<groupId>org.openjdk.jmh</groupId>
   		<artifactId>jmh-generator-annprocess</artifactId>
   		<version>1.21</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.jaunt-lang</groupId>
+  		<artifactId>jaunt</artifactId>
+  		<version>1.9.0-RC4</version>
   	</dependency>
   </dependencies>
 </project>
