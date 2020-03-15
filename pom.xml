@@ -114,9 +114,9 @@
   		<version>1.21</version>
   	</dependency>
   	<dependency>
-  		<groupId>org.jaunt-lang</groupId>
-  		<artifactId>jaunt</artifactId>
-  		<version>1.9.0-RC4</version>
+  		<groupId>org.apache.commons</groupId>
+  		<artifactId>commons-math</artifactId>
+  		<version>2.2</version>
   	</dependency>
   </dependencies>
 </project>
