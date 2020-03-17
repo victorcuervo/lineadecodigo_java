@@ -7,12 +7,12 @@ import java.util.Arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/implementar-una-busqueda-binaria-con-java/
  * @description Implementación en Java de una búsqueda binaria.
  * 
- * 				Dado un array ordenado se busca el número desde la primera posición.
- * 				Si no coincide con el número búscado se búsca en la mitad en la que puede estar.
- * 				Buscando nuevamente desde el elemento del medio.
+ * 	Dado un array ordenado se busca el número desde la primera posición.
+ * 	si no coincide con el número búscado se búsca en la mitad en la que puede estar.
+ * 	Buscando nuevamente desde el elemento del medio.
  */
 
 public class BusquedaBinariaImplementada {
