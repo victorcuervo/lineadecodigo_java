@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  08/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/digitos-de-un-numero-con-logaritmos/
  * @description Número de dígitos de un número mediante el uso de un Logaritmo
  */
 
