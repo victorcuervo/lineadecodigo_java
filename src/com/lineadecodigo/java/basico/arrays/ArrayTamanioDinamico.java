@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   8/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/arrays-dinamicos-en-java/
  * @description Dar un tamaño al Array atendiendo al dato que nos de el usuario por consola.
  */
 
