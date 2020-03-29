@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/marzo/202s0
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/volcar-array-como-cadena/
  * @description Visualizar el contenido de un array como si fuese una cadena, pero con corchetes y separaciones de elementos.s
  */
 
