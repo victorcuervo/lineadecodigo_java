@@ -5,7 +5,7 @@ package com.lineadecodigo.java.json;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/marzo/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/crear-objeto-json-con-gson/
  * @description Convertir un objeto a JSON con la librería Gson de Google  
  */
 
