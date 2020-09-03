@@ -4,15 +4,20 @@ package com.lineadecodigo.java.twitter;
  * @file TwitterJ.java
  * @version 1.0
  * @author Pablo Ruiz (http://lineadecodigo.com)
- * @date   25-abril-2010
+ * @date   25/abril/2010
  * @url    http://lineadecodigo.com/java/usando-la-api-de-twitter4j-en-java/
  * @description Uso de la librería Twitter4J para comunicarnos con el API de Twitter
  */
 
-import java.util.List;
-import twitter4j.*;
+
+// import java.util.List;
+// import twitter4j.*;
 
 public class TwitterJ {
+	
+	// Las cases han sido deprecadas y ahora está explicado en ConectarTwitter
+	
+	/*
 
     private Twitter mi_twitter;
 
@@ -63,4 +68,6 @@ public class TwitterJ {
         mi_twitter.listaDeContactos();
         mi_twitter.nuevoTweet("Tweet para lineadeCodigo.com");
     }
+    
+    */
 }
