@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 
 
-public class PalabraQueEmpiezaPor {
+ public class PalabraQueEmpiezaPor {
 	
 	public static void main(String[] args) {
 		
