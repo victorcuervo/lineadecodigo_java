@@ -9,14 +9,17 @@ package com.lineadecodigo.java.external.jaunt;
  * @description Uso de la librería Jaunt para poder realizar screen scraping con Java
  */
 
-
+/*
 import com.jaunt.ResponseException;
 import com.jaunt.UserAgent;
-
+*/
 
 public class ScreenScraping {
 
 	public static void main(String[] args) {
+		
+		// Jaunt ha pasado a ser una librería de pago
+		/*
 		
 		try {
 			UserAgent userAgent = new UserAgent();
@@ -26,6 +29,8 @@ public class ScreenScraping {
 		} catch (ResponseException re) {
 			re.printStackTrace();
 		} 
+		
+		*/
 
 			
 	}

@@ -9,16 +9,21 @@ package com.lineadecodigo.java.external.jaunt;
  * @description Uso de la librería Jaunt para extraer los enlaces de una web
  */
 
+/*
 import com.jaunt.Elements;
 import com.jaunt.JauntException;
 import com.jaunt.ResponseException;
 import com.jaunt.UserAgent;
 import com.jaunt.Element;
+*/
 
 public class ExtraerEnlaces {
 
 	public static void main(String[] args) {
 		
+		// Jaunt ha pasado a ser una librería de pago
+		
+		/*
 		try {
 			UserAgent userAgent = new UserAgent();
 			userAgent.visit("http://manualweb.net");			
@@ -32,6 +37,7 @@ public class ExtraerEnlaces {
 		} catch (JauntException j){
 			j.printStackTrace();
 		}
+		*/
 			
 	}
 
