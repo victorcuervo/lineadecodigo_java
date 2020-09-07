@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/busqueda-en-un-array-con-streams/
  * @description Realizar una búsqueda mediante Streams de Java 8
  */
 
@@ -15,7 +15,8 @@ public class BusquedaConStreams {
 		
 	private static boolean searchNumber(int[] numbers, int numberToSearch) {
 		
-		return IntStream.of(numbers).anyMatch(x -> x == numberToSearch); 
+		// return IntStream.of(numbers).anyMatch(x -> x == numberToSearch); 
+		return IntStream.of(numbers).anyMatch(element -> element.contains(numberToSearch)); 
 		
 	}
 
