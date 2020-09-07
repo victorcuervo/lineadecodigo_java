@@ -22,29 +22,6 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-      <plugin>
-	    <groupId>org.codehaus.mojo</groupId>
-	    <artifactId>exec-maven-plugin</artifactId>
-	    <executions>
-	        <execution>
-	            <id>run-benchmarks</id>
-	            <phase>integration-test</phase>
-	            <goals>
-	                <goal>exec</goal>
-	            </goals>
-	            <configuration>
-	                <classpathScope>test</classpathScope>
-	                <executable>java</executable>
-	                <arguments>
-	                    <argument>-classpath</argument>
-	                    <classpath />
-	                    <argument>org.openjdk.jmh.Main</argument>
-	                    <argument>.*</argument>
-	                </arguments>
-	            </configuration>
-	        </execution>
-	    </executions>
-	</plugin>
     </plugins>
   </build>
   <dependencies>
@@ -76,7 +53,7 @@
   	<dependency>
   		<groupId>mysql</groupId>
   		<artifactId>mysql-connector-java</artifactId>
-  		<version>5.1.6</version>
+  		<version>8.0.16</version>
   	</dependency>
   	<dependency>
   		<groupId>org.apache.derby</groupId>
@@ -115,8 +92,8 @@
   	</dependency>
   	<dependency>
   		<groupId>org.apache.commons</groupId>
-  		<artifactId>commons-math</artifactId>
-  		<version>2.2</version>
+  		<artifactId>commons-math3</artifactId>
+  		<version>3.6.1</version>
   	</dependency>
   </dependencies>
 </project>
