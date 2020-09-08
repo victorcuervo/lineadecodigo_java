@@ -12,12 +12,6 @@ package com.lineadecodigo.java.basico;
 import java.util.Scanner;
 
 public class ConjeturaCapicua {
-
-	/**
-	 * @param args
-	 */
-	
-
 	
 	static public long invertirNumero(long numero){
 	
@@ -40,7 +34,6 @@ public class ConjeturaCapicua {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner reader = new Scanner(System.in);
 		
@@ -49,9 +42,7 @@ public class ConjeturaCapicua {
 		while (numero<=0) {
 			System.out.println("Dame un número:");
 			numero = reader.nextLong();
-		}
-			
-		
+		}				
 		
 		long numeroInvertido = invertirNumero(numero);
 		
