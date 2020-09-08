@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   09/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/buscar-un-objeto-en-un-array/
  * @description Buscar un objeto en un array
  */
 
@@ -13,7 +13,6 @@ import java.util.Arrays;
 import com.lineadecodigo.base.Persona;
 
 public class BuscarEnArrayObjetos {
-	
 	
 	// El objeto debe de tener implementado el método equals
 	
@@ -25,7 +24,7 @@ public class BuscarEnArrayObjetos {
 
 	public static void main(String[] args) {
 
-		Persona p0 = new Persona("Victor",42);
+		Persona p0 = new Persona("Víctor",42);
 		Persona p1 = new Persona("Marta",34);
 		
 		Persona[] personas = new Persona[2];
