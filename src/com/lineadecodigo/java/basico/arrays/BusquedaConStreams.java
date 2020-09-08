@@ -13,11 +13,8 @@ import java.util.stream.IntStream;
 
 public class BusquedaConStreams {
 		
-	private static boolean searchNumber(int[] numbers, int numberToSearch) {
-		
-		// return IntStream.of(numbers).anyMatch(x -> x == numberToSearch); 
-		return IntStream.of(numbers).anyMatch(element -> element.contains(numberToSearch)); 
-		
+	private static boolean searchNumber(int[] numbers, int numberToSearch) {		
+		return IntStream.of(numbers).anyMatch(x -> x == numberToSearch); 	
 	}
 
 	public static void main(String[] args) {
