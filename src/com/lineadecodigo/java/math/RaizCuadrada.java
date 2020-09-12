@@ -27,7 +27,7 @@ public class RaizCuadrada {
             i=1;
         }
         for(;i<length;i+=2){
-            //se toma los digitos por pares
+            //se toma los dígitos por pares
             try{
                 result.add(new Integer(new Character(numberChars[i]).toString()+
                             new Character(numberChars[i+1]).toString()));                

@@ -5,7 +5,7 @@ package com.lineadecodigo.java.math;
  * @version 1.1
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   25/febrero/2007
- * @url    http://lineadecodigo.com/2007/02/25/calcular-la-hipotenusa-con-java/
+ * @url    http://lineadecodigo.com/java/calcular-la-hipotenusa-con-java/
  * @description Utilización del método hypot para calcular la hipotenusa de un triangulo.  
  */
 

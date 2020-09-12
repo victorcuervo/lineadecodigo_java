@@ -5,7 +5,7 @@ package com.lineadecodigo.java.math;
  * @version 1.1
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   21/diciembre/2006
- * @url    http://lineadecodigo.com/2006/12/21/area-de-un-circulo-en-java/
+ * @url    http://lineadecodigo.com/java/area-de-un-circulo-en-java/
  * @description Uso de la clase Math para el calculo del area de un circulo  
  */
 
