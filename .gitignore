@@ -12,9 +12,22 @@
 hs_err_pid*
 /build/
 /target/
+/.settings/
 
 # Eclipse
 .project
 
-#Mac
+# Mac
 .DS_Store
+
+# MyDB
+/myDB/
+
+# Mis Pruebas
+/src/com/working/
+
+# Logs
+*.log
+
+# Twitter
+twitter4j.properties
