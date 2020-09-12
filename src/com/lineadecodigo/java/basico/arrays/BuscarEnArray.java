@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   09/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/buscar-en-un-array/
  * @description Buscar un elemento en un array
  */
 
