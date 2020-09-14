@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/marzo/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/subarray-en-java/
  * @description Obtener una parte de un array en un nuevo array.
  */
 
