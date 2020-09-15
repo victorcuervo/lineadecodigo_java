@@ -9,7 +9,7 @@ import com.lineadecodigo.base.Persona;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/marzo/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/convertir-un-objeto-a-json-con-jackson/
  * @description Objeto a JSON mediante Jackson
  */
 
