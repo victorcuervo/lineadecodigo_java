@@ -19,7 +19,7 @@ public class AreaRectangulo {
 		
 		area_rectangulo = lado1*lado2;
 		
-		System.out.println("El area de un rectangulo de lado "+lado1+" y lado "+lado2+" es igual a "+area_rectangulo);
+		System.out.println("El area de un rectángulo de lado "+lado1+" y lado "+lado2+" es igual a "+area_rectangulo);
 
 	}
 
