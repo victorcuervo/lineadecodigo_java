@@ -5,7 +5,7 @@ package com.lineadecodigo.java.math;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/septiembre/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/area-de-un-triangulo-escaleno-con-los-lados/
  * @description Uso de la formula de Heron para el cálculo del área de un triángulo escaleno 
  */
 
