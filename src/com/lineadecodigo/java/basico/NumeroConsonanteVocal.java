@@ -7,7 +7,7 @@ import java.io.IOException;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  12/septiembre/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/numero-consonante-o-vocal-en-java/
  * @description Saber si el carácter introducido por consola es un número, una consonante o una vocal.
  */
 
@@ -35,6 +35,8 @@ public class NumeroConsonanteVocal {
                 System.out.println("Has insertado un número");
             } else if (esUn(vocales,c)) {
                 System.out.println("Has insertado una vocal");
+            } else {
+                System.out.println("Has insertado algo que no es una consonante, ni un número, ni una vocal")
             }
 
         } catch (IOException ioe) {
