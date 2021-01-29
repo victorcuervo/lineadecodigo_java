@@ -7,7 +7,7 @@ import java.util.logging.Logger;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/septiembre/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/generar-ips-con-java/
  * @description Programa que genera IPs de forma aleatoria.
  */
 
@@ -15,8 +15,8 @@ public class GeneradorIPs {
     
 
     public static int numeroAleatorio() {
-        // Método que devuelve un número aleatorio entre 1 y 255
-        return (int) (Math.random()*255);
+        // Método que devuelve un número aleatorio entre 0 y 255
+        return (int) (Math.random()*256);
     }
 
     public static String ipAleatoria() {
@@ -41,9 +41,6 @@ public class GeneradorIPs {
        for (int x=0;x<100;x++) {
            System.out.println(ipAleatoria());
        }
-
-
-        
 
     }
     
