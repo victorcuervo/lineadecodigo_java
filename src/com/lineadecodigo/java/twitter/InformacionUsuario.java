@@ -5,7 +5,7 @@ package com.lineadecodigo.java.twitter;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/octubre/2019
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/informacion-de-usuario-twitter-con-java/
  * @description Código que nos devuelve la información de un usuario de Twitter
  */
 
