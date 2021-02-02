@@ -5,7 +5,7 @@ package com.lineadecodigo.java.twitter;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/octubre/2019
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/configurar-la-conexion-de-twitter4j/
  * @description Conectarte a Twitter utilizando una clase de configuración
  */
 
