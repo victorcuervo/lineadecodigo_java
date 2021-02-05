@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2021
- * @url  http://lineadecodigo.com/java/pdte/
+ * @url  http://lineadecodigo.com/java/vocales-abiertas-y-cerradas-con-java/
  * @description Código que dada una frase cuenta las vocales abiertas (a,e y o) y las cerradas ()
  */
 
