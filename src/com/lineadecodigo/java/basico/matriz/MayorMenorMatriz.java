@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.arrays;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   31/enero/2021
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/numero-mayor-y-menor-en-una-matriz/
  * @description Obtener el número mayor y menos además de su posición en una matriz
  */
 
