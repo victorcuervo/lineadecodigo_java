@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.matriz;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   6/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/rotar-una-matriz/
  * @description Rota una matriz 90º en sentido horario
  *  |1      2       3|              |7      4       1|
 *   |4      5       6|      =>      |8      5       2|
