@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   6/febrero/2020
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/numero-compuesto-en-java/
  * @description Calcula si un número es compuesto
  */
 
@@ -38,6 +38,20 @@ public class NumeroCompuesto {
         // No Válidos
         System.out.println(esCompuesto(1));
         System.out.println(esCompuesto(-8));
+
+        int numero = 14;
+        int contador = 2;
+        boolean compuesto = false;
+
+        while ((contador < numero) && !(compuesto)) {
+        if (numero % contador == 0)
+            compuesto = true;
+        contador++;
+        }
+
+        if (compuesto)
+        System.out.println("El número " + numero + " es compuesto. Y se puede componer multiplicando " + --contador + " y " + numero/contador);
+
 
     }
     
