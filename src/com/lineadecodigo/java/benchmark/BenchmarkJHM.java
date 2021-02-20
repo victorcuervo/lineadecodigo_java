@@ -5,7 +5,7 @@ package com.lineadecodigo.java.benchmark;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   15/marzo/2020
- * @url		http://lineadecodigo.con/java/pdte/
+ * @url		http://lineadecodigo.con/java/pruebas-de-rendimiento-con-java-microbenchmark-harness/
  * @description Uso del framework JMH (Java Microbenchmark Harness) para medir el performance de funciones.
  */
 
@@ -33,7 +33,6 @@ import org.openjdk.jmh.runner.options.OptionsBuilder;
 public class BenchmarkJHM {
 	
 	private static final int N = 10_000_000;
-
     private static List<String> DATA_FOR_TESTING = createData();
 
     public static void main(String[] args) throws RunnerException {
