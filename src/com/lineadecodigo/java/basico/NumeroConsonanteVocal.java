@@ -36,7 +36,7 @@ public class NumeroConsonanteVocal {
             } else if (esUn(vocales,c)) {
                 System.out.println("Has insertado una vocal");
             } else {
-                System.out.println("Has insertado algo que no es una consonante, ni un número, ni una vocal")
+                System.out.println("Has insertado algo que no es una consonante, ni un número, ni una vocal");
             }
 
         } catch (IOException ioe) {
