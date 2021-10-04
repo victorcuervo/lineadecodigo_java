@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico.matriz;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   13/marzo/2010
- * @url    http://lineadecodigo.com/java/pdte/
+ * @url    http://lineadecodigo.com/java/rellenar-una-matriz-con-una-cadena-en-java/
  * @description Programa que nos permite convertir una cadena en una matriz
  * 
  *              cadena = "Soy una cadena de texto."
@@ -28,14 +28,17 @@ public class ConvertirCadenaAMatriz {
         int columnas = (int)Math.ceil((float)tamanio/3);
         char[][] matriz = new char[3][columnas];
 
+        int columna = 0;
+        int fila = 0;
+
 
         for (int x=0;x<tamanio;x++) {
 
             // Las columnas se calculan diviendo entre tres
             // Y las filas con el resto de dividir entre tres
 
-            int columna = x/3;
-            int fila = x%3;
+            columna = x/3;
+            fila = x%3;
             matriz[fila][columna] = texto.charAt(x);            
         }
 
