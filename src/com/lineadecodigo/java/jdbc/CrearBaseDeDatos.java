@@ -5,7 +5,7 @@ package com.lineadecodigo.java.jdbc;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   12/octubre/2016
- * @url  http://lineadecodigo.com/java/pdte/
+ * @url  http://lineadecodigo.com/java/crear-una-base-de-datos-en-java/
  * @description Crear una base de datos con Java
  */
 

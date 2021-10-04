@@ -5,7 +5,7 @@ package com.lineadecodigo.java.jdbc;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   13/marzo/2021
- * @url  http://lineadecodigo.com/java/pdte/
+ * @url  http://lineadecodigo.com/java/conectar-a-mariadb-con-java/
  * @description Conexión JDBC a una base de datos MariaDB
  */
 
