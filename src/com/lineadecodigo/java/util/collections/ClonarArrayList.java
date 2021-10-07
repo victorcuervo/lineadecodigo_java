@@ -8,7 +8,7 @@ import java.util.Iterator;
 * @version 1.0
 * @author Víctor Cuervo (http://lineadecodigo.com)
 * @date   6/agosto/2021
-* @url    http://lineadecodigo.com/java/xxx/
+* @url    http://lineadecodigo.com/java/clonar-un-arraylist/
 * @description Código que clona un ArrayList
 */
 
@@ -30,6 +30,9 @@ public class ClonarArrayList {
 	      System.out.println(iter.next());
 
 		ArrayList<String> list2 = (ArrayList<String>)list.clone();
+
+		// Eliminamos un elemento de la lista inicial para ver que no pasa nada en el ArrayList clonado
+		list.remove(0);
 
 		// Obtenemos un Iterador y recorremos la lista.
 		iter = list2.iterator();
