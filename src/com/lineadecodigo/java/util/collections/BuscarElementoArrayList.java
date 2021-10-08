@@ -7,7 +7,7 @@ import java.util.ArrayList;
 * @version 1.0
 * @author Víctor Cuervo (http://lineadecodigo.com)
 * @date   6/agosto/2021
-* @url    http://lineadecodigo.com/java/xxx/
+* @url    http://lineadecodigo.com/java/buscar-elementos-en-un-arraylist/
 * @description Código que nos busca un elemento dentro de un ArrayList
 */
 
@@ -22,13 +22,16 @@ public class BuscarElementoArrayList{
 	    list.add("Luis");
 	    list.add("Francisco");
 
-		String sElementoaBuscar = "Luis";
+		String sElementoaBuscar = "Marta";
+		int posicion = list.indexOf(sElementoaBuscar);
 
-		if (list.indexOf(sElementoaBuscar) >0)
-			System.out.println("El elemento " + sElementoaBuscar + " está en la lista");
+		if (posicion >= 0)
+			System.out.println("El elemento " + sElementoaBuscar + " está en la lista. En la posición " + posicion);
 		else
 			System.out.println("El elemento " + sElementoaBuscar + " NO está en la lista");
-
+			
 	  }
+
+	  
 
 }
