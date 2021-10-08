@@ -1,7 +1,7 @@
 package com.lineadecodigo.java.basico;
 
 /**
- * @file FactorialDeUnNumero.java
+ * @file FactorialDeUnNumeroFor.java
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   17/septiembre/2017
