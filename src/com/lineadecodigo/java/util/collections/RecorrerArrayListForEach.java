@@ -7,7 +7,7 @@ import java.util.ArrayList;
 * @version 1.0
 * @author Víctor Cuervo (http://lineadecodigo.com)
 * @date   6/agosto/2021
-* @url    http://lineadecodigo.com/java/xxx/
+* @url    http://lineadecodigo.com/java/recorrer-un-arraylist-con-lambda-y-foreach/
 * @description Asegura la capacidad de un ArrayList
 */
 
