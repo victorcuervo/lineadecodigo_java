@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   9/octubre/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/factorial-de-un-numero-en-texto/
  * @description Calcular un factorial y poner el resultado como cadena
  */
 
