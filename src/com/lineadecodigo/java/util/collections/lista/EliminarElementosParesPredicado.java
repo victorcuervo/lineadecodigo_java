@@ -5,7 +5,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   11/agosto/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/eliminar-numeros-pares-de-una-lista-con-lambda/
  * @description Elimina los elementos pares de una Lista con un predicado
  */
 
