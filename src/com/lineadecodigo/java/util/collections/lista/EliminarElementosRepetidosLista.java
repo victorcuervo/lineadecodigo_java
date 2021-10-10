@@ -5,7 +5,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   10/agosto/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/eliminar-elementos-repetidos-de-un-arraylist/
  * @description Eliminar todos los elementos repetidos de una lista
  */
 
