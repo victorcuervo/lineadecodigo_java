@@ -10,7 +10,6 @@ package com.lineadecodigo.java.util.collections.lista;
  */
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Iterator;
 
 public class EliminarElementosRepetidosLista {
