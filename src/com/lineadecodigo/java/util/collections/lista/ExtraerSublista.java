@@ -5,7 +5,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   14/agosto/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/extraer-una-sublista-en-java/
  * @description Extrae una sublista de una lista inicial
  */
 
