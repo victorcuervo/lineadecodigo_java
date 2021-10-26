@@ -5,7 +5,7 @@ package com.lineadecodigo.java.util.collections.lista;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   11/agosto/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/mantener-elementos-en-una-lista/
  * @description Mantiene ciertos elementos de una lista y elimina al resto.
  */
 
