@@ -5,7 +5,7 @@ package com.lineadecodigo.java.io;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date   18/agosto/2021
- * @url    http://lineadecodigo.com/java/xxx/
+ * @url    http://lineadecodigo.com/java/personalizar-ioexception/
  * @description Cómo personalizar una IOException 
  */
 
