@@ -5,7 +5,7 @@ package com.lineadecodigo.java.basico;
  * @version 1.0
  * @author Víctor Cuervo (http://lineadecodigo.com)
  * @date  09/octubre/2022
- * @url   http://lineadecodigo.com/java/xxx/
+ * @url   http://lineadecodigo.com/java/numeros-con-digitos-iguales/
  * @description Comprobar que dos números comparte al menos un mismo dígito
  */
 
