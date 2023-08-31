@@ -40,11 +40,11 @@
   		<artifactId>twitter4j-core</artifactId>
   		<version>4.0.7</version>
   	</dependency>
-  	<dependency>
-  		<groupId>commons-net</groupId>
-  		<artifactId>commons-net</artifactId>
-  		<version>3.9</version>
-  	</dependency>
+	<dependency>
+    <groupId>commons-net</groupId>
+    	<artifactId>commons-net</artifactId>
+    	<version>3.9.0</version>
+	</dependency>
   	<dependency>
   		<groupId>javazoom</groupId>
   		<artifactId>jlayer</artifactId>
